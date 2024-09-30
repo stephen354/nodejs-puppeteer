@@ -1,0 +1,5311 @@
+[
+  {
+    "title": "Kapo — Saas Website",
+    "price": "$20",
+    "author": "Clonify",
+    "categories": [
+      "Business",
+      "SaaS",
+      "Startup"
+    ]
+  },
+  {
+    "title": "Conversion — Advertising Agency",
+    "price": "$79",
+    "author": "Hamza Ehsan",
+    "categories": [
+      "Business",
+      "Agency",
+      "Landing Page"
+    ]
+  },
+  {
+    "title": "My Portfolio — Website Template",
+    "price": "$20",
+    "author": "Connelly Rader",
+    "categories": [
+      "Portfolio",
+      "Minimal"
+    ]
+  },
+  {
+    "title": "SAP — Light SaaS Template",
+    "price": "$59",
+    "author": "Praha",
+    "categories": [
+      "SaaS",
+      "Landing Page",
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "title": "Panorama — Creative Showcase Portfolio",
+    "price": "$49.90",
+    "author": "André Lacerda",
+    "categories": [
+      "Agency",
+      "3D",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Nebula — AI Agency Template",
+    "price": "$49",
+    "author": "Tibor Bregman",
+    "categories": [
+      "Agency",
+      "Landing Page",
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "title": "Storm — Saas Landing Page Template",
+    "price": "$39",
+    "author": "Ferdi Aktac",
+    "categories": [
+      "Business",
+      "SaaS",
+      "Landing Page"
+    ]
+  },
+  {
+    "title": "Blnk — Sleek Portfolio",
+    "price": "$49",
+    "author": "Clonify",
+    "categories": [
+      "Agency",
+      "Blog",
+      "Portfolio",
+      "Minimal"
+    ]
+  },
+  {
+    "title": "Future — Cyberpunk Portfolio Template",
+    "price": "$49",
+    "author": "Paul Lapkin",
+    "categories": [
+      "Personal",
+      "Photography",
+      "Portfolio",
+      "Animated"
+    ]
+  },
+  {
+    "title": "Botanical — Modern Template",
+    "price": "$79",
+    "author": "Design Freaks",
+    "categories": [
+      "Business",
+      "Ecommerce",
+      "Entertainment",
+      "Restaurant",
+      "Modern"
+    ]
+  },
+  {
+    "title": "Leverage — Minimal Agency Template",
+    "price": "$49",
+    "author": "Connelly Rader",
+    "categories": [
+      "Agency",
+      "Portfolio",
+      "Minimal"
+    ]
+  },
+  {
+    "title": "DashfolioNEO — Personal Website",
+    "price": "$99",
+    "author": "Cédric Moore",
+    "categories": [
+      "Personal",
+      "Portfolio",
+      "Sidebar"
+    ]
+  },
+  {
+    "title": "Display — Premium Portfolio Website",
+    "price": "$29",
+    "author": "Marc Kuiper",
+    "categories": [
+      "Personal",
+      "Portfolio",
+      "Minimal"
+    ]
+  },
+  {
+    "title": "DailyHub — Documentation Website",
+    "price": "$69",
+    "author": "Dmytri Ivanov",
+    "categories": [
+      "Business",
+      "Documentation",
+      "Ecommerce",
+      "Web3"
+    ]
+  },
+  {
+    "title": "Ora — Premium Agency Template",
+    "price": "$49",
+    "author": "ena supply",
+    "categories": [
+      "Agency",
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Visionary",
+    "price": "$59",
+    "author": "Rizal Yustriadi",
+    "categories": [
+      "Business",
+      "Agency",
+      "Landing Page",
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "FFMinimal — Minimal Portfolio Template",
+    "price": "$49",
+    "author": "Favorit × Frame",
+    "categories": [
+      "Personal",
+      "Portfolio",
+      "Minimal"
+    ]
+  },
+  {
+    "title": "Witter — Premium Saas Ai Template",
+    "price": "$89",
+    "author": "Bobur Mavlonov",
+    "categories": [
+      "Business",
+      "SaaS",
+      "Landing Page",
+      "Startup",
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "title": "FFProduct — Landing Page Template",
+    "price": "$69",
+    "author": "Favorit × Frame",
+    "categories": [
+      "3D",
+      "Landing Page",
+      "Startup"
+    ]
+  },
+  {
+    "title": "Arise — Agency Landing Page Template",
+    "price": "$59",
+    "author": "Praha",
+    "categories": [
+      "Agency",
+      "Landing Page",
+      "Modern"
+    ]
+  },
+  {
+    "title": "Nitro — Portfolio Template",
+    "price": "$69",
+    "author": "Nick Stepuk",
+    "categories": [
+      "Agency",
+      "Personal",
+      "Photography",
+      "Portfolio",
+      "Splash"
+    ]
+  },
+  {
+    "title": "Kim — Unique Modern Portfolio",
+    "price": "$59",
+    "author": "JP",
+    "categories": [
+      "Agency",
+      "Landing Page",
+      "Personal",
+      "Portfolio",
+      "Splash",
+      "Modern"
+    ]
+  },
+  {
+    "title": "Paradox — Startup Website Template",
+    "price": "$78",
+    "author": "UI8",
+    "categories": [
+      "SaaS",
+      "3D",
+      "Startup",
+      "Animated"
+    ]
+  },
+  {
+    "title": "Mintmob — Mobile App Website",
+    "price": "$69",
+    "author": "Oğuz Bülbül",
+    "categories": [
+      "Agency",
+      "Blog",
+      "Landing Page",
+      "Web3",
+      "Artificial Intelligence",
+      "App"
+    ]
+  },
+  {
+    "title": "Mobit — Sleek Mobile App Template",
+    "price": "$49",
+    "author": "FramerBite",
+    "categories": [
+      "Landing Page",
+      "Startup",
+      "App"
+    ]
+  },
+  {
+    "title": "Fargo — Dark Themed Ai & Startup Template",
+    "price": "$79",
+    "author": "Nick Stepuk",
+    "categories": [
+      "SaaS",
+      "Landing Page",
+      "Startup",
+      "Web3",
+      "Artificial Intelligence",
+      "Tech"
+    ]
+  },
+  {
+    "title": "Optimize — SaaS And Startup Template",
+    "price": "$49",
+    "author": "FramerBite",
+    "categories": [
+      "Business",
+      "SaaS",
+      "Startup"
+    ]
+  },
+  {
+    "title": "A14 — Premium Portfolio Template",
+    "price": "$49",
+    "author": "ena supply",
+    "categories": [
+      "Agency",
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Etec — Sleek Online Tech Store Template",
+    "price": "$49",
+    "author": "Tolv.Studio",
+    "categories": [
+      "Business",
+      "Blog",
+      "Ecommerce",
+      "Landing Page",
+      "Personal",
+      "Modern",
+      "Tech"
+    ]
+  },
+  {
+    "title": "Prisma — Portfolio Template",
+    "price": "$39",
+    "author": "Troy Linklater",
+    "categories": [
+      "Personal",
+      "Portfolio",
+      "Modern"
+    ]
+  },
+  {
+    "title": "Haze — Horizontal Portfolio",
+    "price": "$59",
+    "author": "Nick Stepuk",
+    "categories": [
+      "Agency",
+      "Brand Guidelines",
+      "Personal",
+      "Photography",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "noctara — Dark Solopreneur Template",
+    "price": "$79",
+    "author": "Tarun Anand",
+    "categories": [
+      "Blog",
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "WRLD — Agency Profile",
+    "price": "$50",
+    "author": "frame.create",
+    "categories": [
+      "Agency",
+      "Entertainment",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "AWilliams — Portfolio Template",
+    "price": "$49",
+    "author": "NutsDev",
+    "categories": [
+      "Landing Page",
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Rava — Portfolio Template",
+    "price": "$29",
+    "author": "Bobur Mavlonov",
+    "categories": [
+      "Business",
+      "Agency",
+      "Landing Page",
+      "Personal",
+      "Portfolio",
+      "Free"
+    ]
+  },
+  {
+    "title": "FinAI — Startup & Saas Template",
+    "price": "$49",
+    "author": "Anais Iris",
+    "categories": [
+      "3D",
+      "Landing Page",
+      "Startup"
+    ]
+  },
+  {
+    "title": "ApexPro — AI Startup Template",
+    "price": "$97",
+    "author": "Future Things",
+    "categories": [
+      "SaaS",
+      "3D",
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "title": "AliahJohnson — Modern Portfolio Template",
+    "price": "$49",
+    "author": "Kanso",
+    "categories": [
+      "Agency",
+      "Personal",
+      "Photography",
+      "Portfolio",
+      "Modern",
+      "Animated"
+    ]
+  },
+  {
+    "title": "Hook — Digital Agency Template",
+    "price": "$29",
+    "author": "FramerBite",
+    "categories": [
+      "Business",
+      "Agency",
+      "Personal",
+      "Portfolio",
+      "Startup"
+    ]
+  },
+  {
+    "title": "Lunar — Creative Portfolio Template",
+    "price": "$49",
+    "author": "Clonify",
+    "categories": [
+      "Agency",
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Blurr — Creative Aesthetic Template",
+    "price": "$49",
+    "author": "Clonify",
+    "categories": [
+      "Agency",
+      "Blog",
+      "Personal",
+      "Photography",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Bentoze — Bento Portfolio Website",
+    "price": "$49",
+    "author": "Zenite Design Lab",
+    "categories": [
+      "Agency",
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Scalable — Saas Business Template",
+    "price": "$79",
+    "author": "Hamza Ehsan",
+    "categories": [
+      "Business",
+      "SaaS",
+      "Landing Page"
+    ]
+  },
+  {
+    "title": "Olio — Portfolio Template",
+    "price": "$99",
+    "author": "Devanta Ebison",
+    "categories": [
+      "Agency",
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Pix — Dark Portfolio Template",
+    "price": "$49",
+    "author": "Praha",
+    "categories": [
+      "Agency",
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Clowd — Saas Website",
+    "price": "$49",
+    "author": "FramerBite",
+    "categories": [
+      "Business",
+      "SaaS",
+      "Agency",
+      "Landing Page",
+      "Startup",
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "title": "Landify",
+    "price": "$69",
+    "author": "Dmytri Ivanov",
+    "categories": [
+      "Business",
+      "Agency",
+      "Landing Page"
+    ]
+  },
+  {
+    "title": "Narrative — Elegant Portfolio Template",
+    "price": "$99",
+    "author": "Jamik",
+    "categories": [
+      "Agency",
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "CourseOS — Build & Host Your Online Course",
+    "price": "$150",
+    "author": "Cédric Moore",
+    "categories": [
+      "Business",
+      "Membership",
+      "Education"
+    ]
+  },
+  {
+    "title": "SPICE — SAAS products template",
+    "price": "$69",
+    "author": "Dee Spooner",
+    "categories": [
+      "SaaS",
+      "Startup",
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "title": "FFTimeless — Minimal Business Template",
+    "price": "$99",
+    "author": "Favorit × Frame",
+    "categories": [
+      "Business",
+      "Agency",
+      "Ecommerce"
+    ]
+  },
+  {
+    "title": "Vanderbilt — Template For Creative Professions",
+    "price": "$29",
+    "author": "Vlad Sokur",
+    "categories": [
+      "Agency",
+      "Personal",
+      "Photography",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Handyman — Renovation & Repairs Template",
+    "price": "$39",
+    "author": "Pure Templates",
+    "categories": [
+      "Business",
+      "Agency",
+      "Real Estate"
+    ]
+  },
+  {
+    "title": "Wedge — Tech Saas Startup Template",
+    "price": "$59",
+    "author": "Bryn Taylor",
+    "categories": [
+      "SaaS",
+      "Startup",
+      "Tech"
+    ]
+  },
+  {
+    "title": "RealVantage — Modern Real Estate Agency Template",
+    "price": "$29",
+    "author": "FramerXplore",
+    "categories": [
+      "Business",
+      "Agency",
+      "Real Estate"
+    ]
+  },
+  {
+    "title": "Aivara — Midjourney Inspired Portfolio Template",
+    "price": "$19",
+    "author": "Farhan Razak",
+    "categories": [
+      "Blog",
+      "Personal",
+      "Photography",
+      "Portfolio",
+      "Artificial Intelligence",
+      "Animated"
+    ]
+  },
+  {
+    "title": "Bentofy — All-in-One Portfolio Website",
+    "price": "$49",
+    "author": "Cagatayhan",
+    "categories": [
+      "Agency",
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "CogniHub — SaaS & Startup Template",
+    "price": "$46",
+    "author": "Zara",
+    "categories": [
+      "Landing Page",
+      "Startup",
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "title": "Seam de Rad — Studio, Agency, Freelancer",
+    "price": "$79",
+    "author": "Dee Spooner",
+    "categories": [
+      "Agency",
+      "3D",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Cally — Dark Saas Template",
+    "price": "$59",
+    "author": "Pixelpal",
+    "categories": [
+      "Business",
+      "SaaS",
+      "Startup",
+      "Web3"
+    ]
+  },
+  {
+    "title": "FFArchitect — Business Template",
+    "price": "$49",
+    "author": "Favorit × Frame",
+    "categories": [
+      "Business",
+      "Portfolio",
+      "Real Estate"
+    ]
+  },
+  {
+    "title": "Waitlst — Efficient Waitlist Template",
+    "price": "$19",
+    "author": "Johnny Kyorov",
+    "categories": [
+      "Business",
+      "Landing Page",
+      "Startup"
+    ]
+  },
+  {
+    "title": "Learnfy — Personalised Course Platform Template",
+    "price": "$199",
+    "author": "Plaiter",
+    "categories": [
+      "Landing Page",
+      "Membership",
+      "Personal",
+      "Sidebar",
+      "Education"
+    ]
+  },
+  {
+    "title": "Showu — App Showcase Landing Page Template",
+    "price": "$27",
+    "author": "Jean",
+    "categories": [
+      "Landing Page",
+      "Minimal",
+      "App"
+    ]
+  },
+  {
+    "title": "Nairo — Portfolio Website",
+    "price": "$49",
+    "author": "Clonify",
+    "categories": [
+      "Business",
+      "Agency",
+      "Landing Page",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Pixkit — Versatile Saas Template",
+    "price": "$99",
+    "author": "Pixfort",
+    "categories": [
+      "Business",
+      "SaaS",
+      "Agency",
+      "Landing Page",
+      "Startup"
+    ]
+  },
+  {
+    "title": "Dellen — Minimalist Videography Portfolio",
+    "price": "$59",
+    "author": "Sidebay Supply",
+    "categories": [
+      "Business",
+      "Agency",
+      "Entertainment",
+      "Photography",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Zaply — Multi-layout Startup Template",
+    "price": "$49",
+    "author": "FramerBite",
+    "categories": [
+      "Business",
+      "SaaS",
+      "Startup"
+    ]
+  },
+  {
+    "title": "Showcasy — Portfolio Template",
+    "price": "$40",
+    "author": "Dhuhacreative",
+    "categories": [
+      "Agency",
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Memecoin — Cryptocurrency Landing Page Template",
+    "price": "$25",
+    "author": "Martin Hoffelder",
+    "categories": [
+      "Landing Page",
+      "Web3"
+    ]
+  },
+  {
+    "title": "Strata — Contemporary Portfolio Website",
+    "price": "$39",
+    "author": "Jack Elder",
+    "categories": [
+      "Agency",
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Vortex — Ai & Saas Template",
+    "price": "$59",
+    "author": "Thaer Swailem",
+    "categories": [
+      "SaaS",
+      "Startup",
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "title": "Halo — AI Studio Template",
+    "price": "$69",
+    "author": "Tibor Bregman",
+    "categories": [
+      "Agency",
+      "Web3",
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "title": "Fylla — Modern Portfolio Template",
+    "price": "$59",
+    "author": "Pawel Gola",
+    "categories": [
+      "Agency",
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Art&Objects — Premium Store Template",
+    "price": "$49",
+    "author": "ena supply",
+    "categories": [
+      "Business",
+      "Ecommerce",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Zaint — Premium Agency Template",
+    "price": "$49",
+    "author": "OneFramer",
+    "categories": [
+      "Business",
+      "Agency",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Titanium — Saas Website Template",
+    "price": "$39",
+    "author": "Bertan Bakır",
+    "categories": [
+      "Business",
+      "SaaS",
+      "Entertainment",
+      "Landing Page",
+      "Startup",
+      "Modern"
+    ]
+  },
+  {
+    "title": "Chalet — Vacation Booking Template",
+    "price": "$79",
+    "author": "Toni Järvinen",
+    "categories": [
+      "Business",
+      "Landing Page",
+      "Real Estate"
+    ]
+  },
+  {
+    "title": "UI8 Bento Cards — Bentocards Multipurpose Template",
+    "price": "$58",
+    "author": "UI8",
+    "categories": [
+      "Business",
+      "SaaS",
+      "Agency",
+      "Landing Page",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Hypersonic — Conversion Ai Agency Template",
+    "price": "$29",
+    "author": "Arun Space K",
+    "categories": [
+      "Business",
+      "Agency",
+      "Landing Page",
+      "Startup",
+      "Artificial Intelligence",
+      "Tech"
+    ]
+  },
+  {
+    "title": "NexusAI — Nexus Ai",
+    "price": "$69",
+    "author": "Dmytri Ivanov",
+    "categories": [
+      "Agency",
+      "Documentation",
+      "Landing Page",
+      "Startup",
+      "Artificial Intelligence",
+      "App"
+    ]
+  },
+  {
+    "title": "Lunaris — Adaptable Portfolio Template",
+    "price": "$49",
+    "author": "Clonify",
+    "categories": [
+      "Agency",
+      "Landing Page",
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "TodoFusion — Creative Professional Website",
+    "price": "$69",
+    "author": "Dmytri Ivanov",
+    "categories": [
+      "Business",
+      "SaaS",
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "title": "Appleseed — Portfolio Template",
+    "price": "$49",
+    "author": "Nick Stepuk",
+    "categories": [
+      "Agency",
+      "Blog",
+      "Landing Page",
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "VideoHut — Videographer & Video Production House Website",
+    "price": "$69",
+    "author": "Real Mehedi",
+    "categories": [
+      "Business",
+      "Agency",
+      "Personal",
+      "Photography",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Offset — Premium Portfolio Template",
+    "price": "$49",
+    "author": "Bryn Taylor",
+    "categories": [
+      "Agency",
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Dynamiq — Versatile Saas Template",
+    "price": "$59",
+    "author": "Lauri Lännenmäki",
+    "categories": [
+      "Business",
+      "SaaS",
+      "Startup"
+    ]
+  },
+  {
+    "title": "Nextmind — Multipurpose Template",
+    "price": "$49",
+    "author": "Shaig Allahyarli",
+    "categories": [
+      "Business",
+      "SaaS",
+      "Agency",
+      "Startup",
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "title": "Momentum — Sleek Saas Product Website",
+    "price": "$99",
+    "author": "Jamik",
+    "categories": [
+      "SaaS",
+      "Web3",
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "title": "Narayan — Dark Portfolio Template",
+    "price": "$59",
+    "author": "Eamonn Day Lavelle",
+    "categories": [
+      "Agency",
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Altpay — Money Transfer App Template",
+    "price": "$49",
+    "author": "Johnny Kyorov",
+    "categories": [
+      "Business",
+      "Landing Page",
+      "App"
+    ]
+  },
+  {
+    "title": "FFWidgets — Personal Portfolio Template",
+    "price": "$49",
+    "author": "Favorit × Frame",
+    "categories": [
+      "Personal",
+      "Portfolio",
+      "Resume"
+    ]
+  },
+  {
+    "title": "Salesrocket — SaaS, AI, & Startup Template",
+    "price": "$49",
+    "author": "Tanjim Islam",
+    "categories": [
+      "SaaS",
+      "Startup",
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "title": "INKY — 3d Artist & Designer portfolio",
+    "price": "$49",
+    "author": "VINCKIER YVES",
+    "categories": [
+      "3D",
+      "Photography",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Five — Directory & Curation Template",
+    "price": "$60",
+    "author": "Benjo Libor",
+    "categories": [
+      "Blog",
+      "Documentation",
+      "Personal"
+    ]
+  },
+  {
+    "title": "Maverick — Design Portfolio",
+    "price": "$29",
+    "author": "FogShift",
+    "categories": [
+      "Agency",
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Marso — Modern Agency Template",
+    "price": "$39",
+    "author": "Peter Hodak",
+    "categories": [
+      "Business",
+      "SaaS",
+      "Agency"
+    ]
+  },
+  {
+    "title": "TheCurator — Directory & Curation Template",
+    "price": "$69",
+    "author": "Mertcan Esmergül",
+    "categories": [
+      "Business",
+      "Blog",
+      "Changelog",
+      "Documentation",
+      "Sidebar"
+    ]
+  },
+  {
+    "title": "ARCHITECT — Architecture Firm Framer Template",
+    "price": "$69",
+    "author": "Real Mehedi",
+    "categories": [
+      "Business",
+      "Agency",
+      "Landing Page",
+      "Portfolio",
+      "Real Estate"
+    ]
+  },
+  {
+    "title": "Madrid — Travel Photography Template",
+    "price": "$25",
+    "author": "Vibrant Digital",
+    "categories": [
+      "Ecommerce",
+      "Landing Page",
+      "Personal",
+      "Photography",
+      "Portfolio",
+      "Animated"
+    ]
+  },
+  {
+    "title": "Jacob Turner — Premium Portfolio Template",
+    "price": "$49",
+    "author": "ena supply",
+    "categories": [
+      "Agency",
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Kliq — Marketplace Template",
+    "price": "$49",
+    "author": "Clonify",
+    "categories": [
+      "Ecommerce",
+      "Landing Page",
+      "Startup"
+    ]
+  },
+  {
+    "title": "Bonnie — Clean Video & Photography Studio Template",
+    "price": "$50",
+    "author": "Wavesdesign",
+    "categories": [
+      "Business",
+      "Agency",
+      "Landing Page",
+      "Photography",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "MADME — Creative Marketing Agency",
+    "price": "$49",
+    "author": "Tin Kolza",
+    "categories": [
+      "Agency",
+      "Portfolio",
+      "Startup"
+    ]
+  },
+  {
+    "title": "Jonas — One Page Portfolio Template",
+    "price": "$39",
+    "author": "Bryn Taylor",
+    "categories": [
+      "Business",
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "K-Lane — Coffee Shop & Restaurant Template",
+    "price": "$49",
+    "author": "Clonify",
+    "categories": [
+      "Business",
+      "Ecommerce",
+      "Restaurant"
+    ]
+  },
+  {
+    "title": "Brutair — Light Brutalist Template",
+    "price": "$69",
+    "author": "Rezza Mohebbi",
+    "categories": [
+      "Agency",
+      "Portfolio",
+      "Startup"
+    ]
+  },
+  {
+    "title": "Landscaper — Landscaping Service Template",
+    "price": "$57",
+    "author": "Real Mehedi",
+    "categories": [
+      "Business",
+      "Agency",
+      "Landing Page",
+      "Portfolio",
+      "Real Estate"
+    ]
+  },
+  {
+    "title": "AutomatePro — SaaS & Startup Template",
+    "price": "$49",
+    "author": "FramerBite",
+    "categories": [
+      "Business",
+      "SaaS",
+      "Startup"
+    ]
+  },
+  {
+    "title": "Techty — Modern It Webstie",
+    "price": "$27",
+    "author": "FramerBite",
+    "categories": [
+      "Business",
+      "Agency",
+      "Landing Page",
+      "Startup",
+      "Web3",
+      "Tech"
+    ]
+  },
+  {
+    "title": "Intor — Modern Architectural Template",
+    "price": "$67",
+    "author": "Coastal Themes",
+    "categories": [
+      "Photography",
+      "Real Estate",
+      "Modern"
+    ]
+  },
+  {
+    "title": "Linkee — Link in Bio Template",
+    "price": "$29",
+    "author": "Pixelpal",
+    "categories": [
+      "Business",
+      "Personal",
+      "Portfolio",
+      "Minimal"
+    ]
+  },
+  {
+    "title": "Qupe — Saas & Startup Template",
+    "price": "$49",
+    "author": "Ucas Templates",
+    "categories": [
+      "Business",
+      "SaaS",
+      "Startup"
+    ]
+  },
+  {
+    "title": "In-House — Premium Agency Template",
+    "price": "$49",
+    "author": "ena supply",
+    "categories": [
+      "Agency",
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Olane — Creative Portfolio Template",
+    "price": "$19",
+    "author": "Artside",
+    "categories": [
+      "3D",
+      "Photography",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "PurePixel — Portfolio Template",
+    "price": "$39",
+    "author": "Gergő Cserba",
+    "categories": [
+      "Agency",
+      "Photography",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Vigo — Expressive Saas Template",
+    "price": "$67",
+    "author": "Coastal Themes",
+    "categories": [
+      "Ecommerce",
+      "Web3",
+      "Tech"
+    ]
+  },
+  {
+    "title": "Newsplate — Dynamic News & Magazine Template",
+    "price": "$124",
+    "author": "Syafii Ahmad",
+    "categories": [
+      "Blog",
+      "Membership",
+      "Podcast",
+      "News"
+    ]
+  },
+  {
+    "title": "Drive — Ai & SaaS Template",
+    "price": "$99",
+    "author": "Slava Burian",
+    "categories": [
+      "SaaS",
+      "Startup",
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "title": "Canvas — Portfolio Template",
+    "price": "$36",
+    "author": "Habib Rahal",
+    "categories": [
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "ByDrive — Car Rent & Dealership Template",
+    "price": "$49",
+    "author": "WhiteUI.Store",
+    "categories": [
+      "Business",
+      "Ecommerce",
+      "Landing Page"
+    ]
+  },
+  {
+    "title": "Studio Terrace — Agency Template",
+    "price": "$49",
+    "author": "ena supply",
+    "categories": [
+      "Agency",
+      "Blog",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Fusion — AI App Template",
+    "price": "$49",
+    "author": "Jurre Houtkamp",
+    "categories": [
+      "SaaS",
+      "Startup",
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "title": "Harlow — Design Agency Template",
+    "price": "$39",
+    "author": "Carendy Maydianta",
+    "categories": [
+      "Agency",
+      "Portfolio",
+      "Modern"
+    ]
+  },
+  {
+    "title": "Gemstone — Modern Waitlist Template",
+    "price": "$18",
+    "author": "mickces",
+    "categories": [
+      "3D",
+      "Landing Page",
+      "Personal",
+      "Splash",
+      "Startup"
+    ]
+  },
+  {
+    "title": "Consulting — Business & Consultant Template",
+    "price": "$29",
+    "author": "Pure Templates",
+    "categories": [
+      "Business",
+      "Agency",
+      "Modern"
+    ]
+  },
+  {
+    "title": "Mailify — Saas Template",
+    "price": "$39",
+    "author": "Framership",
+    "categories": [
+      "Business",
+      "SaaS",
+      "Landing Page",
+      "Startup",
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "title": "SwissRetreat — Holiday Rental Template",
+    "price": "$49",
+    "author": "Swiss Themes",
+    "categories": [
+      "Health",
+      "Restaurant",
+      "Real Estate"
+    ]
+  },
+  {
+    "title": "Luma — Membership Template",
+    "price": "$69",
+    "author": "Samar Jamil",
+    "categories": [
+      "Business",
+      "Agency",
+      "Membership"
+    ]
+  },
+  {
+    "title": "Rover — Modern Freelancer Template",
+    "price": "$39",
+    "author": "MOUSSA",
+    "categories": [
+      "Agency",
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Reify — Modern Financial Template",
+    "price": "$48",
+    "author": "Cristian Mielu",
+    "categories": [
+      "Business",
+      "3D",
+      "Landing Page"
+    ]
+  },
+  {
+    "title": "Infinite — Premium Agency Template",
+    "price": "$49",
+    "author": "ena supply",
+    "categories": [
+      "Agency",
+      "Portfolio",
+      "Modern"
+    ]
+  },
+  {
+    "title": "Apex Films — Cinematography Portfolio Template",
+    "price": "$49",
+    "author": "ena supply",
+    "categories": [
+      "Agency",
+      "Entertainment",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Crypture — Business Template",
+    "price": "$39",
+    "author": "NutsDev",
+    "categories": [
+      "Business",
+      "3D",
+      "Landing Page"
+    ]
+  },
+  {
+    "title": "Subscription — Subscription Model Template",
+    "price": "$45",
+    "author": "Ramish Aziz",
+    "categories": [
+      "Agency",
+      "Landing Page",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Productize — Agency Website",
+    "price": "$79",
+    "author": "Hamza Ehsan",
+    "categories": [
+      "Business",
+      "Agency",
+      "Landing Page"
+    ]
+  },
+  {
+    "title": "Akio — Portfolio Template",
+    "price": "$27",
+    "author": "Joao Alano",
+    "categories": [
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Rick Brown — Portfolio Template",
+    "price": "$49",
+    "author": "NutsDev",
+    "categories": [
+      "Personal",
+      "Photography",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Alpha — Clean Agency Template",
+    "price": "$49",
+    "author": "fourtwelve",
+    "categories": [
+      "Business",
+      "Agency"
+    ]
+  },
+  {
+    "title": "Blur — Agency & Freelance Website",
+    "price": "$49",
+    "author": "Toni Järvinen",
+    "categories": [
+      "Agency",
+      "Landing Page",
+      "Startup"
+    ]
+  },
+  {
+    "title": "Luca — Premium Portfolio Template",
+    "price": "$49",
+    "author": "ena supply",
+    "categories": [
+      "Agency",
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Plain — Portfolio Template",
+    "price": "$69",
+    "author": "Huseyin Emanet",
+    "categories": [
+      "Agency",
+      "Blog",
+      "Changelog",
+      "Photography",
+      "Portfolio",
+      "Minimal"
+    ]
+  },
+  {
+    "title": "PaperNote — Portfolio Template",
+    "price": "$50",
+    "author": "Nick404",
+    "categories": [
+      "Personal",
+      "Portfolio",
+      "Animated"
+    ]
+  },
+  {
+    "title": "Dashfolio+ — Personal Website",
+    "price": "$199",
+    "author": "Cédric Moore",
+    "categories": [
+      "Membership",
+      "Personal",
+      "Sidebar"
+    ]
+  },
+  {
+    "title": "Genly — Saas & Ai Template",
+    "price": "$54",
+    "author": "Sang",
+    "categories": [
+      "SaaS",
+      "Web3",
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "title": "PixelLab — Agency Template",
+    "price": "$29",
+    "author": "Kanishk Dubey",
+    "categories": [
+      "Business",
+      "Agency",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Interim — Interior Design Studio Framer Template",
+    "price": "$69",
+    "author": "Real Mehedi",
+    "categories": [
+      "Business",
+      "Agency",
+      "Portfolio",
+      "Real Estate"
+    ]
+  },
+  {
+    "title": "Obra — Minimal Design Studio Template",
+    "price": "$49",
+    "author": "Kanso",
+    "categories": [
+      "Agency",
+      "Blog",
+      "Personal",
+      "Portfolio",
+      "Minimal"
+    ]
+  },
+  {
+    "title": "Fluxy — Multi-layout SaaS Template",
+    "price": "$49",
+    "author": "FramerBite",
+    "categories": [
+      "Business",
+      "SaaS",
+      "Startup"
+    ]
+  },
+  {
+    "title": "SaaS Pro — Premium Saas Template",
+    "price": "$79",
+    "author": "Nur Praditya",
+    "categories": [
+      "SaaS",
+      "Landing Page",
+      "Startup"
+    ]
+  },
+  {
+    "title": "Apollo — Portfolio Template",
+    "price": "$49",
+    "author": "Zan Creative",
+    "categories": [
+      "Agency",
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Vertu — Agency Template",
+    "price": "$29",
+    "author": "Hero's Hideout",
+    "categories": [
+      "Business",
+      "Agency",
+      "Modern"
+    ]
+  },
+  {
+    "title": "NextSpace — Interior Design Portfolio",
+    "price": "$29",
+    "author": "FramerBite",
+    "categories": [
+      "Business",
+      "Agency",
+      "Real Estate"
+    ]
+  },
+  {
+    "title": "Mastery — Promote & Host Your Online Course",
+    "price": "$99",
+    "author": "Boon Design",
+    "categories": [
+      "Business",
+      "Ecommerce",
+      "Landing Page",
+      "Membership",
+      "Artificial Intelligence",
+      "Education"
+    ]
+  },
+  {
+    "title": "Pulsefy — Elevate your startup!",
+    "price": "$49",
+    "author": "Ragip Diler",
+    "categories": [
+      "Web3",
+      "Artificial Intelligence",
+      "Tech"
+    ]
+  },
+  {
+    "title": "Monograph — Modern Premium Blog Template",
+    "price": "$39",
+    "author": "Bryn Taylor",
+    "categories": [
+      "Business",
+      "Blog",
+      "Documentation"
+    ]
+  },
+  {
+    "title": "SwissReduce — Ultra Minimalist Template",
+    "price": "$49",
+    "author": "Swiss Themes",
+    "categories": [
+      "Agency",
+      "Photography",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Jasper Films — Portfolio Template",
+    "price": "$49",
+    "author": "Fouroom",
+    "categories": [
+      "Agency",
+      "Personal",
+      "Photography",
+      "Portfolio",
+      "Animated"
+    ]
+  },
+  {
+    "title": "ARKIN — Portfolio Template",
+    "price": "$49",
+    "author": "Ozan Öztaskiran",
+    "categories": [
+      "Agency",
+      "Blog",
+      "3D",
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Bent — Minimal Portfolio",
+    "price": "$59",
+    "author": "Pawel Gola",
+    "categories": [
+      "Agency",
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Mars — Saas Landing Page Template",
+    "price": "$49",
+    "author": "Deserve Studio",
+    "categories": [
+      "SaaS",
+      "Landing Page",
+      "App"
+    ]
+  },
+  {
+    "title": "Kroma — Intuitive Agency Template",
+    "price": "$79",
+    "author": "Clonify",
+    "categories": [
+      "Agency",
+      "Blog",
+      "Landing Page",
+      "Portfolio",
+      "Startup"
+    ]
+  },
+  {
+    "title": "Studio Seinabo — Portoflio Template",
+    "price": "$49",
+    "author": "Daniel Jägerskog",
+    "categories": [
+      "Business",
+      "Agency",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "SwissMinimal — Minimalist Agency Template",
+    "price": "$49",
+    "author": "Swiss Themes",
+    "categories": [
+      "Agency",
+      "Portfolio",
+      "Minimal"
+    ]
+  },
+  {
+    "title": "Fit365 — Health & Fitness Website",
+    "price": "$49",
+    "author": "Goodspeed",
+    "categories": [
+      "Business",
+      "Health",
+      "App"
+    ]
+  },
+  {
+    "title": "Oakwood — Real Estate Template",
+    "price": "$79",
+    "author": "Future Things",
+    "categories": [
+      "Portfolio",
+      "Real Estate",
+      "Minimal"
+    ]
+  },
+  {
+    "title": "Yuki — Portfolio Template",
+    "price": "$59",
+    "author": "Pawel Gola",
+    "categories": [
+      "Agency",
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Kobu — Agency Template",
+    "price": "$49",
+    "author": "Clonify",
+    "categories": [
+      "Agency",
+      "Blog",
+      "Landing Page",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Grha — Real Estate Template",
+    "price": "$49",
+    "author": "DesainDev",
+    "categories": [
+      "Business",
+      "Real Estate"
+    ]
+  },
+  {
+    "title": "Oscar — Modern Portfolio",
+    "price": "$89",
+    "author": "Artside",
+    "categories": [
+      "Agency",
+      "Portfolio",
+      "Modern"
+    ]
+  },
+  {
+    "title": "InnovaAI — Ai Marketing Template",
+    "price": "$59",
+    "author": "FramerBite",
+    "categories": [
+      "SaaS",
+      "Startup",
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "title": "DHarrison — Portfolio Template",
+    "price": "$49",
+    "author": "NutsDev",
+    "categories": [
+      "Personal",
+      "Portfolio",
+      "Sidebar"
+    ]
+  },
+  {
+    "title": "Portray — Portfolio Website",
+    "price": "$59",
+    "author": "Jithin Kumar",
+    "categories": [
+      "Business",
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "KAAY v2.0 — Agency Portfolio Template",
+    "price": "$90",
+    "author": "IMPRF Store",
+    "categories": [
+      "Agency",
+      "Portfolio",
+      "Web3"
+    ]
+  },
+  {
+    "title": "Minima — A minimal portfolio template",
+    "price": "$30",
+    "author": "Connelly Rader",
+    "categories": [
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Digistar — Online Courses Launcher Website",
+    "price": "$89",
+    "author": "Bobur Mavlonov",
+    "categories": [
+      "Business",
+      "Education"
+    ]
+  },
+  {
+    "title": "INKD — Portfolio Template",
+    "price": "$29",
+    "author": "Framerverse",
+    "categories": [
+      "Business",
+      "3D",
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "AL Agency — Agency Template",
+    "price": "$39",
+    "author": "Johnny Kyorov",
+    "categories": [
+      "Agency",
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Nexo — Saas Website Template",
+    "price": "$49",
+    "author": "FramerBite",
+    "categories": [
+      "Business",
+      "SaaS",
+      "Landing Page",
+      "Startup",
+      "Web3",
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "title": "HealthWell — Healthcare Template",
+    "price": "$48",
+    "author": "Cristian Mielu",
+    "categories": [
+      "Business",
+      "Health",
+      "Landing Page"
+    ]
+  },
+  {
+    "title": "KP9 — Portfolio Template",
+    "price": "$129",
+    "author": "THE WALL. ■ COMMUNICATIONS",
+    "categories": [
+      "Business",
+      "Agency",
+      "Brand Guidelines",
+      "Changelog",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "BentoX — Portfolio Template",
+    "price": "$39",
+    "author": "Tamer Magdy",
+    "categories": [
+      "Personal",
+      "Photography",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Zeta — Architecture Template",
+    "price": "$49",
+    "author": "fourtwelve",
+    "categories": [
+      "Business",
+      "Agency",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Web3Bit — Modern Blockchain Template",
+    "price": "$59",
+    "author": "FramerBite",
+    "categories": [
+      "Business",
+      "SaaS",
+      "Startup",
+      "Web3",
+      "Artificial Intelligence",
+      "Modern",
+      "Tech"
+    ]
+  },
+  {
+    "title": "FFArtificial — AI Startup Template",
+    "price": "$49",
+    "author": "Favorit × Frame",
+    "categories": [
+      "Agency",
+      "Startup",
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "title": "Nextfolio — Portfolio Template",
+    "price": "$24",
+    "author": "Shaig Allahyarli",
+    "categories": [
+      "Business",
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Jules Journey — Sleek, Minimalist Portfolio Template",
+    "price": "$69",
+    "author": "Paul Lapkin",
+    "categories": [
+      "Blog",
+      "Personal",
+      "Photography",
+      "Portfolio",
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "title": "Twist — Productized Agency template",
+    "price": "$49",
+    "author": "Firdavs Abdunazarov",
+    "categories": [
+      "Agency",
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Wonderwall — Real Estate Website",
+    "price": "$49",
+    "author": "Selin Aydemir",
+    "categories": [
+      "Business",
+      "Agency",
+      "Real Estate"
+    ]
+  },
+  {
+    "title": "Savage — Project Showcase Template",
+    "price": "$49",
+    "author": "Fireal RESONANCE®",
+    "categories": [
+      "Business",
+      "Agency",
+      "Personal",
+      "Photography",
+      "Portfolio",
+      "Animated"
+    ]
+  },
+  {
+    "title": "Mosaique — Premium Portfolio Template",
+    "price": "$49",
+    "author": "ena supply",
+    "categories": [
+      "Agency",
+      "Portfolio",
+      "Modern"
+    ]
+  },
+  {
+    "title": "Hoffen — Premium Minimal Portfolio",
+    "price": "$49",
+    "author": "Gustave Flowbert",
+    "categories": [
+      "Agency",
+      "Landing Page",
+      "Personal",
+      "Photography",
+      "Portfolio",
+      "Minimal"
+    ]
+  },
+  {
+    "title": "Browse — Directory & Curation Template",
+    "price": "$149",
+    "author": "Cédric Moore",
+    "categories": [
+      "Business",
+      "Membership",
+      "Startup"
+    ]
+  },
+  {
+    "title": "Resolve — Clean Minimal Saas Website",
+    "price": "$40",
+    "author": "Ozenua Oluwatobi",
+    "categories": [
+      "Business",
+      "SaaS",
+      "Landing Page",
+      "Startup",
+      "Artificial Intelligence",
+      "Modern",
+      "Minimal"
+    ]
+  },
+  {
+    "title": "FinTap — Mobile App Landing Page",
+    "price": "$58",
+    "author": "Bobur Mavlonov",
+    "categories": [
+      "Landing Page",
+      "App"
+    ]
+  },
+  {
+    "title": "Protion — Notion Style Marketplace",
+    "price": "$39",
+    "author": "Heman Yong",
+    "categories": [
+      "Business",
+      "Ecommerce",
+      "Landing Page",
+      "Startup"
+    ]
+  },
+  {
+    "title": "Taskify",
+    "price": "$69",
+    "author": "Dmytri Ivanov",
+    "categories": [
+      "Business",
+      "Documentation",
+      "Personal",
+      "Startup",
+      "Artificial Intelligence",
+      "App"
+    ]
+  },
+  {
+    "title": "Dentica — Dental Clinic Template",
+    "price": "$49",
+    "author": "Syafii Ahmad",
+    "categories": [
+      "Health",
+      "Landing Page"
+    ]
+  },
+  {
+    "title": "RUN — Minimal SaaS & Ai Template",
+    "price": "$99",
+    "author": "Slava Burian",
+    "categories": [
+      "SaaS",
+      "Startup",
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "title": "Cuisine — Restaurants And Food Template",
+    "price": "$29",
+    "author": "FramerBite",
+    "categories": [
+      "Business",
+      "Agency",
+      "Health",
+      "Startup",
+      "Web3",
+      "Restaurant",
+      "Food"
+    ]
+  },
+  {
+    "title": "Brandio — Simple Brand Guideline Template",
+    "price": "$50",
+    "author": "Tomáš Hustoles",
+    "categories": [
+      "Agency",
+      "Brand Guidelines",
+      "Documentation"
+    ]
+  },
+  {
+    "title": "Irene — Clean Portfolio Template",
+    "price": "$39",
+    "author": "Bryn Taylor",
+    "categories": [
+      "Agency",
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "TutorPro — Educational Landing Page",
+    "price": "$29",
+    "author": "Eugene Polyansky",
+    "categories": [
+      "Business",
+      "Landing Page",
+      "Education"
+    ]
+  },
+  {
+    "title": "Klio — Minimal Portfolio Page",
+    "price": "$29",
+    "author": "CocoBasic",
+    "categories": [
+      "Personal",
+      "Resume",
+      "Minimal"
+    ]
+  },
+  {
+    "title": "StartupAI — Saas Template",
+    "price": "$57",
+    "author": "Daniela",
+    "categories": [
+      "SaaS",
+      "Documentation",
+      "Landing Page",
+      "Startup",
+      "Artificial Intelligence",
+      "App"
+    ]
+  },
+  {
+    "title": "The Bureau — Template For Agencies",
+    "price": "$28",
+    "author": "Pixsellz",
+    "categories": [
+      "Agency",
+      "Landing Page",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Maxuse — Digital Marketing Agency Website",
+    "price": "$49",
+    "author": "Marcframe",
+    "categories": [
+      "Business",
+      "Agency",
+      "Landing Page",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Profile Hub",
+    "price": "$59",
+    "author": "Mitchell Bernstein",
+    "categories": [
+      "Business",
+      "Blog",
+      "Personal",
+      "Portfolio",
+      "Sidebar"
+    ]
+  },
+  {
+    "title": "Limitless — Premium Design Subscription",
+    "price": "$79",
+    "author": "Hamza Ehsan",
+    "categories": [
+      "Business",
+      "Agency",
+      "Landing Page"
+    ]
+  },
+  {
+    "title": "Crate — Agency Showcase Website",
+    "price": "$49",
+    "author": "Plaiter",
+    "categories": [
+      "Business",
+      "Agency",
+      "Landing Page",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Harrison — Portfolio Template",
+    "price": "$49",
+    "author": "Fouroom",
+    "categories": [
+      "Agency",
+      "Personal",
+      "Portfolio",
+      "Animated"
+    ]
+  },
+  {
+    "title": "Baseline — Portfolio Template",
+    "price": "$59",
+    "author": "Standard Templates",
+    "categories": [
+      "Agency",
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Auxo — Web3 Template",
+    "price": "$49",
+    "author": "FramerBite",
+    "categories": [
+      "Startup",
+      "Web3",
+      "Artificial Intelligence",
+      "Animated"
+    ]
+  },
+  {
+    "title": "Umamia — Restaurant Framer Template",
+    "price": "$26",
+    "author": "AzebThemes",
+    "categories": [
+      "Business",
+      "Entertainment",
+      "Restaurant",
+      "Food"
+    ]
+  },
+  {
+    "title": "Polygon — Gaming & Entertainment Website",
+    "price": "$60",
+    "author": "Fred Moon",
+    "categories": [
+      "Entertainment",
+      "Landing Page",
+      "Startup"
+    ]
+  },
+  {
+    "title": "Nokue — Minimal Agency Portfolio",
+    "price": "$59",
+    "author": "Sidebay Supply",
+    "categories": [
+      "Business",
+      "Agency",
+      "Personal",
+      "Photography",
+      "Portfolio",
+      "Minimal"
+    ]
+  },
+  {
+    "title": "TherapySynt — Landing Page Template",
+    "price": "$29",
+    "author": "Asad Synt",
+    "categories": [
+      "Health",
+      "Landing Page",
+      "Minimal"
+    ]
+  },
+  {
+    "title": "Cleaner — Cleaning Services Website",
+    "price": "$39",
+    "author": "FramerBite",
+    "categories": [
+      "Business",
+      "Agency",
+      "Health",
+      "Landing Page",
+      "Startup"
+    ]
+  },
+  {
+    "title": "Gardener — Landscaper & Exterior Template",
+    "price": "$29",
+    "author": "Pure Templates",
+    "categories": [
+      "Business",
+      "Entertainment",
+      "Real Estate"
+    ]
+  },
+  {
+    "title": "Chronicles — Premium Portfolio Template",
+    "price": "$59",
+    "author": "Rizal Yustriadi",
+    "categories": [
+      "Agency",
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Hyperactive — Design Agency Template",
+    "price": "$45",
+    "author": "Faruk Yurtseven",
+    "categories": [
+      "Business",
+      "Agency",
+      "Landing Page",
+      "Personal"
+    ]
+  },
+  {
+    "title": "Kenjoo — Sleek Modern Portfolio",
+    "price": "$49",
+    "author": "Flowbyherox",
+    "categories": [
+      "Agency",
+      "Blog",
+      "Personal",
+      "Photography",
+      "Portfolio",
+      "Modern"
+    ]
+  },
+  {
+    "title": "HeroCarousel — Agencies & Video Production",
+    "price": "$25",
+    "author": "Fred Moon",
+    "categories": [
+      "Agency",
+      "Landing Page",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Arcane — App Template",
+    "price": "$29",
+    "author": "Trym Foss",
+    "categories": [
+      "SaaS",
+      "Landing Page",
+      "App"
+    ]
+  },
+  {
+    "title": "Crafto — Saas Website",
+    "price": "$29",
+    "author": "FramerBite",
+    "categories": [
+      "Business",
+      "SaaS",
+      "3D",
+      "Startup",
+      "Web3",
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "title": "Secury — Blockchain & Web3 Template",
+    "price": "$49",
+    "author": "FramerBite",
+    "categories": [
+      "Startup",
+      "Web3",
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "title": "Solide — Studio Or Agency Portfolio Framer Template",
+    "price": "$79",
+    "author": "Art4web",
+    "categories": [
+      "Business",
+      "Agency",
+      "Portfolio",
+      "Minimal"
+    ]
+  },
+  {
+    "title": "ADZEN — Marketing Agency Template",
+    "price": "$39",
+    "author": "NutsDev",
+    "categories": [
+      "Business",
+      "Agency",
+      "Landing Page"
+    ]
+  },
+  {
+    "title": "GreenBank — App Launch Website",
+    "price": "$29",
+    "author": "Breeje Anadkat",
+    "categories": [
+      "SaaS",
+      "Landing Page",
+      "App"
+    ]
+  },
+  {
+    "title": "IT/CONF — Conference Template",
+    "price": "$59",
+    "author": "NutsDev",
+    "categories": [
+      "Agency",
+      "Blog"
+    ]
+  },
+  {
+    "title": "DylanCroft — Modern Portfolio Template",
+    "price": "$49",
+    "author": "Krutik Maru",
+    "categories": [
+      "Blog",
+      "Landing Page",
+      "Personal",
+      "Photography",
+      "Portfolio",
+      "Modern"
+    ]
+  },
+  {
+    "title": "R—GB — Portfolio & Agency Template",
+    "price": "$49",
+    "author": "FogShift",
+    "categories": [
+      "Agency",
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Dashfolio — Portfolio Template",
+    "price": "$49",
+    "author": "Cédric Moore",
+    "categories": [
+      "Personal",
+      "Portfolio",
+      "Sidebar"
+    ]
+  },
+  {
+    "title": "Perseus — Minimal And Sleek Portfolio Template",
+    "price": "$39",
+    "author": "Sandeep",
+    "categories": [
+      "Personal",
+      "Portfolio",
+      "Minimal"
+    ]
+  },
+  {
+    "title": "Sticky — Mobile App Showcase",
+    "price": "$39",
+    "author": "Yegor Trukhin",
+    "categories": [
+      "Business",
+      "SaaS",
+      "Landing Page",
+      "Splash",
+      "Startup",
+      "App"
+    ]
+  },
+  {
+    "title": "Duo — Duotone Business Template",
+    "price": "$28",
+    "author": "Kristina Iankova",
+    "categories": [
+      "Agency",
+      "Brand Guidelines",
+      "Ecommerce",
+      "Landing Page",
+      "Splash"
+    ]
+  },
+  {
+    "title": "Lander — Landing Page Template",
+    "price": "$59",
+    "author": "Praha",
+    "categories": [
+      "Agency",
+      "Landing Page",
+      "Modern"
+    ]
+  },
+  {
+    "title": "RISE — Life Coach Template",
+    "price": "$49",
+    "author": "VINCKIER YVES",
+    "categories": [
+      "Health",
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Grion — Mobile App Template",
+    "price": "$49",
+    "author": "Vedant Jamwal",
+    "categories": [
+      "Business",
+      "Landing Page",
+      "Startup",
+      "Artificial Intelligence",
+      "App"
+    ]
+  },
+  {
+    "title": "Supply — Sell Digital Products",
+    "price": "$79",
+    "author": "Cédric Moore",
+    "categories": [
+      "Business",
+      "Ecommerce"
+    ]
+  },
+  {
+    "title": "GINGER — Creative Agencie and Portfolio",
+    "price": "$49",
+    "author": "VINCKIER YVES",
+    "categories": [
+      "Agency",
+      "Portfolio",
+      "Startup"
+    ]
+  },
+  {
+    "title": "Circlex — Saas Template",
+    "price": "$69",
+    "author": "Johnny Kyorov",
+    "categories": [
+      "Business",
+      "SaaS",
+      "Landing Page"
+    ]
+  },
+  {
+    "title": "ClayAI — Saas & AI Startup Template",
+    "price": "$49",
+    "author": "Pentaclay",
+    "categories": [
+      "SaaS",
+      "Documentation",
+      "Landing Page"
+    ]
+  },
+  {
+    "title": "Anticode — Template For Creators",
+    "price": "$49",
+    "author": "Cédric Moore",
+    "categories": [
+      "Business",
+      "Personal",
+      "Sidebar"
+    ]
+  },
+  {
+    "title": "BioCards — Portfolio Template",
+    "price": "$59",
+    "author": "Nikita Ermilov",
+    "categories": [
+      "Blog",
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Adorn — Responsive Agency Template",
+    "price": "$49",
+    "author": "Aalay Rasool",
+    "categories": [
+      "Business",
+      "Agency",
+      "Personal",
+      "Portfolio",
+      "Startup"
+    ]
+  },
+  {
+    "title": "Leevi — Minimal Modern Agency Template",
+    "price": "$59",
+    "author": "Pawel Gola",
+    "categories": [
+      "Agency",
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Clean — Portfolio Template",
+    "price": "$49",
+    "author": "Connelly Rader",
+    "categories": [
+      "Portfolio",
+      "Minimal"
+    ]
+  },
+  {
+    "title": "Archioto — Modern Architecture Template",
+    "price": "$49",
+    "author": "Framero",
+    "categories": [
+      "Business",
+      "Agency",
+      "Blog",
+      "Portfolio",
+      "Real Estate",
+      "Modern"
+    ]
+  },
+  {
+    "title": "CubicStudios — Design Agency Template",
+    "price": "$39",
+    "author": "Breeje Anadkat",
+    "categories": [
+      "Agency",
+      "3D",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Automize — Ai Automation Agency Template",
+    "price": "$49",
+    "author": "Thaer Swailem",
+    "categories": [
+      "Business",
+      "Agency",
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "title": "ustore — Digital Store Template",
+    "price": "$60",
+    "author": "Son Nguyen Xuan",
+    "categories": [
+      "Business",
+      "Ecommerce",
+      "Personal"
+    ]
+  },
+  {
+    "title": "Esteem — Sport Car Dealership Template",
+    "price": "$19",
+    "author": "Daniel Wijaya",
+    "categories": [
+      "Landing Page"
+    ]
+  },
+  {
+    "title": "FinancialGPT — Ai Startup Template",
+    "price": "$75",
+    "author": "Ramish Aziz",
+    "categories": [
+      "SaaS",
+      "Startup",
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "title": "Sanctum — Modern Landing Page",
+    "price": "$29",
+    "author": "Trym Foss",
+    "categories": [
+      "Business",
+      "Health",
+      "Landing Page"
+    ]
+  },
+  {
+    "title": "Fragments — Notion Creator Template",
+    "price": "$48",
+    "author": "Jamik",
+    "categories": [
+      "SaaS",
+      "Landing Page",
+      "Startup"
+    ]
+  },
+  {
+    "title": "Codepunk — Saas & Tech Template",
+    "price": "$97",
+    "author": "Dream Studio",
+    "categories": [
+      "Business",
+      "Landing Page",
+      "Startup",
+      "Web3",
+      "Tech"
+    ]
+  },
+  {
+    "title": "Zenify — Portfolio Website Template",
+    "price": "$59",
+    "author": "Rizal Yustriadi",
+    "categories": [
+      "Agency",
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Lift — Sleek Digital Agency Template",
+    "price": "$30",
+    "author": "Dean",
+    "categories": [
+      "Business",
+      "Agency",
+      "3D",
+      "Landing Page",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Dazler — Landing Page For Agencies",
+    "price": "$49",
+    "author": "andsav",
+    "categories": [
+      "Business",
+      "Agency",
+      "Landing Page",
+      "Startup",
+      "Web3",
+      "Animated"
+    ]
+  },
+  {
+    "title": "SwissAgency — Professional Agency Template",
+    "price": "$49",
+    "author": "Swiss Themes",
+    "categories": [
+      "Agency",
+      "Entertainment",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Virudo — Real Estate Template",
+    "price": "$67",
+    "author": "Coastal Themes",
+    "categories": [
+      "Restaurant",
+      "Real Estate",
+      "Modern"
+    ]
+  },
+  {
+    "title": "Hospitalia — Hospital Framer Template",
+    "price": "$50",
+    "author": "Nuova",
+    "categories": [
+      "Health"
+    ]
+  },
+  {
+    "title": "Ding.AI — Mobile App Template",
+    "price": "$39",
+    "author": "Vedant Jamwal",
+    "categories": [
+      "Landing Page",
+      "Startup",
+      "Artificial Intelligence",
+      "App"
+    ]
+  },
+  {
+    "title": "eLearning — Education Template",
+    "price": "$49",
+    "author": "Template Theater",
+    "categories": [
+      "Business",
+      "Agency",
+      "Blog",
+      "Portfolio",
+      "Education"
+    ]
+  },
+  {
+    "title": "Thryv — The Product Landing Page",
+    "price": "$49",
+    "author": "Mike",
+    "categories": [
+      "Business",
+      "Landing Page",
+      "Minimal"
+    ]
+  },
+  {
+    "title": "SyntStore — Ecommerce Template",
+    "price": "$50",
+    "author": "Asad Synt",
+    "categories": [
+      "Ecommerce",
+      "Landing Page",
+      "Restaurant"
+    ]
+  },
+  {
+    "title": "Nourish — Health & Wellness Template",
+    "price": "$49",
+    "author": "Connelly Rader",
+    "categories": [
+      "Health"
+    ]
+  },
+  {
+    "title": "Sirius+ — Saas Template",
+    "price": "$49",
+    "author": "Sulaimaan Durrani",
+    "categories": [
+      "SaaS",
+      "Startup",
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "title": "Nexus — Saas Template",
+    "price": "$59",
+    "author": "Pawel Gola",
+    "categories": [
+      "SaaS",
+      "Startup",
+      "Tech"
+    ]
+  },
+  {
+    "title": "InnovateXpo — Dynamic Event & Conference Template",
+    "price": "$49",
+    "author": "WildFramer",
+    "categories": [
+      "Entertainment",
+      "Landing Page",
+      "Startup",
+      "Web3"
+    ]
+  },
+  {
+    "title": "Studio B — Premium Portfolio Template",
+    "price": "$49",
+    "author": "ena supply",
+    "categories": [
+      "Agency",
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Fluid — Versatile Agency Template",
+    "price": "$59",
+    "author": "Alex Ciobotaru",
+    "categories": [
+      "Business",
+      "SaaS",
+      "Agency",
+      "Landing Page",
+      "Startup"
+    ]
+  },
+  {
+    "title": "SyncCRM — Saas Framer Template",
+    "price": "$79",
+    "author": "Cédric van Ravesteijn",
+    "categories": [
+      "Business",
+      "SaaS",
+      "Agency",
+      "Blog",
+      "Landing Page",
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "title": "Roomie — Furniture Ecommerce Template",
+    "price": "$79",
+    "author": "Layout Gallery",
+    "categories": [
+      "Business",
+      "Ecommerce",
+      "Startup"
+    ]
+  },
+  {
+    "title": "Studio222 — Ecommerce Streetwear Brand Template",
+    "price": "$47",
+    "author": "Marcus Dutra",
+    "categories": [
+      "Ecommerce",
+      "Photography"
+    ]
+  },
+  {
+    "title": "Aiko — Portfolio Framer Template",
+    "price": "$59",
+    "author": "Pawel Gola",
+    "categories": [
+      "Agency",
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Cashy — Saas Template",
+    "price": "$29",
+    "author": "Bie Lab",
+    "categories": [
+      "SaaS",
+      "Landing Page",
+      "Startup"
+    ]
+  },
+  {
+    "title": "HeavenPalate — Heaven Palate Restaurant Template",
+    "price": "$49",
+    "author": "Pranav NB",
+    "categories": [
+      "Business",
+      "Landing Page",
+      "Restaurant",
+      "Food"
+    ]
+  },
+  {
+    "title": "Cyberfolio — Portfolio Website Template",
+    "price": "$35",
+    "author": "Cédric Moore",
+    "categories": [
+      "Personal",
+      "Portfolio",
+      "Sidebar"
+    ]
+  },
+  {
+    "title": "AlgeniusAI — Modern Ai Landing Page",
+    "price": "$49",
+    "author": "NutsDev",
+    "categories": [
+      "Business",
+      "Landing Page",
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "title": "Dopler — Multi-layout Startup Template",
+    "price": "$49",
+    "author": "FramerBite",
+    "categories": [
+      "Startup",
+      "Web3",
+      "Tech"
+    ]
+  },
+  {
+    "title": "CVictory — Cv Template",
+    "price": "$19",
+    "author": "Boon Design",
+    "categories": [
+      "Business",
+      "Landing Page",
+      "Personal",
+      "Sidebar",
+      "Resume"
+    ]
+  },
+  {
+    "title": "Educate — Digital Course Template",
+    "price": "$69",
+    "author": "Wize",
+    "categories": [
+      "Business",
+      "Membership",
+      "Education"
+    ]
+  },
+  {
+    "title": "Greener — Sustainable Business Template",
+    "price": "$59",
+    "author": "Toni Järvinen",
+    "categories": [
+      "Business",
+      "Landing Page",
+      "Startup"
+    ]
+  },
+  {
+    "title": "Doctr X — Doctor Framer Template",
+    "price": "$129",
+    "author": "BRIX Templates",
+    "categories": [
+      "Health",
+      "Modern",
+      "Minimal"
+    ]
+  },
+  {
+    "title": "Cowork — Coworking & Shared Workspace Framer Template",
+    "price": "$69",
+    "author": "Real Mehedi",
+    "categories": [
+      "Business",
+      "Real Estate",
+      "Modern"
+    ]
+  },
+  {
+    "title": "CryptoVault — Saas & Startup Template",
+    "price": "$49",
+    "author": "Goodspeed",
+    "categories": [
+      "3D",
+      "Web3",
+      "App"
+    ]
+  },
+  {
+    "title": "CoreAI — SaaS Platform Template",
+    "price": "$59",
+    "author": "SaidLIVE",
+    "categories": [
+      "SaaS",
+      "Landing Page",
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "title": "Landiz — Portfolio Template",
+    "price": "$49",
+    "author": "Zaim Asri",
+    "categories": [
+      "Business",
+      "Personal",
+      "Portfolio",
+      "Sidebar"
+    ]
+  },
+  {
+    "title": "James Savage — Creative Portfolio Template",
+    "price": "$49",
+    "author": "FogShift",
+    "categories": [
+      "Agency",
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "77:WEB — Creative Agency Template",
+    "price": "$29",
+    "author": "Danny",
+    "categories": [
+      "Agency",
+      "Landing Page",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "DZNR — Portfolio Template For Graphic Designers",
+    "price": "$29",
+    "author": "Dhrumil Kherde",
+    "categories": [
+      "Landing Page",
+      "Personal",
+      "Portfolio",
+      "Modern"
+    ]
+  },
+  {
+    "title": "Fablz — Modern Business Template",
+    "price": "$49",
+    "author": "Clonify",
+    "categories": [
+      "Business",
+      "Blog",
+      "Landing Page",
+      "Real Estate",
+      "Modern"
+    ]
+  },
+  {
+    "title": "Briza — Interior Design Firm Template",
+    "price": "$29",
+    "author": "FramerBite",
+    "categories": [
+      "Business",
+      "Agency",
+      "Real Estate"
+    ]
+  },
+  {
+    "title": "Griddie — Portfolio & Product Template",
+    "price": "$49",
+    "author": "Kota",
+    "categories": [
+      "Ecommerce",
+      "Portfolio",
+      "Sidebar"
+    ]
+  },
+  {
+    "title": "Tomorrow — Modern Agency Template",
+    "price": "$59",
+    "author": "JP",
+    "categories": [
+      "Business",
+      "SaaS",
+      "Landing Page",
+      "Startup",
+      "Modern"
+    ]
+  },
+  {
+    "title": "Archies — Architecture & Interior Design",
+    "price": "$49",
+    "author": "Peterdraw",
+    "categories": [
+      "Agency",
+      "Portfolio",
+      "Real Estate"
+    ]
+  },
+  {
+    "title": "Barber — Hair Salon & Hairdresser Website Template",
+    "price": "$59",
+    "author": "Real Mehedi",
+    "categories": [
+      "Business",
+      "Agency",
+      "Health",
+      "Landing Page",
+      "Startup"
+    ]
+  },
+  {
+    "title": "Mirak — Portfolio Template",
+    "price": "$99",
+    "author": "Clonify",
+    "categories": [
+      "Membership",
+      "Portfolio",
+      "Sidebar"
+    ]
+  },
+  {
+    "title": "Protion Deluxe — Notion Inspired Template",
+    "price": "$89",
+    "author": "Heman Yong",
+    "categories": [
+      "Blog",
+      "Ecommerce",
+      "Landing Page"
+    ]
+  },
+  {
+    "title": "Revolve — Green Technology Template",
+    "price": "$59",
+    "author": "Medium Rare",
+    "categories": [
+      "Business",
+      "Landing Page",
+      "Tech"
+    ]
+  },
+  {
+    "title": "Paralive — Architecture & Interior Design Template",
+    "price": "$19",
+    "author": "Star821",
+    "categories": [
+      "Business",
+      "Agency",
+      "Blog",
+      "Landing Page",
+      "Real Estate"
+    ]
+  },
+  {
+    "title": "RevX — Automotive Template",
+    "price": "$29",
+    "author": "Drew Builds",
+    "categories": [
+      "Business",
+      "Minimal"
+    ]
+  },
+  {
+    "title": "Glasto — Multi-layout SaaS Template",
+    "price": "$49",
+    "author": "FramerBite",
+    "categories": [
+      "Business",
+      "SaaS",
+      "Startup"
+    ]
+  },
+  {
+    "title": "Consult — Finance & Consultation Website",
+    "price": "$39",
+    "author": "FramerBite",
+    "categories": [
+      "Business",
+      "Agency",
+      "Landing Page",
+      "Startup",
+      "Web3"
+    ]
+  },
+  {
+    "title": "Renova — For Construction & Renovation",
+    "price": "$29",
+    "author": "FramerBite",
+    "categories": [
+      "Business",
+      "Agency",
+      "Real Estate"
+    ]
+  },
+  {
+    "title": "Betahaus — Real Estate Template",
+    "price": "$59",
+    "author": "Ken Nguyen",
+    "categories": [
+      "Business",
+      "Real Estate"
+    ]
+  },
+  {
+    "title": "TalentLink — Saas & Agency Template",
+    "price": "$89",
+    "author": "Nikita Ermilov",
+    "categories": [
+      "Business",
+      "SaaS",
+      "Agency",
+      "Landing Page",
+      "Startup"
+    ]
+  },
+  {
+    "title": "Simplified — Creative Portfolio",
+    "price": "$29",
+    "author": "Hero's Hideout",
+    "categories": [
+      "Agency",
+      "Portfolio",
+      "Modern"
+    ]
+  },
+  {
+    "title": "Awaken — Creative Professionals Template",
+    "price": "$49",
+    "author": "Rafal",
+    "categories": [
+      "Personal",
+      "Portfolio",
+      "Modern",
+      "Animated"
+    ]
+  },
+  {
+    "title": "Process — Design Agency Template",
+    "price": "$49",
+    "author": "Layout Gallery",
+    "categories": [
+      "Business",
+      "Agency",
+      "Landing Page",
+      "Portfolio",
+      "Startup"
+    ]
+  },
+  {
+    "title": "Capture — Portfolio Template",
+    "price": "$49",
+    "author": "Thaer Swailem",
+    "categories": [
+      "Agency",
+      "Photography",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Templify — Digital Store",
+    "price": "$35",
+    "author": "Framify",
+    "categories": [
+      "Business",
+      "Ecommerce",
+      "Membership"
+    ]
+  },
+  {
+    "title": "Darkfolio — Typographic Portfolio Template",
+    "price": "$49",
+    "author": "Bryn Taylor",
+    "categories": [
+      "Agency",
+      "Portfolio",
+      "Minimal"
+    ]
+  },
+  {
+    "title": "Savi — Software & Mobile App Template",
+    "price": "$49",
+    "author": "FramerBite",
+    "categories": [
+      "SaaS",
+      "Landing Page",
+      "Startup"
+    ]
+  },
+  {
+    "title": "OsakaAgency — Osaka Agency",
+    "price": "$49",
+    "author": "Umutcan Eyriyer",
+    "categories": [
+      "Agency",
+      "Landing Page",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Aspect — Personal portfolio template",
+    "price": "$38",
+    "author": "Pixsellz",
+    "categories": [
+      "Agency",
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Profiler — Stylish & Professional Resume Template",
+    "price": "$49",
+    "author": "Kanso",
+    "categories": [
+      "Business",
+      "Landing Page",
+      "Personal",
+      "Portfolio",
+      "Resume"
+    ]
+  },
+  {
+    "title": "BRAMBLE — Restaurant & Bar Template",
+    "price": "$39",
+    "author": "Dan Marek",
+    "categories": [
+      "Restaurant",
+      "Modern",
+      "Food"
+    ]
+  },
+  {
+    "title": "Identify — Branding Portfolio Template",
+    "price": "$69",
+    "author": "Dmytri Ivanov",
+    "categories": [
+      "Agency",
+      "Blog",
+      "Brand Guidelines",
+      "Documentation",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Codify",
+    "price": "$69",
+    "author": "Dmytri Ivanov",
+    "categories": [
+      "Business",
+      "Agency",
+      "Personal",
+      "Portfolio",
+      "Startup"
+    ]
+  },
+  {
+    "title": "UNHINGED — Saas Website",
+    "price": "$59",
+    "author": "Viflor Tiong",
+    "categories": [
+      "Business",
+      "SaaS",
+      "Agency",
+      "Entertainment",
+      "Landing Page",
+      "Startup",
+      "Animated"
+    ]
+  },
+  {
+    "title": "Sopranos",
+    "price": "$49",
+    "author": "Oğuz Bülbül",
+    "categories": [
+      "Landing Page",
+      "Restaurant",
+      "Food"
+    ]
+  },
+  {
+    "title": "Personalfolio — Portfolio Template",
+    "price": "$59",
+    "author": "Ali Çorak",
+    "categories": [
+      "Business",
+      "Blog",
+      "Ecommerce",
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Spectrus — Modern Portfolio",
+    "price": "$29",
+    "author": "Aalay Rasool",
+    "categories": [
+      "Business",
+      "Agency",
+      "Blog",
+      "Personal",
+      "Portfolio",
+      "Modern"
+    ]
+  },
+  {
+    "title": "Mylene — Sleek Agency Studio Template",
+    "price": "$49",
+    "author": "CocoBasic",
+    "categories": [
+      "Business",
+      "Agency",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "LiftFit — Dark Gym and Company Template",
+    "price": "$49",
+    "author": "Praha",
+    "categories": [
+      "Business",
+      "Health",
+      "Modern"
+    ]
+  },
+  {
+    "title": "Drivoxe — Car Rental Template",
+    "price": "$49",
+    "author": "Peterdraw",
+    "categories": [
+      "Business",
+      "Ecommerce",
+      "Landing Page"
+    ]
+  },
+  {
+    "title": "Goeboek — Real Estate and Property Website",
+    "price": "$59",
+    "author": "Marcframe",
+    "categories": [
+      "Business",
+      "Blog",
+      "Real Estate"
+    ]
+  },
+  {
+    "title": "TechNova — Digital Agency Template",
+    "price": "$79",
+    "author": "Onmix",
+    "categories": [
+      "Business",
+      "Agency",
+      "Startup"
+    ]
+  },
+  {
+    "title": "Orbit — Saas Template",
+    "price": "$49",
+    "author": "Wize",
+    "categories": [
+      "SaaS",
+      "Agency",
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "title": "Öberg — Personal Portfolio Template",
+    "price": "$49",
+    "author": "Semih Yılmaz",
+    "categories": [
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Kozmo — Business Website",
+    "price": "$49",
+    "author": "Clonify",
+    "categories": [
+      "Business",
+      "Blog",
+      "Landing Page",
+      "Startup"
+    ]
+  },
+  {
+    "title": "Sirius — Saas Template",
+    "price": "$19",
+    "author": "Sulaimaan Durrani",
+    "categories": [
+      "Business",
+      "SaaS",
+      "Landing Page",
+      "Startup",
+      "Artificial Intelligence",
+      "Minimal"
+    ]
+  },
+  {
+    "title": "iCourses — Dashboard",
+    "price": "$49",
+    "author": "IFRAME DESIGN",
+    "categories": [
+      "Agency",
+      "Blog",
+      "Personal",
+      "Sidebar",
+      "Artificial Intelligence",
+      "Education"
+    ]
+  },
+  {
+    "title": "Swen — Blog & News Template",
+    "price": "$56",
+    "author": "Bora Dan",
+    "categories": [
+      "Business",
+      "Blog",
+      "Changelog",
+      "Entertainment",
+      "Personal",
+      "News"
+    ]
+  },
+  {
+    "title": "Villa Sofia — Real Estate Template",
+    "price": "$49",
+    "author": "ena supply",
+    "categories": [
+      "Business",
+      "Real Estate",
+      "Minimal"
+    ]
+  },
+  {
+    "title": "Landly — Portfolio Template",
+    "price": "$29",
+    "author": "Felix Dorner",
+    "categories": [
+      "Blog",
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Istanbul — All-in-One SaaS Template",
+    "price": "$69",
+    "author": "Cagatayhan",
+    "categories": [
+      "Business",
+      "SaaS",
+      "Startup"
+    ]
+  },
+  {
+    "title": "NGage — Online Marketing Agency Framer Template",
+    "price": "$59",
+    "author": "Cédric van Ravesteijn",
+    "categories": [
+      "Business",
+      "Agency",
+      "Blog",
+      "Landing Page",
+      "Startup"
+    ]
+  },
+  {
+    "title": "Plura — Agency & Portfolio Template",
+    "price": "$49",
+    "author": "Clonify",
+    "categories": [
+      "Agency",
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Campus — Online Mentorship Course",
+    "price": "$69",
+    "author": "Widya Bayu",
+    "categories": [
+      "Business",
+      "Membership",
+      "Education"
+    ]
+  },
+  {
+    "title": "Nikka — Minimal Framer Template",
+    "price": "$59",
+    "author": "Pawel Gola",
+    "categories": [
+      "Business",
+      "Agency",
+      "Startup"
+    ]
+  },
+  {
+    "title": "Abstract — Interior Design Website",
+    "price": "$49",
+    "author": "FramerBite",
+    "categories": [
+      "Business",
+      "Agency",
+      "Personal",
+      "Portfolio",
+      "Startup",
+      "Real Estate"
+    ]
+  },
+  {
+    "title": "Roast — Figma Plugin Landing Page",
+    "price": "$29",
+    "author": "Milan Maheshwari",
+    "categories": [
+      "SaaS",
+      "Landing Page",
+      "Personal",
+      "Minimal"
+    ]
+  },
+  {
+    "title": "Pura — Personal Portfolio",
+    "price": "$39",
+    "author": "Eren Koçak",
+    "categories": [
+      "Blog",
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Manson — Agency Portfolio",
+    "price": "$49",
+    "author": "Shiryoku",
+    "categories": [
+      "Agency",
+      "Landing Page",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Visage — Beauty Template",
+    "price": "$49",
+    "author": "Jemsee D",
+    "categories": [
+      "Business",
+      "Blog",
+      "Health"
+    ]
+  },
+  {
+    "title": "Pulsar — Saas Template",
+    "price": "$59",
+    "author": "Johnny Kyorov",
+    "categories": [
+      "Business",
+      "SaaS",
+      "Landing Page"
+    ]
+  },
+  {
+    "title": "Factiva — Factory & Solar Service Website",
+    "price": "$29",
+    "author": "FramerBite",
+    "categories": [
+      "Business",
+      "Agency",
+      "Real Estate"
+    ]
+  },
+  {
+    "title": "Tallinn — Business And Agency Template",
+    "price": "$67",
+    "author": "Coastal Themes",
+    "categories": [
+      "SaaS",
+      "Ecommerce",
+      "Tech"
+    ]
+  },
+  {
+    "title": "Nutria — Nutritionist Template",
+    "price": "$29",
+    "author": "Adam Sebesta",
+    "categories": [
+      "Health",
+      "Landing Page",
+      "Food"
+    ]
+  },
+  {
+    "title": "NewHarbor — Festival & Event Template",
+    "price": "$39",
+    "author": "Eric Dahl Palmér",
+    "categories": [
+      "Business",
+      "Entertainment",
+      "Restaurant"
+    ]
+  },
+  {
+    "title": "FORYOU — Agency Template",
+    "price": "$69",
+    "author": "Wize",
+    "categories": [
+      "Business",
+      "Agency",
+      "Landing Page",
+      "Startup"
+    ]
+  },
+  {
+    "title": "ibook — Template For Writers",
+    "price": "$65",
+    "author": "Son Nguyen Xuan",
+    "categories": [
+      "Business",
+      "Ecommerce",
+      "Education"
+    ]
+  },
+  {
+    "title": "Resumify — Professional Resume Website",
+    "price": "$29",
+    "author": "Raquel Ferreira",
+    "categories": [
+      "Business",
+      "Agency",
+      "Blog",
+      "Personal",
+      "Portfolio",
+      "Resume"
+    ]
+  },
+  {
+    "title": "Obvious — Sleek Saas Template",
+    "price": "$49",
+    "author": "Qoim",
+    "categories": [
+      "Business",
+      "SaaS",
+      "Startup"
+    ]
+  },
+  {
+    "title": "Gridish — Clean & Minimalistic Service Template",
+    "price": "$27",
+    "author": "João Conrad",
+    "categories": [
+      "Agency",
+      "Landing Page",
+      "Portfolio",
+      "Startup"
+    ]
+  },
+  {
+    "title": "Saul — Creative Portfolio Template",
+    "price": "$49",
+    "author": "raduc",
+    "categories": [
+      "Agency",
+      "Personal",
+      "Photography",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Delish — Marketing & Seo Agency",
+    "price": "$30",
+    "author": "Delani",
+    "categories": [
+      "Business",
+      "Agency",
+      "Landing Page",
+      "Membership"
+    ]
+  },
+  {
+    "title": "Aurora — Modern Finance Template",
+    "price": "$29",
+    "author": "Eugene Polyansky",
+    "categories": [
+      "SaaS",
+      "Landing Page",
+      "Startup"
+    ]
+  },
+  {
+    "title": "Guery — Minimal Portfolio Showcase",
+    "price": "$69",
+    "author": "Sidebay Supply",
+    "categories": [
+      "Business",
+      "Agency",
+      "Personal",
+      "Portfolio",
+      "Startup",
+      "Minimal"
+    ]
+  },
+  {
+    "title": "Vivid — Mobile App Showcase Template",
+    "price": "$39",
+    "author": "Thaer Swailem",
+    "categories": [
+      "Landing Page",
+      "Minimal",
+      "App"
+    ]
+  },
+  {
+    "title": "Vitae — Onepage Online Cv Template",
+    "price": "$29",
+    "author": "Cédric Moore",
+    "categories": [
+      "Personal",
+      "Portfolio",
+      "Resume"
+    ]
+  },
+  {
+    "title": "Edward Hugo — Premium Portfolio Template",
+    "price": "$49",
+    "author": "ena supply",
+    "categories": [
+      "Agency",
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Almond — AI SaaS Template",
+    "price": "$49",
+    "author": "Cagatayhan",
+    "categories": [
+      "Business",
+      "SaaS",
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "title": "RevoSpace — Saas Template",
+    "price": "$29",
+    "author": "Rindly",
+    "categories": [
+      "SaaS",
+      "Agency",
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "title": "Iris Wade — Premium Photography Portfolio",
+    "price": "$49",
+    "author": "ena supply",
+    "categories": [
+      "Personal",
+      "Photography",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Bright — Ecommerce Template",
+    "price": "$49",
+    "author": "Khalid Dashash",
+    "categories": [
+      "Business",
+      "Agency",
+      "Ecommerce",
+      "Membership",
+      "Startup"
+    ]
+  },
+  {
+    "title": "Cipherly — Sleek Brand Guideline Template",
+    "price": "$44",
+    "author": "NutsDev",
+    "categories": [
+      "Agency",
+      "Brand Guidelines",
+      "Documentation"
+    ]
+  },
+  {
+    "title": "ConsultMe — Consulting Template",
+    "price": "$40",
+    "author": "Wavesdesign",
+    "categories": [
+      "Business",
+      "Personal"
+    ]
+  },
+  {
+    "title": "ArchEstate — Real Estate Template",
+    "price": "$38",
+    "author": "Pixsellz",
+    "categories": [
+      "Landing Page",
+      "Real Estate",
+      "Minimal"
+    ]
+  },
+  {
+    "title": "DesignConf — Conference Event Template",
+    "price": "$20",
+    "author": "André Lacerda",
+    "categories": [
+      "Business",
+      "Entertainment",
+      "Sidebar"
+    ]
+  },
+  {
+    "title": "KOKORO — An Elegant Architecture Website",
+    "price": "$69",
+    "author": "Kota",
+    "categories": [
+      "Personal",
+      "Portfolio",
+      "Real Estate"
+    ]
+  },
+  {
+    "title": "Suites — Hotel & Bnb Template",
+    "price": "$59",
+    "author": "Emmanuel Nwankwo",
+    "categories": [
+      "Business",
+      "Landing Page",
+      "Startup",
+      "Restaurant",
+      "Real Estate"
+    ]
+  },
+  {
+    "title": "Luxify — Architecture Agency Template",
+    "price": "$49",
+    "author": "Goodspeed",
+    "categories": [
+      "Business",
+      "Real Estate",
+      "Minimal"
+    ]
+  },
+  {
+    "title": "Vertify — Startup Template",
+    "price": "$49",
+    "author": "Alper Diler",
+    "categories": [
+      "Web3",
+      "Artificial Intelligence",
+      "Tech"
+    ]
+  },
+  {
+    "title": "FramerHub — Membership Template",
+    "price": "$29",
+    "author": "Framify",
+    "categories": [
+      "Blog",
+      "Changelog",
+      "Ecommerce",
+      "Membership",
+      "Startup"
+    ]
+  },
+  {
+    "title": "Resourceful — Rich Saas Landing Page",
+    "price": "$60",
+    "author": "Benjo Libor",
+    "categories": [
+      "SaaS",
+      "Agency",
+      "Landing Page"
+    ]
+  },
+  {
+    "title": "Linker — Link In Bio Template",
+    "price": "$29",
+    "author": "Justin Farrugia",
+    "categories": [
+      "Agency",
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Pavyon — Saas & Startup Template",
+    "price": "$69",
+    "author": "Ucas Templates",
+    "categories": [
+      "Business",
+      "SaaS",
+      "Startup"
+    ]
+  },
+  {
+    "title": "NovaSolutions — Modern Digital Agency Template",
+    "price": "$29",
+    "author": "Shubham Biswas",
+    "categories": [
+      "Agency",
+      "Blog",
+      "3D",
+      "Personal",
+      "Portfolio",
+      "Modern",
+      "Animated"
+    ]
+  },
+  {
+    "title": "Laonga Event — Laonga Conference & Event Template",
+    "price": "$53",
+    "author": "AzebThemes",
+    "categories": [
+      "Business",
+      "Entertainment"
+    ]
+  },
+  {
+    "title": "PeaceHub — Modern Health Services Template",
+    "price": "$39",
+    "author": "Peterdraw",
+    "categories": [
+      "Business",
+      "Health",
+      "Landing Page"
+    ]
+  },
+  {
+    "title": "Urban — Real Estate Template",
+    "price": "$49",
+    "author": "Usman Cheema",
+    "categories": [
+      "Ecommerce",
+      "Landing Page",
+      "Real Estate"
+    ]
+  },
+  {
+    "title": "LondonHotel — Luxury Hotel Template",
+    "price": "$69",
+    "author": "IFRAME DESIGN",
+    "categories": [
+      "Business",
+      "Personal",
+      "Restaurant",
+      "Real Estate"
+    ]
+  },
+  {
+    "title": "Dashcraft — Creative Design Agency Template",
+    "price": "$59",
+    "author": "Emily Clarke",
+    "categories": [
+      "Business",
+      "SaaS",
+      "Agency",
+      "Startup",
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "title": "Flowboard — Framer Prototyping Template",
+    "price": "$69",
+    "author": "Dmytri Ivanov",
+    "categories": [
+      "Business",
+      "SaaS",
+      "Agency",
+      "Landing Page",
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "title": "LucasWay — Creative Portfolio Template",
+    "price": "$49",
+    "author": "andsav",
+    "categories": [
+      "Business",
+      "Agency",
+      "Personal",
+      "Photography",
+      "Portfolio",
+      "Animated"
+    ]
+  },
+  {
+    "title": "Waita — Modern Waitlist Template",
+    "price": "$14",
+    "author": "Julien Vier",
+    "categories": [
+      "Business",
+      "Landing Page",
+      "Tech"
+    ]
+  },
+  {
+    "title": "AIQ — Ai Template",
+    "price": "$39",
+    "author": "NutsDev",
+    "categories": [
+      "Business",
+      "Agency",
+      "Landing Page"
+    ]
+  },
+  {
+    "title": "Opal — Ecommerce Template",
+    "price": "$80",
+    "author": "Fabian Albert",
+    "categories": [
+      "Business",
+      "Ecommerce",
+      "Membership"
+    ]
+  },
+  {
+    "title": "Groomer — Pet Salon & Grooming Template",
+    "price": "$57",
+    "author": "Real Mehedi",
+    "categories": [
+      "Business",
+      "Health",
+      "Landing Page",
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Synergy — Versatile Startup Template",
+    "price": "$39",
+    "author": "DesignPad",
+    "categories": [
+      "Blog",
+      "Startup",
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "title": "Sensa — Online Therapy Template",
+    "price": "$49",
+    "author": "ena supply",
+    "categories": [
+      "Business",
+      "Health",
+      "Startup"
+    ]
+  },
+  {
+    "title": "Minimal — Clean Portfolio Template",
+    "price": "$25",
+    "author": "Bryn Taylor",
+    "categories": [
+      "Agency",
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "TAT — Tattoo Studio Template",
+    "price": "$29",
+    "author": "Ivan Qiu",
+    "categories": [
+      "Business",
+      "Personal",
+      "Photography"
+    ]
+  },
+  {
+    "title": "BlueMonday — Brand Design Guidelines Template",
+    "price": "$50",
+    "author": "Tomáš Hustoles",
+    "categories": [
+      "Brand Guidelines",
+      "Changelog",
+      "Sidebar"
+    ]
+  },
+  {
+    "title": "Pre-Seed Startup — Startup Template",
+    "price": "$49",
+    "author": "Alexander Michaelis",
+    "categories": [
+      "Changelog",
+      "Landing Page",
+      "Startup"
+    ]
+  },
+  {
+    "title": "Quantum Invoices",
+    "price": "$29",
+    "author": "Paul Lapkin",
+    "categories": [
+      "Business",
+      "SaaS",
+      "Documentation",
+      "Personal"
+    ]
+  },
+  {
+    "title": "Skyline — Real Estate Showcase Templates",
+    "price": "$49",
+    "author": "Nuova",
+    "categories": [
+      "Landing Page",
+      "Real Estate"
+    ]
+  },
+  {
+    "title": "Foliume — Portfolio Template",
+    "price": "$49",
+    "author": "Brandio",
+    "categories": [
+      "Blog",
+      "Personal",
+      "Resume"
+    ]
+  },
+  {
+    "title": "Kaiko — Modern Saas Template",
+    "price": "$59",
+    "author": "Pawel Gola",
+    "categories": [
+      "SaaS",
+      "Startup",
+      "Tech"
+    ]
+  },
+  {
+    "title": "Dropout — Modern Template For Design & Creative Agencies",
+    "price": "$19",
+    "author": "Star821",
+    "categories": [
+      "Business",
+      "Agency",
+      "Blog",
+      "Landing Page",
+      "Portfolio",
+      "Modern"
+    ]
+  },
+  {
+    "title": "Prestige",
+    "price": "$99",
+    "author": "Dream Studio",
+    "categories": [
+      "SaaS",
+      "Startup",
+      "Web3",
+      "Modern"
+    ]
+  },
+  {
+    "title": "Mangostudio — Design Agency Studio Template",
+    "price": "$20",
+    "author": "Umeh Chinonso Vincent",
+    "categories": [
+      "Business",
+      "Agency",
+      "Blog",
+      "Portfolio",
+      "Startup"
+    ]
+  },
+  {
+    "title": "Velvet — Marketing Agency Template",
+    "price": "$39",
+    "author": "Wize",
+    "categories": [
+      "Business",
+      "Agency",
+      "Startup",
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "title": "AestheticX — Multitask Portfolio Template",
+    "price": "$59",
+    "author": "Nirodha",
+    "categories": [
+      "Business",
+      "SaaS",
+      "Agency",
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Dompet — Financial Landing Page Template",
+    "price": "$45",
+    "author": "Asril",
+    "categories": [
+      "Business",
+      "SaaS",
+      "Landing Page",
+      "Startup",
+      "App"
+    ]
+  },
+  {
+    "title": "Rush — Saas & Startup Website",
+    "price": "$49",
+    "author": "Vasco Ferreira",
+    "categories": [
+      "Business",
+      "SaaS",
+      "Changelog",
+      "Startup",
+      "Web3",
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "title": "Radiyal — Modern Saas & Startup Template",
+    "price": "$29",
+    "author": "Alberto",
+    "categories": [
+      "Agency",
+      "Landing Page",
+      "Startup"
+    ]
+  },
+  {
+    "title": "Reliable — Car Dealership Ecom. Template",
+    "price": "$49",
+    "author": "João Barbosa",
+    "categories": [
+      "Business",
+      "Ecommerce",
+      "Modern"
+    ]
+  },
+  {
+    "title": "Orbe — Portfolio Template",
+    "price": "$49",
+    "author": "Clonify",
+    "categories": [
+      "Agency",
+      "Blog",
+      "Personal",
+      "Portfolio",
+      "Minimal"
+    ]
+  },
+  {
+    "title": "Dashby — Personal Portfolio Template",
+    "price": "$35",
+    "author": "Eldyn Mohammad",
+    "categories": [
+      "Blog",
+      "Documentation",
+      "Personal",
+      "Portfolio",
+      "Sidebar",
+      "Resume"
+    ]
+  },
+  {
+    "title": "Fleeting — Versatile Professional Template",
+    "price": "$39",
+    "author": "Allan Kinet",
+    "categories": [
+      "Agency",
+      "Blog",
+      "Landing Page",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Instrument — Portfolio Template",
+    "price": "$29",
+    "author": "Vedant Jamwal",
+    "categories": [
+      "Business",
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "La Paloma — Cafe, Bar Or Restaurant Framer Template",
+    "price": "$49",
+    "author": "Art4web",
+    "categories": [
+      "Business",
+      "Restaurant",
+      "Food"
+    ]
+  },
+  {
+    "title": "Luxus Residenz — Real Estate Template",
+    "price": "$49",
+    "author": "Anoop C",
+    "categories": [
+      "Business",
+      "Blog",
+      "Landing Page",
+      "Real Estate"
+    ]
+  },
+  {
+    "title": "MediAid — Medical & Health Care Template",
+    "price": "$29",
+    "author": "FramerDevs",
+    "categories": [
+      "Business",
+      "Agency",
+      "Blog",
+      "Health",
+      "Startup"
+    ]
+  },
+  {
+    "title": "Ryan Cole — Premium Portfolio Template",
+    "price": "$49",
+    "author": "ena supply",
+    "categories": [
+      "Blog",
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "AllSaaS — Saas Website",
+    "price": "$29",
+    "author": "FogShift",
+    "categories": [
+      "Business",
+      "SaaS",
+      "Startup"
+    ]
+  },
+  {
+    "title": "Onyx+Pearl — Minimalist Portfolio Templated",
+    "price": "$12",
+    "author": "Matt Ahrens",
+    "categories": [
+      "Landing Page",
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Church — Modern Church Template",
+    "price": "$49",
+    "author": "Evan Smith",
+    "categories": [
+      "Business",
+      "Blog",
+      "Podcast",
+      "Free"
+    ]
+  },
+  {
+    "title": "Cloudify — Tech Startup Template",
+    "price": "$19",
+    "author": "Studio Ilker",
+    "categories": [
+      "Business",
+      "Startup",
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "title": "Mellow — Sell Digital Products!",
+    "price": "$49",
+    "author": "Samar Jamil",
+    "categories": [
+      "Business",
+      "Ecommerce",
+      "Animated"
+    ]
+  },
+  {
+    "title": "Knuff — Minimal Ecommerce Template",
+    "price": "$49",
+    "author": "Evenbloom",
+    "categories": [
+      "Business",
+      "Ecommerce",
+      "Membership",
+      "Minimal"
+    ]
+  },
+  {
+    "title": "Linx — Link Tree Template",
+    "price": "$15",
+    "author": "Cédric Moore",
+    "categories": [
+      "Landing Page",
+      "Personal",
+      "Splash"
+    ]
+  },
+  {
+    "title": "Mocha — Cafe Template",
+    "price": "$29",
+    "author": "Vilu",
+    "categories": [
+      "Business",
+      "Landing Page",
+      "Personal",
+      "Startup",
+      "Restaurant",
+      "Food"
+    ]
+  },
+  {
+    "title": "DesignCommerce — Ecommerce Template",
+    "price": "$27",
+    "author": "DOR Design",
+    "categories": [
+      "Business",
+      "Ecommerce",
+      "Landing Page",
+      "Membership"
+    ]
+  },
+  {
+    "title": "Obsidian — Minimalist Designer & Developer Template",
+    "price": "$29",
+    "author": "Hue Supply",
+    "categories": [
+      "Business",
+      "Blog",
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "ArtSpotter — Portfolio Artlist Website",
+    "price": "$24",
+    "author": "Cristian Mielu",
+    "categories": [
+      "Blog",
+      "Photography",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Slidefolio — Turn pages to dynamic presentation",
+    "price": "$39",
+    "author": "Astranity",
+    "categories": [
+      "Personal",
+      "Portfolio",
+      "Resume"
+    ]
+  },
+  {
+    "title": "Bravo — Dynamic Agency Template",
+    "price": "$59",
+    "author": "Nick Stepuk",
+    "categories": [
+      "Business",
+      "Agency",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Alzen — Dynamic Saas Template",
+    "price": "$52",
+    "author": "Framership",
+    "categories": [
+      "Business",
+      "SaaS",
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "title": "CONCRETE — Agency & Studio Template",
+    "price": "$49",
+    "author": "Ludovic Losco",
+    "categories": [
+      "Agency",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Poison — Agency & Portfolio Template",
+    "price": "$49",
+    "author": "FogShift",
+    "categories": [
+      "Agency",
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Format — Clean portfolio template",
+    "price": "$35",
+    "author": "Bryn Taylor",
+    "categories": [
+      "Agency",
+      "Portfolio",
+      "Minimal"
+    ]
+  },
+  {
+    "title": "Altech — Ecommerce Solution",
+    "price": "$89",
+    "author": "Plaiter",
+    "categories": [
+      "Business",
+      "Ecommerce",
+      "Animated"
+    ]
+  },
+  {
+    "title": "Sabric — Saas Website",
+    "price": "$29",
+    "author": "FramerBite",
+    "categories": [
+      "Business",
+      "SaaS",
+      "3D",
+      "Landing Page",
+      "Startup",
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "title": "Agencive — Scalable Subscription Template",
+    "price": "$49",
+    "author": "Tolv.Studio",
+    "categories": [
+      "Business",
+      "Agency",
+      "Landing Page",
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Urbis — Construction Template",
+    "price": "$49",
+    "author": "Dmytro Taranets",
+    "categories": [
+      "Business",
+      "Real Estate"
+    ]
+  },
+  {
+    "title": "Wordcraft — Ai Saas Template",
+    "price": "$49",
+    "author": "Sailr",
+    "categories": [
+      "Business",
+      "SaaS",
+      "Agency",
+      "Landing Page",
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "title": "KAAY — Brand Guidelines Template",
+    "price": "$50",
+    "author": "IMPRF Store",
+    "categories": [
+      "Brand Guidelines",
+      "Documentation"
+    ]
+  },
+  {
+    "title": "Cloud — Multilayout Saas Template",
+    "price": "$79",
+    "author": "Modula",
+    "categories": [
+      "Business",
+      "SaaS",
+      "Startup"
+    ]
+  },
+  {
+    "title": "SoloStore — Minimalist Ecommerce Template",
+    "price": "$39",
+    "author": "Lauri Lännenmäki",
+    "categories": [
+      "Ecommerce",
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Solide CV — Your Framer Template For Cv Or Personal Website",
+    "price": "$19",
+    "author": "Art4web",
+    "categories": [
+      "Landing Page",
+      "Personal",
+      "Splash",
+      "Resume",
+      "Animated"
+    ]
+  },
+  {
+    "title": "Conflux — Event & Conference Template",
+    "price": "$29",
+    "author": "FramerBite",
+    "categories": [
+      "Entertainment",
+      "Landing Page",
+      "Splash",
+      "Startup"
+    ]
+  },
+  {
+    "title": "FORM STUDIO — Modern Framer Template For Architecture Studios",
+    "price": "$15",
+    "author": "Daniel Muszyński",
+    "categories": [
+      "Agency",
+      "Photography",
+      "Portfolio",
+      "Real Estate",
+      "Modern"
+    ]
+  },
+  {
+    "title": "StrongX — Fitness Template",
+    "price": "$79",
+    "author": "Truong Huy",
+    "categories": [
+      "Health",
+      "Modern",
+      "Minimal"
+    ]
+  },
+  {
+    "title": "Dokumen — Ultimate Documentation Template",
+    "price": "$45",
+    "author": "Zul Azman",
+    "categories": [
+      "Business",
+      "Documentation",
+      "Web3"
+    ]
+  },
+  {
+    "title": "LuckyStar — Creative Portfolio Website",
+    "price": "$29",
+    "author": "Jack Elder",
+    "categories": [
+      "Agency",
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Markitick — Saas & Business Template",
+    "price": "$29",
+    "author": "Rishad",
+    "categories": [
+      "Business",
+      "Agency",
+      "Blog",
+      "Startup",
+      "Animated"
+    ]
+  },
+  {
+    "title": "Tiny Agency — Dynamic Agency Template",
+    "price": "$25",
+    "author": "Tomáš Hustoles",
+    "categories": [
+      "Agency",
+      "Portfolio",
+      "Startup"
+    ]
+  },
+  {
+    "title": "Archive — Construction & Architecture",
+    "price": "$39",
+    "author": "Marcframe",
+    "categories": [
+      "Business",
+      "Portfolio",
+      "Real Estate"
+    ]
+  },
+  {
+    "title": "BetterMedical — Healthcare Template",
+    "price": "$49",
+    "author": "Emmanuel Nwankwo",
+    "categories": [
+      "Business",
+      "Health"
+    ]
+  },
+  {
+    "title": "Glimp — Saas & Startup Framer Template",
+    "price": "$29",
+    "author": "FramerDevs",
+    "categories": [
+      "SaaS",
+      "Agency",
+      "Landing Page",
+      "Portfolio",
+      "Startup",
+      "Modern"
+    ]
+  },
+  {
+    "title": "Accent — Minimal Portfolio Template",
+    "price": "$35",
+    "author": "Bryn Taylor",
+    "categories": [
+      "Agency",
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Sellfile — Directory Website",
+    "price": "$70",
+    "author": "Filip Gadzinski",
+    "categories": [
+      "Business",
+      "Ecommerce",
+      "Landing Page",
+      "Membership",
+      "Startup"
+    ]
+  },
+  {
+    "title": "Agento — Agency Template",
+    "price": "$49",
+    "author": "VictorFlow",
+    "categories": [
+      "Agency",
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Litra — Creative Portfolio Template",
+    "price": "$49",
+    "author": "Clonify",
+    "categories": [
+      "Agency",
+      "Landing Page",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "PastaFactory — Restaurant & Cafe Template",
+    "price": "$19",
+    "author": "Daniel Jägerskog",
+    "categories": [
+      "Business",
+      "Landing Page",
+      "Restaurant",
+      "Food"
+    ]
+  },
+  {
+    "title": "Curation — Ecommerce Template",
+    "price": "$49",
+    "author": "Ali Çorak",
+    "categories": [
+      "Business",
+      "Blog",
+      "Ecommerce",
+      "Entertainment",
+      "Splash"
+    ]
+  },
+  {
+    "title": "Doks — SaaS Documentation Hub",
+    "price": "$69",
+    "author": "Goodspeed",
+    "categories": [
+      "Brand Guidelines",
+      "Changelog",
+      "Documentation"
+    ]
+  },
+  {
+    "title": "Schon — Creative Portfolio Template",
+    "price": "$49",
+    "author": "raduc",
+    "categories": [
+      "Agency",
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "AppFlow — Beautiful App Landing Page",
+    "price": "$49",
+    "author": "Tin Kolza",
+    "categories": [
+      "Landing Page",
+      "Startup",
+      "App"
+    ]
+  },
+  {
+    "title": "Resumx — Professional Resume Template",
+    "price": "$29",
+    "author": "Justin Farrugia",
+    "categories": [
+      "Personal",
+      "Portfolio",
+      "Resume"
+    ]
+  },
+  {
+    "title": "Crandall — Website Designer Template",
+    "price": "$49",
+    "author": "Fouroom",
+    "categories": [
+      "Agency",
+      "Personal",
+      "Photography",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Plumby — Local Business Template",
+    "price": "$29",
+    "author": "FramerBite",
+    "categories": [
+      "Business",
+      "Agency",
+      "Startup"
+    ]
+  },
+  {
+    "title": "Fizeo — Physiotherapy Healthcare Template",
+    "price": "$29",
+    "author": "Vilu",
+    "categories": [
+      "Business",
+      "Blog",
+      "Health",
+      "Startup"
+    ]
+  },
+  {
+    "title": "Fitflex — Fitness Studio Template",
+    "price": "$39",
+    "author": "Peterdraw",
+    "categories": [
+      "Business",
+      "Health",
+      "Membership"
+    ]
+  },
+  {
+    "title": "RARE — Music Professionals Template",
+    "price": "$59",
+    "author": "frame.create",
+    "categories": [
+      "Agency",
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "NewWave — Restaurants Template",
+    "price": "$59",
+    "author": "Son Nguyen Xuan",
+    "categories": [
+      "Ecommerce",
+      "Restaurant",
+      "Food"
+    ]
+  },
+  {
+    "title": "Scant AI — Saas Template",
+    "price": "$30",
+    "author": "Ozenua Oluwatobi",
+    "categories": [
+      "SaaS",
+      "Agency",
+      "Landing Page",
+      "Startup",
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "title": "ProBuilder — Construction Real Estate Site",
+    "price": "$29",
+    "author": "Pentaclay",
+    "categories": [
+      "Business",
+      "Agency",
+      "Real Estate"
+    ]
+  },
+  {
+    "title": "FirstAttempt — Ux Portfolio",
+    "price": "$29",
+    "author": "Golden Rays",
+    "categories": [
+      "Business",
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Lux — Premium Photography Template",
+    "price": "$79",
+    "author": "Zan Creative",
+    "categories": [
+      "Business",
+      "Photography",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Keepy — Bookmark Manager",
+    "price": "$29",
+    "author": "Eldyn Mohammad",
+    "categories": [
+      "Blog",
+      "Documentation",
+      "Personal",
+      "Portfolio",
+      "Sidebar"
+    ]
+  },
+  {
+    "title": "Plumbing — Technician & Water Template",
+    "price": "$29",
+    "author": "Pure Templates",
+    "categories": [
+      "Business",
+      "Real Estate",
+      "Modern"
+    ]
+  },
+  {
+    "title": "Designfolio — Portfolio Template",
+    "price": "$24",
+    "author": "Thalion",
+    "categories": [
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Carvalho — Minimalistic Portfolio",
+    "price": "$30",
+    "author": "frame.create",
+    "categories": [
+      "Personal",
+      "Photography",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Neptune — Sleek Saas Platform Template",
+    "price": "$75",
+    "author": "Josiah Bhanghoyer",
+    "categories": [
+      "SaaS",
+      "Startup",
+      "Animated"
+    ]
+  },
+  {
+    "title": "Miki's Art — Photography Portfolio Website",
+    "price": "$59",
+    "author": "Arini",
+    "categories": [
+      "Personal",
+      "Photography",
+      "Minimal"
+    ]
+  },
+  {
+    "title": "Danilo — Personal Portfolio Template",
+    "price": "$33",
+    "author": "Dodo Themes",
+    "categories": [
+      "Agency",
+      "Photography",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Pering — News Magazine & Podcast Website",
+    "price": "$49",
+    "author": "Marcframe",
+    "categories": [
+      "Blog",
+      "Ecommerce",
+      "Podcast",
+      "News"
+    ]
+  },
+  {
+    "title": "Synthetix — Ai Landing Page Template",
+    "price": "$39",
+    "author": "NutsDev",
+    "categories": [
+      "Business",
+      "Landing Page",
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "title": "Xplore — Minimalist Travel Agency Website",
+    "price": "$39",
+    "author": "Peterdraw",
+    "categories": [
+      "Business",
+      "Agency",
+      "Landing Page"
+    ]
+  },
+  {
+    "title": "SaaShub — Saas Template",
+    "price": "$59",
+    "author": "Webestica",
+    "categories": [
+      "SaaS",
+      "Landing Page",
+      "Startup",
+      "Artificial Intelligence",
+      "Tech"
+    ]
+  },
+  {
+    "title": "Arkan — Saas Business Website",
+    "price": "$49",
+    "author": "Clonify",
+    "categories": [
+      "Business",
+      "Ecommerce",
+      "Landing Page",
+      "Startup"
+    ]
+  },
+  {
+    "title": "Sero — Brand Agency website",
+    "price": "$300",
+    "author": "Dean",
+    "categories": [
+      "Agency",
+      "Landing Page",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Coffee folio — Portfolio Template",
+    "price": "$40",
+    "author": "Faheez Lawal",
+    "categories": [
+      "Landing Page",
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Arrival — Startup Template",
+    "price": "$29",
+    "author": "Layout Gallery",
+    "categories": [
+      "SaaS",
+      "Landing Page",
+      "Splash",
+      "Startup",
+      "Tech"
+    ]
+  },
+  {
+    "title": "SpaceF — Sleek Saas Landing Page",
+    "price": "$29",
+    "author": "Rindly",
+    "categories": [
+      "Business",
+      "Agency",
+      "Landing Page",
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "title": "FocusStudios — Modern Photography Website Template",
+    "price": "$35",
+    "author": "Krutik Maru",
+    "categories": [
+      "Business",
+      "Agency",
+      "Personal",
+      "Photography",
+      "Portfolio",
+      "Modern"
+    ]
+  },
+  {
+    "title": "Kineto — Saas & Startup Website",
+    "price": "$49",
+    "author": "Goodspeed",
+    "categories": [
+      "Health",
+      "Startup",
+      "App"
+    ]
+  },
+  {
+    "title": "Denzel — Blog & Magazine Website",
+    "price": "$39",
+    "author": "Marcframe",
+    "categories": [
+      "Blog",
+      "Documentation",
+      "News"
+    ]
+  },
+  {
+    "title": "Orca — Ecommerce Template",
+    "price": "$39",
+    "author": "WeBoth",
+    "categories": [
+      "Ecommerce",
+      "Portfolio",
+      "Startup"
+    ]
+  },
+  {
+    "title": "Maison — Real Estate Agency Template",
+    "price": "$49",
+    "author": "Perevoz",
+    "categories": [
+      "Business",
+      "Agency",
+      "Landing Page",
+      "Portfolio",
+      "Real Estate"
+    ]
+  },
+  {
+    "title": "Cardy — Portfolio Website Template",
+    "price": "$49",
+    "author": "Philippe La Roche",
+    "categories": [
+      "Agency",
+      "Personal",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "ThomasScott — Resume Template",
+    "price": "$39",
+    "author": "NutsDev",
+    "categories": [
+      "Landing Page",
+      "Personal",
+      "Resume"
+    ]
+  }
+]
