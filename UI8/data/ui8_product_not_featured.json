@@ -1,0 +1,194 @@
+[
+  {
+    "title": "Figma Resources",
+    "subtitle": "finpal: AI Finance Assisstant App UI Kit",
+    "product": {
+      "_id": "6704bc6dc8878100386d221e",
+      "type": "item",
+      "features": [
+        "280+ App UI Screens",
+        "300+ Components & Variants",
+        "Variables & Figma Autolayout",
+        "Light & Dark Mode Support",
+        "1,000+ Finance UI Icons (Phosphor)",
+        "Font Included (DM Sans)"
+      ],
+      "exclusive": false,
+      "freebie": false,
+      "previously_featured": false,
+      "show_nav": false,
+      "compatibility": [
+        "Figma"
+      ],
+      "bundle_items": [],
+      "is_subscription": false,
+      "category": [
+        {
+          "_id": "5dcef2a215ff620038ff2701",
+          "name": "Figma Resources",
+          "slug": "figma"
+        },
+        {
+          "_id": "53cc9bc96f8ba8f9fa66d314",
+          "name": "UI Kits",
+          "slug": "ui-kits"
+        }
+      ],
+      "tags": [
+        {
+          "_id": "55c4f07ea73053a55af4c079",
+          "name": "mobile",
+          "slug": "mobile"
+        },
+        {
+          "_id": "56df6e32f11b10f664c8c07b",
+          "name": "finance",
+          "slug": "finance"
+        },
+        {
+          "_id": "61f8ee9b17d68d003d534d24",
+          "name": "fintech",
+          "slug": "fintech"
+        }
+      ],
+      "has_scaled_images": false,
+      "has_resized_card_image": true,
+      "card_image_version": 1,
+      "hide_hero": false,
+      "seasonal_promo_enabled": false,
+      "status": "active",
+      "name": "finpal: AI Finance Assisstant App UI Kit",
+      "slug": "finpal-ai-finance-assisstant-app-ui-kit",
+      "blurb": "Unleash the power of financial intelligence with finpal",
+      "description": "📦Product Description\r\nTransform the way users manage their finances with finpal. Our UI kit is designed to streamline budgeting, tracking expenses, and financial planning through an intuitive interface powered by a personal AI companion. 🤖💲\r\n\r\nWith beautifully crafted components, customizable templates, and user-centric designs, finpal empowers developers to create seamless, engaging experiences for their users. 👨‍💻💸\r\n\r\nElevate your financial application with the perfect blend of aesthetics and functionality—drive conversions and enhance user satisfaction with finpal today! 💪\r\n\r\n____________\r\n\r\n\r\n✨Product Features\r\n✔ 280+ App UI Screens\r\n✔ 300+ Components & Variants\r\n✔ Variables & Figma Autolayout\r\n✔ Light & Dark Mode\r\n✔ 1,000 Finance UI Icons (Phosphor)\r\n✔ Font Included (DM Sans)",
+      "price": 3500,
+      "card_image": "https://images.ui8.net/uploads/ui8-thumbnail_1728363557312.jpg",
+      "live_preview": "https://www.finterface.pro/#section_products",
+      "video_embed": "",
+      "hero_image": "https://images.ui8.net/uploads/ui8-cover_1728363641847.jpg",
+      "files": [
+        {
+          "free": false,
+          "_id": "6704de20c018900033c0c25f",
+          "name": "DM Sans.zip",
+          "size": 573373
+        },
+        {
+          "free": false,
+          "_id": "6704de20c018900033c0c260",
+          "name": "finpal UI Kit [v1.1].zip",
+          "size": 30037885
+        }
+      ],
+      "detail_images": [
+        {
+          "video_poster_version": 0,
+          "_id": "6704de20c018900033c0c257",
+          "url": "https://images.ui8.net/uploads/ui8-features-01_1728363666508.jpg",
+          "label": ""
+        },
+        {
+          "video_poster_version": 0,
+          "_id": "6704de20c018900033c0c258",
+          "url": "https://images.ui8.net/uploads/ui8-features-02_1728363664210.jpg",
+          "label": ""
+        },
+        {
+          "video_poster_version": 0,
+          "_id": "6704de20c018900033c0c259",
+          "url": "https://images.ui8.net/uploads/ui8-features-03_1728363662313.jpg",
+          "label": ""
+        },
+        {
+          "video_poster_version": 0,
+          "_id": "6704de20c018900033c0c25a",
+          "url": "https://images.ui8.net/uploads/ui8-features-04_1728363660391.jpg",
+          "label": ""
+        },
+        {
+          "video_poster_version": 0,
+          "_id": "6704de20c018900033c0c25b",
+          "url": "https://images.ui8.net/uploads/ui8-features-05_1728363901153.jpg",
+          "label": ""
+        },
+        {
+          "video_poster_version": 0,
+          "_id": "6704de20c018900033c0c25c",
+          "url": "https://images.ui8.net/uploads/ui8-features-06_1728363656705.jpg",
+          "label": ""
+        },
+        {
+          "video_poster_version": 0,
+          "_id": "6704de20c018900033c0c25d",
+          "url": "https://images.ui8.net/uploads/ui8-features-08_1728363650651.jpg",
+          "label": ""
+        },
+        {
+          "video_poster_version": 0,
+          "_id": "6704de20c018900033c0c25e",
+          "url": "https://images.ui8.net/uploads/ui8-features-07_1728363654469.jpg",
+          "label": ""
+        }
+      ],
+      "full_preview_images": [],
+      "created_at": "2024-10-08T07:00:00.000Z",
+      "author": {
+        "_id": "66fe25ed57830c00325e40ed",
+        "has_resized_avatar": true,
+        "avatar_url_version": 1,
+        "for_hire": false,
+        "display_name_slug": "finterface-1ade8a",
+        "avatar_url": "https://images.ui8.net/uploads/500x500_1728003450666.png",
+        "display_name": "finterface"
+      },
+      "on_sale": false,
+      "updated_at": "2024-10-08T07:24:16.491Z",
+      "seasonal_promo_price": null,
+      "site_promo": false,
+      "filesize": 30611258,
+      "discussion": {
+        "_id": "6704bd5ec018900033bf8e94",
+        "total_comments": 0,
+        "locked": false
+      },
+      "likes": 6,
+      "source_url": "",
+      "video_intro": "",
+      "video_source": "",
+      "compatibility_string": "figma-compatible",
+      "free_files": [],
+      "paid_files": [
+        {
+          "free": false,
+          "_id": "6704de20c018900033c0c25f",
+          "name": "DM Sans.zip",
+          "size": 573373
+        },
+        {
+          "free": false,
+          "_id": "6704de20c018900033c0c260",
+          "name": "finpal UI Kit [v1.1].zip",
+          "size": 30037885
+        }
+      ]
+    },
+    "previews": [
+      "live_preview"
+    ],
+    "meta_description": "📦Product Description\r\nTransform the way users manage their finances with finpal. Our UI kit is designed to streamline budgeting, tracking expenses, and financial planning through an intuitive interface powered by a personal AI companion. 🤖💲\r\n\r\nWith beautifully crafted components, customizable templates, and user-centric designs, finpal empowers developers to create seamless, engaging experiences for their users. 👨‍💻💸\r\n\r\nElevate your financial application with the perfect blend of aesthetics and functionality—drive conversions and enhance user satisfaction with finpal today! 💪\r\n\r\n____________\r\n\r\n\r\n✨Product Features\r\n✔ 280+ App UI Screens\r\n✔ 300+ Components & Variants\r\n✔ Variables & Figma Autolayout\r\n✔ Light & Dark Mode\r\n✔ 1,000 Finance UI Icons (Phosphor)\r\n✔ Font Included (DM Sans)",
+    "author": {
+      "_id": "66fe25ed57830c00325e40ed",
+      "has_resized_avatar": true,
+      "avatar_url_version": 1,
+      "for_hire": false,
+      "display_name_slug": "finterface-1ade8a",
+      "avatar_url": "https://images.ui8.net/uploads/500x500_1728003450666.png",
+      "display_name": "finterface"
+    },
+    "admin": false,
+    "loggedIn": false,
+    "videoEmbed": null,
+    "valid_pass": false,
+    "user_owns": false
+  }
+]

@@ -1,0 +1,230 @@
+[
+  {
+    "Name": "TaskTonic UI Kit - Task Management Dashboard UI KIT",
+    "Author": "dpopstudio",
+    "Price": 24,
+    "Likes": 0,
+    "Comment": 0,
+    "Featured": true,
+    "Published": "2024-10-09T07:00:00.000Z",
+    "Type": [
+      {
+        "_id": "55c4eee0a73053a55af4c06e",
+        "name": "web",
+        "slug": "web"
+      },
+      {
+        "_id": "56f060b7f11b10f664c9538b",
+        "name": "dashboard",
+        "slug": "dashboard"
+      },
+      {
+        "_id": "5ec57619541688003894c012",
+        "name": "productivity",
+        "slug": "productivity"
+      },
+      {
+        "_id": "55ca32dff6a4bb2066c5ef13",
+        "name": "responsive",
+        "slug": "responsive"
+      }
+    ]
+  },
+  {
+    "Name": "finpal: AI Finance Assisstant App UI Kit",
+    "Author": "finterface",
+    "Price": 35,
+    "Likes": 6,
+    "Comment": 0,
+    "Featured": false,
+    "Published": "2024-10-08T07:00:00.000Z",
+    "Type": [
+      {
+        "_id": "55c4f07ea73053a55af4c079",
+        "name": "mobile",
+        "slug": "mobile"
+      },
+      {
+        "_id": "56df6e32f11b10f664c8c07b",
+        "name": "finance",
+        "slug": "finance"
+      },
+      {
+        "_id": "61f8ee9b17d68d003d534d24",
+        "name": "fintech",
+        "slug": "fintech"
+      }
+    ]
+  },
+  {
+    "Name": "Bazaria - E-Commerce Mobile App UI Kit",
+    "Author": "Caraka",
+    "Price": 45,
+    "Likes": 6,
+    "Comment": 0,
+    "Featured": true,
+    "Published": "2024-10-08T07:00:00.000Z",
+    "Type": [
+      {
+        "_id": "55c4d98aa73053a55af4c046",
+        "name": "iOS",
+        "slug": "ios"
+      },
+      {
+        "_id": "55c4f07ea73053a55af4c079",
+        "name": "mobile",
+        "slug": "mobile"
+      },
+      {
+        "_id": "56e738cef11b10f664c8fd10",
+        "name": "ecommerce",
+        "slug": "ecommerce"
+      }
+    ]
+  },
+  {
+    "Name": "Corporate Agency Website UI Kit",
+    "Author": "Omotive",
+    "Price": 14,
+    "Likes": 7,
+    "Comment": 0,
+    "Featured": false,
+    "Published": "2024-10-08T07:00:00.000Z",
+    "Type": [
+      {
+        "_id": "55c4eee0a73053a55af4c06e",
+        "name": "web",
+        "slug": "web"
+      },
+      {
+        "_id": "55ca32dff6a4bb2066c5ef13",
+        "name": "responsive",
+        "slug": "responsive"
+      },
+      {
+        "_id": "64de43965f147e00320052bd",
+        "name": "saas",
+        "slug": "saas"
+      }
+    ]
+  },
+  {
+    "Name": "Mentor - Online Course Mobile App UI Kits",
+    "Author": "Disconnect Studio",
+    "Price": 32,
+    "Likes": 0,
+    "Comment": 0,
+    "Featured": false,
+    "Published": "2024-10-07T07:00:00.000Z",
+    "Type": [
+      {
+        "_id": "55c4d98aa73053a55af4c046",
+        "name": "iOS",
+        "slug": "ios"
+      },
+      {
+        "_id": "55c4f07ea73053a55af4c079",
+        "name": "mobile",
+        "slug": "mobile"
+      },
+      {
+        "_id": "5c914789dc8b48010e28e541",
+        "name": "Illustrations",
+        "slug": "illustrations"
+      }
+    ]
+  },
+  {
+    "Name": "Mineship - Shipping Web Templates UI Kit",
+    "Author": "Zarpixel",
+    "Price": 24,
+    "Likes": 1,
+    "Comment": 0,
+    "Featured": false,
+    "Published": "2024-10-07T07:00:00.000Z",
+    "Type": [
+      {
+        "_id": "55c4eee0a73053a55af4c06e",
+        "name": "web",
+        "slug": "web"
+      },
+      {
+        "_id": "55c4f07ea73053a55af4c079",
+        "name": "mobile",
+        "slug": "mobile"
+      },
+      {
+        "_id": "55ca32dff6a4bb2066c5ef13",
+        "name": "responsive",
+        "slug": "responsive"
+      }
+    ]
+  },
+  {
+    "Name": "Jobly - Job Finder Dashboard UI Kit",
+    "Author": "Semusim Visual",
+    "Price": 48,
+    "Likes": 14,
+    "Comment": 0,
+    "Featured": false,
+    "Published": "2024-10-07T07:00:00.000Z",
+    "Type": [
+      {
+        "_id": "55c4eee0a73053a55af4c06e",
+        "name": "web",
+        "slug": "web"
+      },
+      {
+        "_id": "55ca32dff6a4bb2066c5ef13",
+        "name": "responsive",
+        "slug": "responsive"
+      },
+      {
+        "_id": "56f060b7f11b10f664c9538b",
+        "name": "dashboard",
+        "slug": "dashboard"
+      }
+    ]
+  },
+  {
+    "Name": "MeetOn - Video Conference Dekstop App",
+    "Author": "dpopstudio",
+    "Price": 23,
+    "Likes": 16,
+    "Comment": 0,
+    "Featured": false,
+    "Published": "2024-10-06T07:00:00.000Z",
+    "Type": [
+      {
+        "_id": "55c4eee0a73053a55af4c06e",
+        "name": "web",
+        "slug": "web"
+      },
+      {
+        "_id": "5a9dc6188d5a15001a77b10e",
+        "name": "video",
+        "slug": "video"
+      }
+    ]
+  },
+  {
+    "Name": "Propsio - Admin Dashboard UI Kit",
+    "Price": 35,
+    "Likes": 13,
+    "Comment": 0,
+    "Featured": false,
+    "Published": "2024-10-05T07:00:00.000Z",
+    "Type": [
+      {
+        "_id": "55c4eee0a73053a55af4c06e",
+        "name": "web",
+        "slug": "web"
+      },
+      {
+        "_id": "56f060b7f11b10f664c9538b",
+        "name": "dashboard",
+        "slug": "dashboard"
+      }
+    ]
+  }
+]

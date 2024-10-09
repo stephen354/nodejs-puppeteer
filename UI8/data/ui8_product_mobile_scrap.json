@@ -1,0 +1,28 @@
+[
+  {
+    "Name": "Bazaria - E-Commerce Mobile App UI Kit",
+    "Author": "Caraka",
+    "Price": false,
+    "Likes": 6,
+    "Comment": 0,
+    "Featured": false,
+    "Published": "2024-10-08T07:00:00.000Z",
+    "Type": [
+      {
+        "_id": "55c4d98aa73053a55af4c046",
+        "name": "iOS",
+        "slug": "ios"
+      },
+      {
+        "_id": "55c4f07ea73053a55af4c079",
+        "name": "mobile",
+        "slug": "mobile"
+      },
+      {
+        "_id": "56e738cef11b10f664c8fd10",
+        "name": "ecommerce",
+        "slug": "ecommerce"
+      }
+    ]
+  }
+]

@@ -1,0 +1,2502 @@
+[
+  {
+    "Name": "Unity Dashboard Kit",
+    "Author": "UI8",
+    "Price": 68,
+    "Likes": 1648,
+    "Comment": 77,
+    "Featured": true,
+    "Published": "2020-10-05T07:00:00.000Z",
+    "Type": [
+      {
+        "_id": "56f060b7f11b10f664c9538b",
+        "name": "dashboard",
+        "slug": "dashboard"
+      },
+      {
+        "_id": "5c3bbf8de874dd0036d97993",
+        "name": "design system",
+        "slug": "design-system"
+      },
+      {
+        "_id": "5c91480edc8b48010e28e551",
+        "name": "Dark",
+        "slug": "dark"
+      },
+      {
+        "_id": "5c914819dc8b48010e28e552",
+        "name": "Light",
+        "slug": "light"
+      },
+      {
+        "_id": "55c4da54a73053a55af4c05c",
+        "name": "social",
+        "slug": "social"
+      },
+      {
+        "_id": "56df6e32f11b10f664c8c07b",
+        "name": "finance",
+        "slug": "finance"
+      },
+      {
+        "_id": "55c4eee0a73053a55af4c06e",
+        "name": "web",
+        "slug": "web"
+      }
+    ]
+  },
+  {
+    "Name": "Atro Mobile UI Kit",
+    "Author": "Adrian Chiran",
+    "Price": 22,
+    "Likes": 1574,
+    "Comment": 49,
+    "Featured": true,
+    "Published": "2018-08-23T07:00:00.000Z",
+    "Type": [
+      {
+        "_id": "56d0e3c0b39852430c1e129d",
+        "name": "ui kit",
+        "slug": "ui-kit"
+      },
+      {
+        "_id": "55c4f07ea73053a55af4c079",
+        "name": "mobile",
+        "slug": "mobile"
+      },
+      {
+        "_id": "55c4ef26a73053a55af4c072",
+        "name": "sketch",
+        "slug": "sketch"
+      },
+      {
+        "_id": "56df76ecf11b10f664c8c167",
+        "name": "vector",
+        "slug": "vector"
+      },
+      {
+        "_id": "55c4d98aa73053a55af4c046",
+        "name": "iOS",
+        "slug": "ios"
+      },
+      {
+        "_id": "59bc4b329f56cd0018ac7cb2",
+        "name": "iphonex",
+        "slug": "iphonex"
+      }
+    ]
+  },
+  {
+    "Name": "Core – Dashboard Builder",
+    "Author": "UI8",
+    "Price": 98,
+    "Likes": 1564,
+    "Comment": 57,
+    "Featured": true,
+    "Published": "2022-01-19T08:00:00.000Z",
+    "Type": [
+      {
+        "_id": "55c4eee0a73053a55af4c06e",
+        "name": "web",
+        "slug": "web"
+      },
+      {
+        "_id": "55c4f07ea73053a55af4c079",
+        "name": "mobile",
+        "slug": "mobile"
+      },
+      {
+        "_id": "56df6e32f11b10f664c8c07b",
+        "name": "finance",
+        "slug": "finance"
+      },
+      {
+        "_id": "56e738cef11b10f664c8fd10",
+        "name": "ecommerce",
+        "slug": "ecommerce"
+      },
+      {
+        "_id": "56f060b7f11b10f664c9538b",
+        "name": "dashboard",
+        "slug": "dashboard"
+      }
+    ]
+  },
+  {
+    "Name": "Square Dashboard UI Kit",
+    "Author": "Designspace",
+    "Price": 39,
+    "Likes": 1438,
+    "Comment": 49,
+    "Featured": true,
+    "Published": "2019-05-27T07:00:00.000Z",
+    "Type": [
+      {
+        "_id": "56f060b7f11b10f664c9538b",
+        "name": "dashboard",
+        "slug": "dashboard"
+      },
+      {
+        "_id": "5c9147dcdc8b48010e28e54d",
+        "name": "Dashboards",
+        "slug": "dashboards"
+      },
+      {
+        "_id": "56d0e3c0b39852430c1e129d",
+        "name": "ui kit",
+        "slug": "ui-kit"
+      },
+      {
+        "_id": "55c4ef26a73053a55af4c072",
+        "name": "sketch",
+        "slug": "sketch"
+      },
+      {
+        "_id": "5c3bbf8de874dd0036d97993",
+        "name": "design system",
+        "slug": "design-system"
+      },
+      {
+        "_id": "5c08531ffa02200035dcf314",
+        "name": "webdesign",
+        "slug": "webdesign"
+      },
+      {
+        "_id": "55c4eee0a73053a55af4c06e",
+        "name": "web",
+        "slug": "web"
+      }
+    ]
+  },
+  {
+    "Name": "Collab — Landing Page Kit",
+    "Author": "UI8",
+    "Price": 64,
+    "Likes": 1082,
+    "Comment": 41,
+    "Featured": true,
+    "Published": "2020-07-27T07:00:00.000Z",
+    "Type": [
+      {
+        "_id": "55c4eee0a73053a55af4c06e",
+        "name": "web",
+        "slug": "web"
+      },
+      {
+        "_id": "55ca32dff6a4bb2066c5ef13",
+        "name": "responsive",
+        "slug": "responsive"
+      },
+      {
+        "_id": "578d2306a8c6fb28322d23ab",
+        "name": "landing",
+        "slug": "landing"
+      },
+      {
+        "_id": "57057c3c06b2ef067f66e4c6",
+        "name": "portfolio",
+        "slug": "portfolio"
+      }
+    ]
+  },
+  {
+    "Name": "IOTask - web UI kit for project management apps",
+    "Author": "WhiteUI.Store",
+    "Price": 14,
+    "Likes": 1077,
+    "Comment": 48,
+    "Featured": true,
+    "Published": "2024-03-27T07:00:00.000Z",
+    "Type": [
+      {
+        "_id": "56d0e3c0b39852430c1e129d",
+        "name": "ui kit",
+        "slug": "ui-kit"
+      },
+      {
+        "_id": "55c4ef26a73053a55af4c072",
+        "name": "sketch",
+        "slug": "sketch"
+      },
+      {
+        "_id": "55c4eee0a73053a55af4c06e",
+        "name": "web",
+        "slug": "web"
+      },
+      {
+        "_id": "56df76ecf11b10f664c8c167",
+        "name": "vector",
+        "slug": "vector"
+      },
+      {
+        "_id": "56e738cef11b10f664c8fd11",
+        "name": "bootstrap",
+        "slug": "bootstrap"
+      },
+      {
+        "_id": "55c4ef05a73053a55af4c070",
+        "name": "modern",
+        "slug": "modern"
+      },
+      {
+        "_id": "56f060b7f11b10f664c9538b",
+        "name": "dashboard",
+        "slug": "dashboard"
+      }
+    ]
+  },
+  {
+    "Name": "Crypter - NFT Marketplace UI Kit",
+    "Author": "UI8",
+    "Price": 78,
+    "Likes": 996,
+    "Comment": 85,
+    "Featured": true,
+    "Published": "2021-06-16T07:00:00.000Z",
+    "Type": [
+      {
+        "_id": "5a664f1da07f26001d809e00",
+        "name": "crypto",
+        "slug": "crypto"
+      },
+      {
+        "_id": "55c4eee0a73053a55af4c06e",
+        "name": "web",
+        "slug": "web"
+      },
+      {
+        "_id": "55ca32dff6a4bb2066c5ef13",
+        "name": "responsive",
+        "slug": "responsive"
+      },
+      {
+        "_id": "5c91480edc8b48010e28e551",
+        "name": "Dark",
+        "slug": "dark"
+      },
+      {
+        "_id": "5c914819dc8b48010e28e552",
+        "name": "Light",
+        "slug": "light"
+      },
+      {
+        "_id": "56e738cef11b10f664c8fd10",
+        "name": "ecommerce",
+        "slug": "ecommerce"
+      },
+      {
+        "_id": "56df6e32f11b10f664c8c07b",
+        "name": "finance",
+        "slug": "finance"
+      }
+    ]
+  },
+  {
+    "Name": "Fleet – Travel Shopping UI Kit",
+    "Author": "UI8",
+    "Price": 62,
+    "Likes": 942,
+    "Comment": 49,
+    "Featured": true,
+    "Published": "2021-08-10T07:00:00.000Z",
+    "Type": [
+      {
+        "_id": "55c4d98aa73053a55af4c046",
+        "name": "iOS",
+        "slug": "ios"
+      },
+      {
+        "_id": "55c4eee0a73053a55af4c06e",
+        "name": "web",
+        "slug": "web"
+      },
+      {
+        "_id": "55c4f07ea73053a55af4c079",
+        "name": "mobile",
+        "slug": "mobile"
+      },
+      {
+        "_id": "56df6e32f11b10f664c8c075",
+        "name": "travel",
+        "slug": "travel"
+      }
+    ]
+  },
+  {
+    "Name": "TaskEz: Productivity App iOS UI Kit",
+    "Author": "UI8",
+    "Price": 58,
+    "Likes": 931,
+    "Comment": 25,
+    "Featured": true,
+    "Published": "2020-12-15T08:00:00.000Z",
+    "Type": [
+      {
+        "_id": "55c4d98aa73053a55af4c046",
+        "name": "iOS",
+        "slug": "ios"
+      },
+      {
+        "_id": "55c4f07ea73053a55af4c079",
+        "name": "mobile",
+        "slug": "mobile"
+      },
+      {
+        "_id": "5ec57619541688003894c012",
+        "name": "productivity",
+        "slug": "productivity"
+      },
+      {
+        "_id": "577ea9147a152145057e0144",
+        "name": "tech",
+        "slug": "tech"
+      },
+      {
+        "_id": "5c91480edc8b48010e28e551",
+        "name": "Dark",
+        "slug": "dark"
+      },
+      {
+        "_id": "59e5054619dfa6001725844a",
+        "name": "figma",
+        "slug": "figma"
+      }
+    ]
+  },
+  {
+    "Name": "Universal UI Kit",
+    "Author": "Forpeople",
+    "Price": 34,
+    "Likes": 906,
+    "Comment": 29,
+    "Featured": true,
+    "Published": "2018-03-19T07:00:00.000Z",
+    "Type": [
+      {
+        "_id": "55c4eee0a73053a55af4c06e",
+        "name": "web",
+        "slug": "web"
+      },
+      {
+        "_id": "55c4ef26a73053a55af4c072",
+        "name": "sketch",
+        "slug": "sketch"
+      },
+      {
+        "_id": "56d0e3c0b39852430c1e129d",
+        "name": "ui kit",
+        "slug": "ui-kit"
+      },
+      {
+        "_id": "56e738cef11b10f664c8fd11",
+        "name": "bootstrap",
+        "slug": "bootstrap"
+      },
+      {
+        "_id": "572a374e52ae5aae30ed2b45",
+        "name": "blog",
+        "slug": "blog"
+      },
+      {
+        "_id": "56e738cef11b10f664c8fd10",
+        "name": "ecommerce",
+        "slug": "ecommerce"
+      }
+    ]
+  },
+  {
+    "Name": "Brainwave - AI UI Kit",
+    "Author": "UI8",
+    "Price": 98,
+    "Likes": 878,
+    "Comment": 68,
+    "Featured": true,
+    "Published": "2023-11-14T08:00:00.000Z",
+    "Type": [
+      {
+        "_id": "56f060b7f11b10f664c9538b",
+        "name": "dashboard",
+        "slug": "dashboard"
+      },
+      {
+        "_id": "55c4eee0a73053a55af4c06e",
+        "name": "web",
+        "slug": "web"
+      },
+      {
+        "_id": "55ca32dff6a4bb2066c5ef13",
+        "name": "responsive",
+        "slug": "responsive"
+      },
+      {
+        "_id": "64279d9e537d310367fa04f8",
+        "name": "ai",
+        "slug": "ai"
+      }
+    ]
+  },
+  {
+    "Name": "Solo: SaaS landing page kit",
+    "Author": "UI8",
+    "Price": 78,
+    "Likes": 870,
+    "Comment": 40,
+    "Featured": true,
+    "Published": "2021-02-08T08:00:00.000Z",
+    "Type": [
+      {
+        "_id": "578d2306a8c6fb28322d23ab",
+        "name": "landing",
+        "slug": "landing"
+      },
+      {
+        "_id": "55ca32dff6a4bb2066c5ef13",
+        "name": "responsive",
+        "slug": "responsive"
+      },
+      {
+        "_id": "55c4eee0a73053a55af4c06e",
+        "name": "web",
+        "slug": "web"
+      },
+      {
+        "_id": "55c4f07ea73053a55af4c079",
+        "name": "mobile",
+        "slug": "mobile"
+      },
+      {
+        "_id": "5d12554ca75cd70038bc37ba",
+        "name": "product management",
+        "slug": "product-management"
+      },
+      {
+        "_id": "5c91490bdc8b48010e28e574",
+        "name": "Coded",
+        "slug": "coded"
+      },
+      {
+        "_id": "56f19813f11b10f664c96140",
+        "name": "html",
+        "slug": "html"
+      },
+      {
+        "_id": "577ea9147a152145057e0144",
+        "name": "tech",
+        "slug": "tech"
+      }
+    ]
+  },
+  {
+    "Name": "Unity Dashboard Kit — Gaming 🎮",
+    "Author": "UI8",
+    "Price": 46,
+    "Likes": 796,
+    "Comment": 25,
+    "Featured": true,
+    "Published": "2020-10-26T07:00:00.000Z",
+    "Type": [
+      {
+        "_id": "5ca4351c188f0b009f02a0df",
+        "name": "gaming",
+        "slug": "gaming"
+      },
+      {
+        "_id": "55c4eee0a73053a55af4c06e",
+        "name": "web",
+        "slug": "web"
+      },
+      {
+        "_id": "55ca32dff6a4bb2066c5ef13",
+        "name": "responsive",
+        "slug": "responsive"
+      },
+      {
+        "_id": "56f060b7f11b10f664c9538b",
+        "name": "dashboard",
+        "slug": "dashboard"
+      }
+    ]
+  },
+  {
+    "Name": "BitCloud - Crypto Exchange UI Kit",
+    "Author": "UI8",
+    "Price": 98,
+    "Likes": 790,
+    "Comment": 35,
+    "Featured": true,
+    "Published": "2021-07-05T07:00:00.000Z",
+    "Type": [
+      {
+        "_id": "55c4eee0a73053a55af4c06e",
+        "name": "web",
+        "slug": "web"
+      },
+      {
+        "_id": "55c4f07ea73053a55af4c079",
+        "name": "mobile",
+        "slug": "mobile"
+      },
+      {
+        "_id": "55ca32dff6a4bb2066c5ef13",
+        "name": "responsive",
+        "slug": "responsive"
+      },
+      {
+        "_id": "56df6e32f11b10f664c8c07b",
+        "name": "finance",
+        "slug": "finance"
+      },
+      {
+        "_id": "5a664f1da07f26001d809e00",
+        "name": "crypto",
+        "slug": "crypto"
+      },
+      {
+        "_id": "5c914819dc8b48010e28e552",
+        "name": "Light",
+        "slug": "light"
+      },
+      {
+        "_id": "5c91480edc8b48010e28e551",
+        "name": "Dark",
+        "slug": "dark"
+      },
+      {
+        "_id": "5c9147dcdc8b48010e28e54d",
+        "name": "Dashboards",
+        "slug": "dashboards"
+      },
+      {
+        "_id": "56f19813f11b10f664c96140",
+        "name": "html",
+        "slug": "html"
+      },
+      {
+        "_id": "56f19813f11b10f664c96141",
+        "name": "css",
+        "slug": "css"
+      },
+      {
+        "_id": "5a95af60f6bb6d001a6dc738",
+        "name": "reactJS",
+        "slug": "reactjs"
+      },
+      {
+        "_id": "56f060b7f11b10f664c9538b",
+        "name": "dashboard",
+        "slug": "dashboard"
+      }
+    ]
+  },
+  {
+    "Name": "BetaCRM UI Kit for SaaS Dashboards",
+    "Author": "WhiteUI.Store",
+    "Price": 18,
+    "Likes": 785,
+    "Comment": 35,
+    "Featured": true,
+    "Published": "2020-03-22T07:00:00.000Z",
+    "Type": [
+      {
+        "_id": "55c4eee0a73053a55af4c06e",
+        "name": "web",
+        "slug": "web"
+      },
+      {
+        "_id": "55c4f07ea73053a55af4c079",
+        "name": "mobile",
+        "slug": "mobile"
+      },
+      {
+        "_id": "56f060b7f11b10f664c9538b",
+        "name": "dashboard",
+        "slug": "dashboard"
+      },
+      {
+        "_id": "55ca32dff6a4bb2066c5ef13",
+        "name": "responsive",
+        "slug": "responsive"
+      }
+    ]
+  },
+  {
+    "Name": "Ehya 60 Landing Pages Design & HTML/CSS Template",
+    "Author": "Designspace",
+    "Price": 32,
+    "Likes": 759,
+    "Comment": 22,
+    "Featured": true,
+    "Published": "2020-01-08T08:00:00.000Z",
+    "Type": [
+      {
+        "_id": "55c4eee0a73053a55af4c06e",
+        "name": "web",
+        "slug": "web"
+      },
+      {
+        "_id": "55c4eeeba73053a55af4c06f",
+        "name": "tablet",
+        "slug": "tablet"
+      },
+      {
+        "_id": "55c4f07ea73053a55af4c079",
+        "name": "mobile",
+        "slug": "mobile"
+      },
+      {
+        "_id": "55c4d98aa73053a55af4c046",
+        "name": "iOS",
+        "slug": "ios"
+      },
+      {
+        "_id": "577ea9147a152145057e0144",
+        "name": "tech",
+        "slug": "tech"
+      }
+    ]
+  },
+  {
+    "Name": "Fitness Pro: Website UI Kit",
+    "Author": "UI8",
+    "Price": 49,
+    "Likes": 724,
+    "Comment": 35,
+    "Featured": true,
+    "Published": "2021-03-10T08:00:00.000Z",
+    "Type": [
+      {
+        "_id": "55c4f074a73053a55af4c078",
+        "name": "fitness",
+        "slug": "fitness"
+      },
+      {
+        "_id": "575f180ed0a9b0c257d8daf0",
+        "name": "health",
+        "slug": "health"
+      },
+      {
+        "_id": "56d0e3c0b39852430c1e129d",
+        "name": "ui kit",
+        "slug": "ui-kit"
+      },
+      {
+        "_id": "55ca32dff6a4bb2066c5ef13",
+        "name": "responsive",
+        "slug": "responsive"
+      },
+      {
+        "_id": "55c4eee0a73053a55af4c06e",
+        "name": "web",
+        "slug": "web"
+      },
+      {
+        "_id": "578d2306a8c6fb28322d23ab",
+        "name": "landing",
+        "slug": "landing"
+      },
+      {
+        "_id": "5c3bbf8de874dd0036d97993",
+        "name": "design system",
+        "slug": "design-system"
+      },
+      {
+        "_id": "55c4d98aa73053a55af4c046",
+        "name": "iOS",
+        "slug": "ios"
+      },
+      {
+        "_id": "55c4f07ea73053a55af4c079",
+        "name": "mobile",
+        "slug": "mobile"
+      }
+    ]
+  },
+  {
+    "Name": "Unity Dashboard Kit: Exchange🤑",
+    "Author": "UI8",
+    "Price": 88,
+    "Likes": 686,
+    "Comment": 37,
+    "Featured": true,
+    "Published": "2021-01-25T08:00:00.000Z",
+    "Type": [
+      {
+        "_id": "56df6e32f11b10f664c8c07b",
+        "name": "finance",
+        "slug": "finance"
+      },
+      {
+        "_id": "55c4f07ea73053a55af4c079",
+        "name": "mobile",
+        "slug": "mobile"
+      },
+      {
+        "_id": "55c4eee0a73053a55af4c06e",
+        "name": "web",
+        "slug": "web"
+      },
+      {
+        "_id": "5a664f1da07f26001d809e00",
+        "name": "crypto",
+        "slug": "crypto"
+      },
+      {
+        "_id": "5c91490bdc8b48010e28e574",
+        "name": "Coded",
+        "slug": "coded"
+      },
+      {
+        "_id": "56f19813f11b10f664c96140",
+        "name": "html",
+        "slug": "html"
+      },
+      {
+        "_id": "55ca32dff6a4bb2066c5ef13",
+        "name": "responsive",
+        "slug": "responsive"
+      },
+      {
+        "_id": "56f060b7f11b10f664c9538b",
+        "name": "dashboard",
+        "slug": "dashboard"
+      }
+    ]
+  },
+  {
+    "Name": "IOTask - mobile UI Kit for project management apps",
+    "Author": "WhiteUI.Store",
+    "Price": 12,
+    "Likes": 669,
+    "Comment": 24,
+    "Featured": true,
+    "Published": "2018-08-28T07:00:00.000Z",
+    "Type": [
+      {
+        "_id": "56d0e3c0b39852430c1e129d",
+        "name": "ui kit",
+        "slug": "ui-kit"
+      },
+      {
+        "_id": "55c4ef26a73053a55af4c072",
+        "name": "sketch",
+        "slug": "sketch"
+      },
+      {
+        "_id": "55c4ef35a73053a55af4c073",
+        "name": "photoshop",
+        "slug": "photoshop"
+      },
+      {
+        "_id": "576c590eca38e1dc03e15227",
+        "name": "adobe xd",
+        "slug": "adobe-xd"
+      },
+      {
+        "_id": "573b6cef778709cd2ce78e55",
+        "name": "XD",
+        "slug": "xd"
+      },
+      {
+        "_id": "56df76ecf11b10f664c8c167",
+        "name": "vector",
+        "slug": "vector"
+      },
+      {
+        "_id": "59b9f2c4395ebd0035f60467",
+        "name": "iphone8",
+        "slug": "iphone8"
+      },
+      {
+        "_id": "59bc4b329f56cd0018ac7cb2",
+        "name": "iphonex",
+        "slug": "iphonex"
+      },
+      {
+        "_id": "55c4d98aa73053a55af4c046",
+        "name": "iOS",
+        "slug": "ios"
+      },
+      {
+        "_id": "5ad66a573b432f00391974cf",
+        "name": "task",
+        "slug": "task"
+      }
+    ]
+  },
+  {
+    "Name": "Cardify Startup UI Kit",
+    "Author": "WhiteUI.Store",
+    "Price": 17,
+    "Likes": 651,
+    "Comment": 20,
+    "Featured": true,
+    "Published": "2019-02-10T08:00:00.000Z",
+    "Type": [
+      {
+        "_id": "5c08531ffa02200035dcf310",
+        "name": "ui",
+        "slug": "ui"
+      },
+      {
+        "_id": "56d0e3c0b39852430c1e129d",
+        "name": "ui kit",
+        "slug": "ui-kit"
+      },
+      {
+        "_id": "55c4eee0a73053a55af4c06e",
+        "name": "web",
+        "slug": "web"
+      },
+      {
+        "_id": "5c08531ffa02200035dcf314",
+        "name": "webdesign",
+        "slug": "webdesign"
+      },
+      {
+        "_id": "55c4ef05a73053a55af4c070",
+        "name": "modern",
+        "slug": "modern"
+      },
+      {
+        "_id": "55c4da54a73053a55af4c059",
+        "name": "clean",
+        "slug": "clean"
+      },
+      {
+        "_id": "55c4ef26a73053a55af4c072",
+        "name": "sketch",
+        "slug": "sketch"
+      }
+    ]
+  },
+  {
+    "Name": "SaaS Dashboard App Starter Kit 2.0",
+    "Author": "UI8",
+    "Price": 48,
+    "Likes": 636,
+    "Comment": 8,
+    "Featured": true,
+    "Published": "2020-01-21T08:00:00.000Z",
+    "Type": [
+      {
+        "_id": "55c4f07ea73053a55af4c079",
+        "name": "mobile",
+        "slug": "mobile"
+      },
+      {
+        "_id": "55c4eee0a73053a55af4c06e",
+        "name": "web",
+        "slug": "web"
+      },
+      {
+        "_id": "55c4d98aa73053a55af4c046",
+        "name": "iOS",
+        "slug": "ios"
+      },
+      {
+        "_id": "55ca32dff6a4bb2066c5ef13",
+        "name": "responsive",
+        "slug": "responsive"
+      },
+      {
+        "_id": "56f060b7f11b10f664c9538b",
+        "name": "dashboard",
+        "slug": "dashboard"
+      }
+    ]
+  },
+  {
+    "Name": "Stellar Web UI Kit",
+    "Author": "Lexshah",
+    "Price": 29,
+    "Likes": 627,
+    "Comment": 22,
+    "Featured": true,
+    "Published": "2019-03-15T07:00:00.000Z",
+    "Type": [
+      {
+        "_id": "56d0e3c0b39852430c1e129d",
+        "name": "ui kit",
+        "slug": "ui-kit"
+      },
+      {
+        "_id": "5c08531ffa02200035dcf310",
+        "name": "ui",
+        "slug": "ui"
+      },
+      {
+        "_id": "573b6cef778709cd2ce78e55",
+        "name": "XD",
+        "slug": "xd"
+      },
+      {
+        "_id": "55c4eee0a73053a55af4c06e",
+        "name": "web",
+        "slug": "web"
+      },
+      {
+        "_id": "5c08531ffa02200035dcf314",
+        "name": "webdesign",
+        "slug": "webdesign"
+      },
+      {
+        "_id": "55c4ef05a73053a55af4c070",
+        "name": "modern",
+        "slug": "modern"
+      },
+      {
+        "_id": "55c4da54a73053a55af4c059",
+        "name": "clean",
+        "slug": "clean"
+      },
+      {
+        "_id": "58c244e81de3c10016cfd2fc",
+        "name": "minimal",
+        "slug": "minimal"
+      }
+    ]
+  },
+  {
+    "Name": "SaaSdunk - SaaS Dashboard UI Kit",
+    "Author": "Graphicdunk",
+    "Price": 27,
+    "Likes": 616,
+    "Comment": 12,
+    "Featured": true,
+    "Published": "2020-04-16T07:00:00.000Z",
+    "Type": [
+      {
+        "_id": "55c4eee0a73053a55af4c06e",
+        "name": "web",
+        "slug": "web"
+      },
+      {
+        "_id": "55c4f07ea73053a55af4c079",
+        "name": "mobile",
+        "slug": "mobile"
+      },
+      {
+        "_id": "56f060b7f11b10f664c9538b",
+        "name": "dashboard",
+        "slug": "dashboard"
+      }
+    ]
+  },
+  {
+    "Name": "Brake UI Kit 2.0",
+    "Author": "panoplystore",
+    "Price": 22,
+    "Likes": 600,
+    "Comment": 19,
+    "Featured": true,
+    "Published": "2018-04-20T07:00:00.000Z",
+    "Type": [
+      {
+        "_id": "56d0e3c0b39852430c1e129d",
+        "name": "ui kit",
+        "slug": "ui-kit"
+      },
+      {
+        "_id": "55c4ef26a73053a55af4c072",
+        "name": "sketch",
+        "slug": "sketch"
+      },
+      {
+        "_id": "55c4f07ea73053a55af4c079",
+        "name": "mobile",
+        "slug": "mobile"
+      },
+      {
+        "_id": "55c4d98aa73053a55af4c046",
+        "name": "iOS",
+        "slug": "ios"
+      },
+      {
+        "_id": "55c4ef05a73053a55af4c070",
+        "name": "modern",
+        "slug": "modern"
+      },
+      {
+        "_id": "58c244e81de3c10016cfd2fc",
+        "name": "minimal",
+        "slug": "minimal"
+      },
+      {
+        "_id": "5a8f4bfd644af3001c0f6f3a",
+        "name": "multipurpose",
+        "slug": "multipurpose"
+      },
+      {
+        "_id": "55c4ef35a73053a55af4c073",
+        "name": "photoshop",
+        "slug": "photoshop"
+      },
+      {
+        "_id": "59e5054619dfa6001725844a",
+        "name": "figma",
+        "slug": "figma"
+      },
+      {
+        "_id": "55c4da54a73053a55af4c05c",
+        "name": "social",
+        "slug": "social"
+      },
+      {
+        "_id": "5aa7d81d753dd4001ea9eff8",
+        "name": "media",
+        "slug": "media"
+      },
+      {
+        "_id": "56f07238f11b10f664c954e6",
+        "name": "music",
+        "slug": "music"
+      },
+      {
+        "_id": "5aa9910ab2824c001eb4adab",
+        "name": "news",
+        "slug": "news"
+      },
+      {
+        "_id": "56f060b7f11b10f664c9538b",
+        "name": "dashboard",
+        "slug": "dashboard"
+      },
+      {
+        "_id": "572a374e52ae5aae30ed2b45",
+        "name": "blog",
+        "slug": "blog"
+      },
+      {
+        "_id": "56e738cef11b10f664c8fd10",
+        "name": "ecommerce",
+        "slug": "ecommerce"
+      },
+      {
+        "_id": "56df76ecf11b10f664c8c164",
+        "name": "shopping",
+        "slug": "shopping"
+      }
+    ]
+  },
+  {
+    "Name": "Omega - Landing Page Design Template",
+    "Author": "FramerBite",
+    "Price": 12,
+    "Likes": 588,
+    "Comment": 27,
+    "Featured": true,
+    "Published": "2020-04-08T07:00:00.000Z",
+    "Type": [
+      {
+        "_id": "55c4eee0a73053a55af4c06e",
+        "name": "web",
+        "slug": "web"
+      },
+      {
+        "_id": "578d2306a8c6fb28322d23ab",
+        "name": "landing",
+        "slug": "landing"
+      }
+    ]
+  },
+  {
+    "Name": "Stacks – Ultimate UI Design System",
+    "Author": "UI8",
+    "Price": 58,
+    "Likes": 561,
+    "Comment": 9,
+    "Featured": true,
+    "Published": "2022-10-24T07:00:00.000Z",
+    "Type": [
+      {
+        "_id": "5c3bbf8de874dd0036d97993",
+        "name": "design system",
+        "slug": "design-system"
+      },
+      {
+        "_id": "5c91471fdc8b48010e28e53a",
+        "name": "UI Kits",
+        "slug": "ui-kits"
+      },
+      {
+        "_id": "5f42c5360dcd490038ea5528",
+        "name": "components",
+        "slug": "components"
+      },
+      {
+        "_id": "55ca32dff6a4bb2066c5ef13",
+        "name": "responsive",
+        "slug": "responsive"
+      },
+      {
+        "_id": "56d0e3c0b39852430c1e129d",
+        "name": "ui kit",
+        "slug": "ui-kit"
+      }
+    ]
+  },
+  {
+    "Name": "Slick Headers 2.0",
+    "Author": "Virgil Pana",
+    "Price": 28,
+    "Likes": 560,
+    "Comment": 7,
+    "Featured": true,
+    "Published": "2022-03-04T08:00:00.000Z",
+    "Type": [
+      {
+        "_id": "55c4eee0a73053a55af4c06e",
+        "name": "web",
+        "slug": "web"
+      },
+      {
+        "_id": "59bc4b329f56cd0018ac7cb3",
+        "name": "apple",
+        "slug": "apple"
+      }
+    ]
+  },
+  {
+    "Name": "Hygge - eCommerce",
+    "Author": "UI8",
+    "Price": 58,
+    "Likes": 541,
+    "Comment": 21,
+    "Featured": true,
+    "Published": "2020-06-18T07:00:00.000Z",
+    "Type": [
+      {
+        "_id": "55c4eee0a73053a55af4c06e",
+        "name": "web",
+        "slug": "web"
+      },
+      {
+        "_id": "55c4f07ea73053a55af4c079",
+        "name": "mobile",
+        "slug": "mobile"
+      },
+      {
+        "_id": "56df76ecf11b10f664c8c164",
+        "name": "shopping",
+        "slug": "shopping"
+      },
+      {
+        "_id": "55ca32dff6a4bb2066c5ef13",
+        "name": "responsive",
+        "slug": "responsive"
+      },
+      {
+        "_id": "5c91490bdc8b48010e28e574",
+        "name": "Coded",
+        "slug": "coded"
+      },
+      {
+        "_id": "5c91480edc8b48010e28e551",
+        "name": "Dark",
+        "slug": "dark"
+      },
+      {
+        "_id": "5c914819dc8b48010e28e552",
+        "name": "Light",
+        "slug": "light"
+      },
+      {
+        "_id": "59e5054619dfa6001725844a",
+        "name": "figma",
+        "slug": "figma"
+      },
+      {
+        "_id": "56e738cef11b10f664c8fd10",
+        "name": "ecommerce",
+        "slug": "ecommerce"
+      }
+    ]
+  },
+  {
+    "Name": "Brainwave - AI Landing Page Kit",
+    "Author": "UI8",
+    "Price": 78,
+    "Likes": 523,
+    "Comment": 31,
+    "Featured": true,
+    "Published": "2023-05-08T07:00:00.000Z",
+    "Type": [
+      {
+        "_id": "64279d9e537d310367fa04f8",
+        "name": "ai",
+        "slug": "ai"
+      }
+    ]
+  },
+  {
+    "Name": "IOFINANCE FinTech UI Kit",
+    "Author": "WhiteUI.Store",
+    "Price": 14,
+    "Likes": 522,
+    "Comment": 31,
+    "Featured": true,
+    "Published": "2018-09-28T07:00:00.000Z",
+    "Type": [
+      {
+        "_id": "576c590eca38e1dc03e15227",
+        "name": "adobe xd",
+        "slug": "adobe-xd"
+      },
+      {
+        "_id": "573b6cef778709cd2ce78e55",
+        "name": "XD",
+        "slug": "xd"
+      },
+      {
+        "_id": "55c4ef26a73053a55af4c072",
+        "name": "sketch",
+        "slug": "sketch"
+      },
+      {
+        "_id": "56df6e32f11b10f664c8c07b",
+        "name": "finance",
+        "slug": "finance"
+      },
+      {
+        "_id": "56d0e3c0b39852430c1e129d",
+        "name": "ui kit",
+        "slug": "ui-kit"
+      },
+      {
+        "_id": "56df76ecf11b10f664c8c166",
+        "name": "business",
+        "slug": "business"
+      },
+      {
+        "_id": "56df76ecf11b10f664c8c167",
+        "name": "vector",
+        "slug": "vector"
+      },
+      {
+        "_id": "59e5054619dfa6001725844a",
+        "name": "figma",
+        "slug": "figma"
+      },
+      {
+        "_id": "55c4ef35a73053a55af4c073",
+        "name": "photoshop",
+        "slug": "photoshop"
+      },
+      {
+        "_id": "55c4eee0a73053a55af4c06e",
+        "name": "web",
+        "slug": "web"
+      }
+    ]
+  },
+  {
+    "Name": "Substance Dashboard UI Kit",
+    "Author": "UI8",
+    "Price": 64,
+    "Likes": 508,
+    "Comment": 7,
+    "Featured": true,
+    "Published": "2021-06-28T07:00:00.000Z",
+    "Type": [
+      {
+        "_id": "55c4eee0a73053a55af4c06e",
+        "name": "web",
+        "slug": "web"
+      },
+      {
+        "_id": "55c4d98aa73053a55af4c046",
+        "name": "iOS",
+        "slug": "ios"
+      },
+      {
+        "_id": "55c4f07ea73053a55af4c079",
+        "name": "mobile",
+        "slug": "mobile"
+      },
+      {
+        "_id": "5c9147dcdc8b48010e28e54d",
+        "name": "Dashboards",
+        "slug": "dashboards"
+      },
+      {
+        "_id": "5ec57619541688003894c012",
+        "name": "productivity",
+        "slug": "productivity"
+      },
+      {
+        "_id": "56df6e32f11b10f664c8c07b",
+        "name": "finance",
+        "slug": "finance"
+      }
+    ]
+  },
+  {
+    "Name": "Social Dashboards UI Kit",
+    "Author": "UI8",
+    "Price": 34,
+    "Likes": 496,
+    "Comment": 9,
+    "Featured": true,
+    "Published": "2019-12-10T08:00:00.000Z",
+    "Type": [
+      {
+        "_id": "55c4d98aa73053a55af4c046",
+        "name": "iOS",
+        "slug": "ios"
+      },
+      {
+        "_id": "55c4f07ea73053a55af4c079",
+        "name": "mobile",
+        "slug": "mobile"
+      },
+      {
+        "_id": "55c4eee0a73053a55af4c06e",
+        "name": "web",
+        "slug": "web"
+      },
+      {
+        "_id": "56f060b7f11b10f664c9538b",
+        "name": "dashboard",
+        "slug": "dashboard"
+      },
+      {
+        "_id": "55c4ef26a73053a55af4c072",
+        "name": "sketch",
+        "slug": "sketch"
+      },
+      {
+        "_id": "59e5054619dfa6001725844a",
+        "name": "figma",
+        "slug": "figma"
+      },
+      {
+        "_id": "55c4da54a73053a55af4c05c",
+        "name": "social",
+        "slug": "social"
+      }
+    ]
+  },
+  {
+    "Name": "AstroClash: Play-to-Earn NFT Marketplace Kit",
+    "Author": "UI8",
+    "Price": 88,
+    "Likes": 489,
+    "Comment": 20,
+    "Featured": true,
+    "Published": "2022-08-01T07:00:00.000Z",
+    "Type": [
+      {
+        "_id": "55c4eee0a73053a55af4c06e",
+        "name": "web",
+        "slug": "web"
+      },
+      {
+        "_id": "55c4eeeba73053a55af4c06f",
+        "name": "tablet",
+        "slug": "tablet"
+      },
+      {
+        "_id": "55c4d98aa73053a55af4c046",
+        "name": "iOS",
+        "slug": "ios"
+      },
+      {
+        "_id": "55c4f07ea73053a55af4c079",
+        "name": "mobile",
+        "slug": "mobile"
+      },
+      {
+        "_id": "55ca32dff6a4bb2066c5ef13",
+        "name": "responsive",
+        "slug": "responsive"
+      },
+      {
+        "_id": "5a664f1da07f26001d809e00",
+        "name": "crypto",
+        "slug": "crypto"
+      },
+      {
+        "_id": "61f8ee9b17d68d003d534d24",
+        "name": "fintech",
+        "slug": "fintech"
+      },
+      {
+        "_id": "56e738cef11b10f664c8fd10",
+        "name": "ecommerce",
+        "slug": "ecommerce"
+      }
+    ]
+  },
+  {
+    "Name": "Material UI Kit 2.0",
+    "Author": "UI8",
+    "Price": 68,
+    "Likes": 489,
+    "Comment": 20,
+    "Featured": true,
+    "Published": "2021-03-08T08:00:00.000Z",
+    "Type": [
+      {
+        "_id": "55c4da02a73053a55af4c04c",
+        "name": "material",
+        "slug": "material"
+      },
+      {
+        "_id": "55c4d98aa73053a55af4c046",
+        "name": "iOS",
+        "slug": "ios"
+      },
+      {
+        "_id": "55c4ee82a73053a55af4c06a",
+        "name": "android",
+        "slug": "android"
+      },
+      {
+        "_id": "55c4eec5a73053a55af4c06c",
+        "name": "iphone",
+        "slug": "iphone"
+      },
+      {
+        "_id": "55c4ef35a73053a55af4c073",
+        "name": "photoshop",
+        "slug": "photoshop"
+      },
+      {
+        "_id": "55c4ef26a73053a55af4c072",
+        "name": "sketch",
+        "slug": "sketch"
+      },
+      {
+        "_id": "55c4da54a73053a55af4c05a",
+        "name": "colorful",
+        "slug": "colorful"
+      },
+      {
+        "_id": "55c4da54a73053a55af4c059",
+        "name": "clean",
+        "slug": "clean"
+      }
+    ]
+  },
+  {
+    "Name": "CaMo UI Kit",
+    "Author": "ThemeX",
+    "Price": 29,
+    "Likes": 485,
+    "Comment": 3,
+    "Featured": true,
+    "Published": "2021-03-03T08:00:00.000Z",
+    "Type": [
+      {
+        "_id": "55c4d98aa73053a55af4c046",
+        "name": "iOS",
+        "slug": "ios"
+      },
+      {
+        "_id": "55c4f07ea73053a55af4c079",
+        "name": "mobile",
+        "slug": "mobile"
+      },
+      {
+        "_id": "5c3bbf8de874dd0036d97993",
+        "name": "design system",
+        "slug": "design-system"
+      },
+      {
+        "_id": "56f060b7f11b10f664c9538b",
+        "name": "dashboard",
+        "slug": "dashboard"
+      }
+    ]
+  },
+  {
+    "Name": "Momotaro Health UI Kit",
+    "Author": "grace saraswati",
+    "Price": 40,
+    "Likes": 478,
+    "Comment": 8,
+    "Featured": false,
+    "Published": "2019-04-07T07:00:00.000Z",
+    "Type": [
+      {
+        "_id": "55c4d98aa73053a55af4c046",
+        "name": "iOS",
+        "slug": "ios"
+      },
+      {
+        "_id": "56d0e3c0b39852430c1e129d",
+        "name": "ui kit",
+        "slug": "ui-kit"
+      },
+      {
+        "_id": "575f180ed0a9b0c257d8daf0",
+        "name": "health",
+        "slug": "health"
+      },
+      {
+        "_id": "55c4f074a73053a55af4c078",
+        "name": "fitness",
+        "slug": "fitness"
+      },
+      {
+        "_id": "5c4b5c1e6a633300362fff7a",
+        "name": "medical",
+        "slug": "medical"
+      },
+      {
+        "_id": "59bc4b329f56cd0018ac7cb2",
+        "name": "iphonex",
+        "slug": "iphonex"
+      },
+      {
+        "_id": "55c4ef26a73053a55af4c072",
+        "name": "sketch",
+        "slug": "sketch"
+      }
+    ]
+  },
+  {
+    "Name": "IOWallet Mobile FinTech UI Kit",
+    "Author": "WhiteUI.Store",
+    "Price": 14,
+    "Likes": 477,
+    "Comment": 23,
+    "Featured": true,
+    "Published": "2018-11-08T08:00:00.000Z",
+    "Type": [
+      {
+        "_id": "56d0e3c0b39852430c1e129d",
+        "name": "ui kit",
+        "slug": "ui-kit"
+      },
+      {
+        "_id": "55c4f07ea73053a55af4c079",
+        "name": "mobile",
+        "slug": "mobile"
+      },
+      {
+        "_id": "55c4ef26a73053a55af4c072",
+        "name": "sketch",
+        "slug": "sketch"
+      },
+      {
+        "_id": "55c4ef35a73053a55af4c073",
+        "name": "photoshop",
+        "slug": "photoshop"
+      },
+      {
+        "_id": "576c590eca38e1dc03e15227",
+        "name": "adobe xd",
+        "slug": "adobe-xd"
+      },
+      {
+        "_id": "573b6cef778709cd2ce78e55",
+        "name": "XD",
+        "slug": "xd"
+      },
+      {
+        "_id": "59e5054619dfa6001725844a",
+        "name": "figma",
+        "slug": "figma"
+      },
+      {
+        "_id": "56df6e32f11b10f664c8c07b",
+        "name": "finance",
+        "slug": "finance"
+      },
+      {
+        "_id": "56df76ecf11b10f664c8c167",
+        "name": "vector",
+        "slug": "vector"
+      },
+      {
+        "_id": "55c4f0caa73053a55af4c07e",
+        "name": "symbol",
+        "slug": "symbol"
+      },
+      {
+        "_id": "55c4ef05a73053a55af4c070",
+        "name": "modern",
+        "slug": "modern"
+      },
+      {
+        "_id": "5a664f1da07f26001d809e00",
+        "name": "crypto",
+        "slug": "crypto"
+      }
+    ]
+  },
+  {
+    "Name": "Node – Crypto NFT iOS UI Kit",
+    "Author": "UI8",
+    "Price": 54,
+    "Likes": 473,
+    "Comment": 9,
+    "Featured": true,
+    "Published": "2021-07-20T07:00:00.000Z",
+    "Type": [
+      {
+        "_id": "55c4d98aa73053a55af4c046",
+        "name": "iOS",
+        "slug": "ios"
+      },
+      {
+        "_id": "55c4f07ea73053a55af4c079",
+        "name": "mobile",
+        "slug": "mobile"
+      },
+      {
+        "_id": "5a664f1da07f26001d809e00",
+        "name": "crypto",
+        "slug": "crypto"
+      },
+      {
+        "_id": "56df6e32f11b10f664c8c07b",
+        "name": "finance",
+        "slug": "finance"
+      }
+    ]
+  },
+  {
+    "Name": "Clever – Dashboard UI Kit",
+    "Author": "Webpixels",
+    "Price": 39,
+    "Likes": 468,
+    "Comment": 22,
+    "Featured": true,
+    "Published": "2020-12-09T08:00:00.000Z",
+    "Type": [
+      {
+        "_id": "55c4eee0a73053a55af4c06e",
+        "name": "web",
+        "slug": "web"
+      },
+      {
+        "_id": "5c3bbf8de874dd0036d97993",
+        "name": "design system",
+        "slug": "design-system"
+      }
+    ]
+  },
+  {
+    "Name": "Overpay - Finance Dashboard UI Kit",
+    "Author": "Unpixel",
+    "Price": 44,
+    "Likes": 465,
+    "Comment": 7,
+    "Featured": true,
+    "Published": "2022-03-03T08:00:00.000Z",
+    "Type": [
+      {
+        "_id": "55c4eee0a73053a55af4c06e",
+        "name": "web",
+        "slug": "web"
+      },
+      {
+        "_id": "56f060b7f11b10f664c9538b",
+        "name": "dashboard",
+        "slug": "dashboard"
+      }
+    ]
+  },
+  {
+    "Name": "Cleverly: Distance Learning UI Kit",
+    "Author": "UI8",
+    "Price": 38,
+    "Likes": 464,
+    "Comment": 5,
+    "Featured": true,
+    "Published": "2020-08-10T07:00:00.000Z",
+    "Type": [
+      {
+        "_id": "55c4d98aa73053a55af4c046",
+        "name": "iOS",
+        "slug": "ios"
+      },
+      {
+        "_id": "55c4f07ea73053a55af4c079",
+        "name": "mobile",
+        "slug": "mobile"
+      },
+      {
+        "_id": "56d0e3c0b39852430c1e12a0",
+        "name": "education",
+        "slug": "education"
+      }
+    ]
+  },
+  {
+    "Name": "Social Dashboards - React Native Kit",
+    "Author": "UI8",
+    "Price": 98,
+    "Likes": 463,
+    "Comment": 45,
+    "Featured": true,
+    "Published": "2020-04-23T07:00:00.000Z",
+    "Type": [
+      {
+        "_id": "56d0e3c0b39852430c1e129d",
+        "name": "ui kit",
+        "slug": "ui-kit"
+      },
+      {
+        "_id": "5c91490bdc8b48010e28e574",
+        "name": "Coded",
+        "slug": "coded"
+      },
+      {
+        "_id": "5a39670c54515d001951c732",
+        "name": "react",
+        "slug": "react"
+      },
+      {
+        "_id": "5a95af60f6bb6d001a6dc738",
+        "name": "reactJS",
+        "slug": "reactjs"
+      },
+      {
+        "_id": "55c4f07ea73053a55af4c079",
+        "name": "mobile",
+        "slug": "mobile"
+      },
+      {
+        "_id": "55c4d98aa73053a55af4c046",
+        "name": "iOS",
+        "slug": "ios"
+      },
+      {
+        "_id": "56f060b7f11b10f664c9538b",
+        "name": "dashboard",
+        "slug": "dashboard"
+      },
+      {
+        "_id": "55c4da54a73053a55af4c05c",
+        "name": "social",
+        "slug": "social"
+      }
+    ]
+  },
+  {
+    "Name": "CaDas Dashboard UI Kit",
+    "Author": "ThemeX",
+    "Price": 29,
+    "Likes": 463,
+    "Comment": 7,
+    "Featured": true,
+    "Published": "2020-08-16T07:00:00.000Z",
+    "Type": [
+      {
+        "_id": "55c4eee0a73053a55af4c06e",
+        "name": "web",
+        "slug": "web"
+      },
+      {
+        "_id": "56f060b7f11b10f664c9538b",
+        "name": "dashboard",
+        "slug": "dashboard"
+      }
+    ]
+  },
+  {
+    "Name": "Mega | iOS App UI Help Kit",
+    "Author": "Raytas Studio",
+    "Price": 12,
+    "Likes": 459,
+    "Comment": 9,
+    "Featured": true,
+    "Published": "2019-07-02T07:00:00.000Z",
+    "Type": [
+      {
+        "_id": "55c4d98aa73053a55af4c046",
+        "name": "iOS",
+        "slug": "ios"
+      },
+      {
+        "_id": "55c4eec5a73053a55af4c06c",
+        "name": "iphone",
+        "slug": "iphone"
+      },
+      {
+        "_id": "59bc4b329f56cd0018ac7cb2",
+        "name": "iphonex",
+        "slug": "iphonex"
+      },
+      {
+        "_id": "55c4ef26a73053a55af4c072",
+        "name": "sketch",
+        "slug": "sketch"
+      },
+      {
+        "_id": "59e5054619dfa6001725844a",
+        "name": "figma",
+        "slug": "figma"
+      },
+      {
+        "_id": "573b6cef778709cd2ce78e55",
+        "name": "XD",
+        "slug": "xd"
+      }
+    ]
+  },
+  {
+    "Name": "Dashcube - Dashboard Ui Kit",
+    "Author": "Maxim Sirotyuk",
+    "Price": 58,
+    "Likes": 449,
+    "Comment": 4,
+    "Featured": true,
+    "Published": "2021-07-01T07:00:00.000Z",
+    "Type": [
+      {
+        "_id": "55c4d98aa73053a55af4c046",
+        "name": "iOS",
+        "slug": "ios"
+      },
+      {
+        "_id": "55c4f07ea73053a55af4c079",
+        "name": "mobile",
+        "slug": "mobile"
+      },
+      {
+        "_id": "55c4eee0a73053a55af4c06e",
+        "name": "web",
+        "slug": "web"
+      },
+      {
+        "_id": "56f060b7f11b10f664c9538b",
+        "name": "dashboard",
+        "slug": "dashboard"
+      },
+      {
+        "_id": "5c9147dcdc8b48010e28e54d",
+        "name": "Dashboards",
+        "slug": "dashboards"
+      },
+      {
+        "_id": "56df6e32f11b10f664c8c07b",
+        "name": "finance",
+        "slug": "finance"
+      }
+    ]
+  },
+  {
+    "Name": "Nibble iOS UI Kit",
+    "Author": "UI8",
+    "Price": 19,
+    "Likes": 443,
+    "Comment": 12,
+    "Featured": true,
+    "Published": "2019-08-12T07:00:00.000Z",
+    "Type": [
+      {
+        "_id": "55c4d98aa73053a55af4c046",
+        "name": "iOS",
+        "slug": "ios"
+      },
+      {
+        "_id": "55c4f07ea73053a55af4c079",
+        "name": "mobile",
+        "slug": "mobile"
+      },
+      {
+        "_id": "55c4daf8a73053a55af4c064",
+        "name": "food",
+        "slug": "food"
+      },
+      {
+        "_id": "56df76ecf11b10f664c8c164",
+        "name": "shopping",
+        "slug": "shopping"
+      }
+    ]
+  },
+  {
+    "Name": "Nibble: Food Delivery Web UI Kit",
+    "Author": "UI8",
+    "Price": 38,
+    "Likes": 441,
+    "Comment": 6,
+    "Featured": true,
+    "Published": "2020-10-02T07:00:00.000Z",
+    "Type": [
+      {
+        "_id": "55c4eee0a73053a55af4c06e",
+        "name": "web",
+        "slug": "web"
+      },
+      {
+        "_id": "55c4f07ea73053a55af4c079",
+        "name": "mobile",
+        "slug": "mobile"
+      },
+      {
+        "_id": "55ca32dff6a4bb2066c5ef13",
+        "name": "responsive",
+        "slug": "responsive"
+      }
+    ]
+  },
+  {
+    "Name": "Outfitr - Fashion UI Kit",
+    "Author": "Flexin Studio",
+    "Price": 14,
+    "Likes": 434,
+    "Comment": 22,
+    "Featured": true,
+    "Published": "2020-04-27T07:00:00.000Z",
+    "Type": [
+      {
+        "_id": "55c4d98aa73053a55af4c046",
+        "name": "iOS",
+        "slug": "ios"
+      },
+      {
+        "_id": "55c4f07ea73053a55af4c079",
+        "name": "mobile",
+        "slug": "mobile"
+      },
+      {
+        "_id": "581cd3533447511500241b16",
+        "name": "fashion",
+        "slug": "fashion"
+      },
+      {
+        "_id": "56df76ecf11b10f664c8c164",
+        "name": "shopping",
+        "slug": "shopping"
+      }
+    ]
+  },
+  {
+    "Name": "Administrator Dashboard: Sketch & Figma",
+    "Author": "Great Simple Studio",
+    "Price": 48,
+    "Likes": 427,
+    "Comment": 8,
+    "Featured": true,
+    "Published": "2019-04-04T07:00:00.000Z",
+    "Type": [
+      {
+        "_id": "56d0e3c0b39852430c1e129d",
+        "name": "ui kit",
+        "slug": "ui-kit"
+      },
+      {
+        "_id": "5c3bbf8de874dd0036d97993",
+        "name": "design system",
+        "slug": "design-system"
+      },
+      {
+        "_id": "5a4d46567162050019eddd62",
+        "name": "admin",
+        "slug": "admin"
+      },
+      {
+        "_id": "56f060b7f11b10f664c9538b",
+        "name": "dashboard",
+        "slug": "dashboard"
+      },
+      {
+        "_id": "5c9147dcdc8b48010e28e54d",
+        "name": "Dashboards",
+        "slug": "dashboards"
+      },
+      {
+        "_id": "5c91480edc8b48010e28e551",
+        "name": "Dark",
+        "slug": "dark"
+      },
+      {
+        "_id": "55c4ef05a73053a55af4c070",
+        "name": "modern",
+        "slug": "modern"
+      },
+      {
+        "_id": "5c914819dc8b48010e28e552",
+        "name": "Light",
+        "slug": "light"
+      },
+      {
+        "_id": "55c4ef26a73053a55af4c072",
+        "name": "sketch",
+        "slug": "sketch"
+      },
+      {
+        "_id": "59e5054619dfa6001725844a",
+        "name": "figma",
+        "slug": "figma"
+      }
+    ]
+  },
+  {
+    "Name": "BetaCall UI Kit",
+    "Author": "WhiteUI.Store",
+    "Price": 18,
+    "Likes": 424,
+    "Comment": 9,
+    "Featured": true,
+    "Published": "2020-07-23T07:00:00.000Z",
+    "Type": [
+      {
+        "_id": "55c4eee0a73053a55af4c06e",
+        "name": "web",
+        "slug": "web"
+      },
+      {
+        "_id": "55c4f07ea73053a55af4c079",
+        "name": "mobile",
+        "slug": "mobile"
+      },
+      {
+        "_id": "56f060b7f11b10f664c9538b",
+        "name": "dashboard",
+        "slug": "dashboard"
+      }
+    ]
+  },
+  {
+    "Name": "Paradox – Premium SaaS landing page kit",
+    "Author": "UI8",
+    "Price": 78,
+    "Likes": 424,
+    "Comment": 20,
+    "Featured": true,
+    "Published": "2022-07-19T07:00:00.000Z",
+    "Type": [
+      {
+        "_id": "5a79ea42b88a110019d95119",
+        "name": "framer",
+        "slug": "framer"
+      },
+      {
+        "_id": "59e5054619dfa6001725844a",
+        "name": "figma",
+        "slug": "figma"
+      },
+      {
+        "_id": "578d2306a8c6fb28322d23ab",
+        "name": "landing",
+        "slug": "landing"
+      },
+      {
+        "_id": "56df6e32f11b10f664c8c079",
+        "name": "design",
+        "slug": "design"
+      },
+      {
+        "_id": "56d0e3c0b39852430c1e129d",
+        "name": "ui kit",
+        "slug": "ui-kit"
+      },
+      {
+        "_id": "55c4eee0a73053a55af4c06e",
+        "name": "web",
+        "slug": "web"
+      },
+      {
+        "_id": "577ea9147a152145057e0144",
+        "name": "tech",
+        "slug": "tech"
+      }
+    ]
+  },
+  {
+    "Name": "Awesome iOS UI Kit",
+    "Author": "uibundle.com",
+    "Price": 20,
+    "Likes": 422,
+    "Comment": 37,
+    "Featured": true,
+    "Published": "2018-04-21T07:00:00.000Z",
+    "Type": [
+      {
+        "_id": "56d0e3c0b39852430c1e129d",
+        "name": "ui kit",
+        "slug": "ui-kit"
+      },
+      {
+        "_id": "55c4d98aa73053a55af4c046",
+        "name": "iOS",
+        "slug": "ios"
+      },
+      {
+        "_id": "55c4ef26a73053a55af4c072",
+        "name": "sketch",
+        "slug": "sketch"
+      },
+      {
+        "_id": "55c4f07ea73053a55af4c079",
+        "name": "mobile",
+        "slug": "mobile"
+      },
+      {
+        "_id": "59bc4b329f56cd0018ac7cb2",
+        "name": "iphonex",
+        "slug": "iphonex"
+      },
+      {
+        "_id": "59b9f2c4395ebd0035f60467",
+        "name": "iphone8",
+        "slug": "iphone8"
+      },
+      {
+        "_id": "56df76ecf11b10f664c8c167",
+        "name": "vector",
+        "slug": "vector"
+      }
+    ]
+  },
+  {
+    "Name": "Daility 2 UI Kit | 280+ Artboards (Sketch, Figma, Adobe XD)",
+    "Author": "UI8",
+    "Price": 68,
+    "Likes": 421,
+    "Comment": 19,
+    "Featured": true,
+    "Published": "2021-03-24T07:00:00.000Z",
+    "Type": [
+      {
+        "_id": "55c4d98aa73053a55af4c046",
+        "name": "iOS",
+        "slug": "ios"
+      },
+      {
+        "_id": "55c4f07ea73053a55af4c079",
+        "name": "mobile",
+        "slug": "mobile"
+      }
+    ]
+  },
+  {
+    "Name": "Social Media UI Kit",
+    "Author": "D4ME_",
+    "Price": 14,
+    "Likes": 419,
+    "Comment": 22,
+    "Featured": true,
+    "Published": "2021-04-07T07:00:00.000Z",
+    "Type": [
+      {
+        "_id": "55c4d98aa73053a55af4c046",
+        "name": "iOS",
+        "slug": "ios"
+      },
+      {
+        "_id": "55c4f07ea73053a55af4c079",
+        "name": "mobile",
+        "slug": "mobile"
+      }
+    ]
+  },
+  {
+    "Name": "Velvet UI Kit",
+    "Author": "Harpen Design",
+    "Price": 22,
+    "Likes": 414,
+    "Comment": 11,
+    "Featured": true,
+    "Published": "2018-01-22T08:00:00.000Z",
+    "Type": [
+      {
+        "_id": "55c4d98aa73053a55af4c046",
+        "name": "iOS",
+        "slug": "ios"
+      },
+      {
+        "_id": "55c4ef26a73053a55af4c072",
+        "name": "sketch",
+        "slug": "sketch"
+      },
+      {
+        "_id": "56d0e3c0b39852430c1e129d",
+        "name": "ui kit",
+        "slug": "ui-kit"
+      },
+      {
+        "_id": "55c4f07ea73053a55af4c079",
+        "name": "mobile",
+        "slug": "mobile"
+      }
+    ]
+  },
+  {
+    "Name": "Cleverly: Distance Learning Web UI Kit",
+    "Author": "UI8",
+    "Price": 38,
+    "Likes": 412,
+    "Comment": 7,
+    "Featured": true,
+    "Published": "2020-09-01T07:00:00.000Z",
+    "Type": [
+      {
+        "_id": "55c4eee0a73053a55af4c06e",
+        "name": "web",
+        "slug": "web"
+      },
+      {
+        "_id": "55ca32dff6a4bb2066c5ef13",
+        "name": "responsive",
+        "slug": "responsive"
+      },
+      {
+        "_id": "56d0e3c0b39852430c1e12a0",
+        "name": "education",
+        "slug": "education"
+      },
+      {
+        "_id": "5c91490bdc8b48010e28e574",
+        "name": "Coded",
+        "slug": "coded"
+      },
+      {
+        "_id": "56f19813f11b10f664c96140",
+        "name": "html",
+        "slug": "html"
+      },
+      {
+        "_id": "5a95af60f6bb6d001a6dc738",
+        "name": "reactJS",
+        "slug": "reactjs"
+      }
+    ]
+  },
+  {
+    "Name": "Wiredunk - Landing Page Template for Multipurposes",
+    "Author": "Graphicdunk",
+    "Price": 22,
+    "Likes": 407,
+    "Comment": 4,
+    "Featured": true,
+    "Published": "2020-03-09T07:00:00.000Z",
+    "Type": [
+      {
+        "_id": "55c4eee0a73053a55af4c06e",
+        "name": "web",
+        "slug": "web"
+      },
+      {
+        "_id": "55c4f07ea73053a55af4c079",
+        "name": "mobile",
+        "slug": "mobile"
+      },
+      {
+        "_id": "5c3bbf8de874dd0036d97993",
+        "name": "design system",
+        "slug": "design-system"
+      }
+    ]
+  },
+  {
+    "Name": "Food Hub UI Kit",
+    "Author": "Prelook Studio",
+    "Price": 49,
+    "Likes": 406,
+    "Comment": 23,
+    "Featured": true,
+    "Published": "2020-08-24T07:00:00.000Z",
+    "Type": [
+      {
+        "_id": "55c4d98aa73053a55af4c046",
+        "name": "iOS",
+        "slug": "ios"
+      },
+      {
+        "_id": "55c4f07ea73053a55af4c079",
+        "name": "mobile",
+        "slug": "mobile"
+      },
+      {
+        "_id": "55c4daf8a73053a55af4c064",
+        "name": "food",
+        "slug": "food"
+      }
+    ]
+  },
+  {
+    "Name": "Roomsfy Web and Mobile UI kit",
+    "Author": "WhiteUI.Store",
+    "Price": 18,
+    "Likes": 391,
+    "Comment": 9,
+    "Featured": true,
+    "Published": "2020-11-17T08:00:00.000Z",
+    "Type": [
+      {
+        "_id": "55c4eee0a73053a55af4c06e",
+        "name": "web",
+        "slug": "web"
+      },
+      {
+        "_id": "55c4f07ea73053a55af4c079",
+        "name": "mobile",
+        "slug": "mobile"
+      },
+      {
+        "_id": "55ca32dff6a4bb2066c5ef13",
+        "name": "responsive",
+        "slug": "responsive"
+      },
+      {
+        "_id": "5f5676548c16e0004c65d931",
+        "name": "real estate",
+        "slug": "real-estate"
+      },
+      {
+        "_id": "56df6e32f11b10f664c8c075",
+        "name": "travel",
+        "slug": "travel"
+      }
+    ]
+  },
+  {
+    "Name": "🍱 Bento Cards: Multipurpose",
+    "Author": "UI8",
+    "Price": 78,
+    "Likes": 390,
+    "Comment": 19,
+    "Featured": true,
+    "Published": "2024-05-08T07:00:00.000Z",
+    "Type": [
+      {
+        "_id": "55c4eee0a73053a55af4c06e",
+        "name": "web",
+        "slug": "web"
+      },
+      {
+        "_id": "55c4f07ea73053a55af4c079",
+        "name": "mobile",
+        "slug": "mobile"
+      },
+      {
+        "_id": "5c3bbf8de874dd0036d97993",
+        "name": "design system",
+        "slug": "design-system"
+      }
+    ]
+  },
+  {
+    "Name": "CaLan Landing Kits",
+    "Author": "ThemeX",
+    "Price": 32,
+    "Likes": 371,
+    "Comment": 12,
+    "Featured": false,
+    "Published": "2020-12-10T08:00:00.000Z",
+    "Type": [
+      {
+        "_id": "55c4eee0a73053a55af4c06e",
+        "name": "web",
+        "slug": "web"
+      },
+      {
+        "_id": "55ca32dff6a4bb2066c5ef13",
+        "name": "responsive",
+        "slug": "responsive"
+      },
+      {
+        "_id": "578d2306a8c6fb28322d23ab",
+        "name": "landing",
+        "slug": "landing"
+      }
+    ]
+  },
+  {
+    "Name": "Uranus v1.3 - Wireframe Kit",
+    "Author": "Simmmple",
+    "Price": 24,
+    "Likes": 371,
+    "Comment": 16,
+    "Featured": true,
+    "Published": "2020-11-10T08:00:00.000Z",
+    "Type": [
+      {
+        "_id": "55c4eee0a73053a55af4c06e",
+        "name": "web",
+        "slug": "web"
+      }
+    ]
+  },
+  {
+    "Name": "Nepro – Multipurpose Mobile HTML5 Template 🚀",
+    "Author": "Orabic",
+    "Price": 26,
+    "Likes": 368,
+    "Comment": 39,
+    "Featured": true,
+    "Published": "2021-06-11T07:00:00.000Z",
+    "Type": [
+      {
+        "_id": "55c4d98aa73053a55af4c046",
+        "name": "iOS",
+        "slug": "ios"
+      },
+      {
+        "_id": "55c4f07ea73053a55af4c079",
+        "name": "mobile",
+        "slug": "mobile"
+      },
+      {
+        "_id": "5c91490bdc8b48010e28e574",
+        "name": "Coded",
+        "slug": "coded"
+      },
+      {
+        "_id": "5a8f4bfd644af3001c0f6f3a",
+        "name": "multipurpose",
+        "slug": "multipurpose"
+      },
+      {
+        "_id": "56e738cef11b10f664c8fd10",
+        "name": "ecommerce",
+        "slug": "ecommerce"
+      }
+    ]
+  },
+  {
+    "Name": "Hi - Social Service App UI KIT",
+    "Author": "Vektora Studio",
+    "Price": 10,
+    "Likes": 365,
+    "Comment": 11,
+    "Featured": true,
+    "Published": "2020-01-14T08:00:00.000Z",
+    "Type": [
+      {
+        "_id": "55c4d98aa73053a55af4c046",
+        "name": "iOS",
+        "slug": "ios"
+      },
+      {
+        "_id": "55c4f07ea73053a55af4c079",
+        "name": "mobile",
+        "slug": "mobile"
+      },
+      {
+        "_id": "55c4da54a73053a55af4c05c",
+        "name": "social",
+        "slug": "social"
+      }
+    ]
+  },
+  {
+    "Name": "freud UI Kit: AI Mental Health App",
+    "Author": "strangehelix.bio",
+    "Price": 35,
+    "Likes": 360,
+    "Comment": 7,
+    "Featured": true,
+    "Published": "2023-08-09T07:00:00.000Z",
+    "Type": [
+      {
+        "_id": "55c4f07ea73053a55af4c079",
+        "name": "mobile",
+        "slug": "mobile"
+      },
+      {
+        "_id": "64279d9e537d310367fa04f8",
+        "name": "ai",
+        "slug": "ai"
+      }
+    ]
+  }
+]

@@ -1,0 +1,389 @@
+[
+  {
+    "title": "Figma Resources",
+    "subtitle": "Square Dashboard UI Kit",
+    "product": {
+      "_id": "5cea2a5c3876ce01054fe28f",
+      "type": "item",
+      "features": [
+        "300 Screens",
+        "Desktop and Mobile",
+        "Available in Dark Theme",
+        "100% Color customizable.",
+        "Suitable for Sketch & Figma",
+        "Free font used"
+      ],
+      "exclusive": false,
+      "freebie": false,
+      "previously_featured": true,
+      "show_nav": false,
+      "compatibility": [
+        "Sketch",
+        "Figma"
+      ],
+      "bundle_items": [],
+      "is_subscription": false,
+      "category": [
+        {
+          "_id": "5dcef2a215ff620038ff2701",
+          "name": "Figma Resources",
+          "slug": "figma"
+        },
+        {
+          "_id": "53cc9bc96f8ba8f9fa66d314",
+          "name": "UI Kits",
+          "slug": "ui-kits"
+        }
+      ],
+      "tags": [
+        {
+          "_id": "56f060b7f11b10f664c9538b",
+          "name": "dashboard",
+          "slug": "dashboard"
+        },
+        {
+          "_id": "5c9147dcdc8b48010e28e54d",
+          "name": "Dashboards",
+          "slug": "dashboards"
+        },
+        {
+          "_id": "56d0e3c0b39852430c1e129d",
+          "name": "ui kit",
+          "slug": "ui-kit"
+        },
+        {
+          "_id": "55c4ef26a73053a55af4c072",
+          "name": "sketch",
+          "slug": "sketch"
+        },
+        {
+          "_id": "5c3bbf8de874dd0036d97993",
+          "name": "design system",
+          "slug": "design-system"
+        },
+        {
+          "_id": "5c08531ffa02200035dcf314",
+          "name": "webdesign",
+          "slug": "webdesign"
+        },
+        {
+          "_id": "55c4eee0a73053a55af4c06e",
+          "name": "web",
+          "slug": "web"
+        }
+      ],
+      "has_scaled_images": false,
+      "hide_hero": false,
+      "seasonal_promo_enabled": true,
+      "status": "active",
+      "name": "Square Dashboard UI Kit",
+      "slug": "square-dashboard-ui-kit",
+      "blurb": "Ultimate dashboard UI Kit including 300 screens inside.",
+      "price": 7900,
+      "description": "Overview\r\n--------------------------------------------\r\nSquare Dashboard UI kit Crafted with passion and deep precision, this kit dashboard has features that are very complete according to your product needs. Available in various elements for the needs of Project Management, Messaging Platform, Social Media Analytics, Sales Analytics, Job Search, Knowledge Base, Education, and Signup/Login Form. Made with a unique style using rounded corner shape & modern color scheme. Make it looks dynamic and matches with the current and future design styles.\r\n\r\nWith a total of 300 screens, 600 symbols, and 130+ text styles, it will help you create prototypes for any dashboard you are working on. Created using shape layers, free Google fonts, and vector graphic images. Square comes in sketch file format, you can easily combine it with other plugins.\r\n\r\nWhat's inside?\r\n--------------------------------------------\r\n- 130 Desktop Screens\r\n- 170 Mobile Screens\r\n- 600+ Symbols\r\n- 130+ Text Styles\r\n- 8 Conceptual Dashboard Categories\r\n- UI Styleguide\r\n- Available in Dark Theme [NEW]\r\n- Available in Sketch and Figma File\r\n\r\n\r\nFeatures\r\n--------------------------------------------\r\n- Retina ready\r\n- Vector Shapes\r\n- Free fonts used\r\n- Properly named layers\r\n- Organized structured layers\r\n\r\n\r\nScreen Categories\r\n--------------------------------------------\r\n💼 Project Management\r\n📈 Sales Analytics\r\n💌 Messaging Platform\r\n🎳 Social Media\r\n👩🏻‍💻 Job Search\r\n📕 Knowledge Base\r\n👨🏻‍🎓 Education\r\n🔑 Login & Sign Up\r\n\r\n\r\nUpdates\r\n--------------------------------------------\r\n(Update 1.1) 31 June 2019 -- Updated!\r\n- 26 screens in mobile design.\r\n- Available in Figma.\r\n\r\n(Update 1.2) 31 July 2019 -- Updated!\r\n- 39 New Screens in Desktop\r\n- 56 New Screens in Mobile\r\n- UI Style guide\r\n\r\n(Update 1.3) 30 September 2019 -- Updated!\r\n- Dark Mode in Desktop (65 Screens)\r\n- Dark Mode in Mobile (85 Screens)\r\n- Dark theme elements and guides\r\n- Added more tooltips\r\n\r\n(Update 1.4) 17 February 2020 -- Updated!\r\n- Fix .fig file\r\n\r\nWith love,\r\n\r\nIconspace Team",
+      "live_preview": "",
+      "video_embed": "",
+      "hero_image": "https://images.ui8.net/uploads/hero_1558849955406.png",
+      "detail_images": [
+        {
+          "video_poster_version": 0,
+          "_id": "620a4a1a02f6ef003b00281a",
+          "url": "https://images.ui8.net/uploads/01-cover_1569896434055.png"
+        },
+        {
+          "video_poster_version": 0,
+          "_id": "620a4a1a02f6ef003b00281b",
+          "url": "https://images.ui8.net/uploads/02_1569896428927.png"
+        },
+        {
+          "video_poster_version": 0,
+          "_id": "620a4a1a02f6ef003b00281c",
+          "url": "https://images.ui8.net/uploads/03_1569896424902.png"
+        },
+        {
+          "video_poster_version": 0,
+          "_id": "620a4a1a02f6ef003b00281d",
+          "url": "https://images.ui8.net/uploads/04_1569896418597.png"
+        },
+        {
+          "video_poster_version": 0,
+          "_id": "620a4a1a02f6ef003b00281e",
+          "url": "https://images.ui8.net/uploads/05_1569896412628.png"
+        },
+        {
+          "video_poster_version": 0,
+          "_id": "620a4a1a02f6ef003b00281f",
+          "url": "https://images.ui8.net/uploads/06_1569896407176.png"
+        },
+        {
+          "video_poster_version": 0,
+          "_id": "620a4a1a02f6ef003b002820",
+          "url": "https://images.ui8.net/uploads/07_1569896404239.png"
+        },
+        {
+          "video_poster_version": 0,
+          "_id": "620a4a1a02f6ef003b002821",
+          "url": "https://images.ui8.net/uploads/08_1569896397970.png"
+        },
+        {
+          "video_poster_version": 0,
+          "_id": "620a4a1a02f6ef003b002822",
+          "url": "https://images.ui8.net/uploads/09_1569896392504.png"
+        },
+        {
+          "video_poster_version": 0,
+          "_id": "620a4a1a02f6ef003b002823",
+          "url": "https://images.ui8.net/uploads/10_1569896386543.png"
+        }
+      ],
+      "full_preview_images": [
+        {
+          "_id": "620a4a1a02f6ef003b002824",
+          "url": "https://images.ui8.net/uploads/full-preview-1_1564571200548.png"
+        },
+        {
+          "_id": "620a4a1a02f6ef003b002825",
+          "url": "https://images.ui8.net/uploads/full-preview-2_1564571196430.png"
+        },
+        {
+          "_id": "620a4a1a02f6ef003b002826",
+          "url": "https://images.ui8.net/uploads/full-preview-3_1564571192311.png"
+        },
+        {
+          "_id": "620a4a1a02f6ef003b002827",
+          "url": "https://images.ui8.net/uploads/full-preview-4_1564571186949.png"
+        },
+        {
+          "_id": "620a4a1a02f6ef003b002828",
+          "url": "https://images.ui8.net/uploads/full-preview-5_1564571183400.png"
+        },
+        {
+          "_id": "620a4a1a02f6ef003b002829",
+          "url": "https://images.ui8.net/uploads/full-preview-6_1564571176297.png"
+        },
+        {
+          "_id": "620a4a1a02f6ef003b00282a",
+          "url": "https://images.ui8.net/uploads/full-preview-7_1564571169563.png"
+        },
+        {
+          "_id": "620a4a1a02f6ef003b00282b",
+          "url": "https://images.ui8.net/uploads/full-preview-8_1564571164573.png"
+        },
+        {
+          "_id": "620a4a1a02f6ef003b00282c",
+          "url": "https://images.ui8.net/uploads/full-preview-9_1564571160229.png"
+        },
+        {
+          "_id": "620a4a1a02f6ef003b00282d",
+          "url": "https://images.ui8.net/uploads/full-preview-10_1564571155805.png"
+        },
+        {
+          "_id": "620a4a1a02f6ef003b00282e",
+          "url": "https://images.ui8.net/uploads/full-preview-11_1569895765505.png"
+        },
+        {
+          "_id": "620a4a1a02f6ef003b00282f",
+          "url": "https://images.ui8.net/uploads/full-preview-12_1569895777057.png"
+        },
+        {
+          "_id": "620a4a1a02f6ef003b002830",
+          "url": "https://images.ui8.net/uploads/full-preview-11_1564571147243.png"
+        }
+      ],
+      "files": [
+        {
+          "free": false,
+          "_id": "620a4a1a02f6ef003b002831",
+          "name": "Square Dashboard UI Kit (Update 1.4-Figma file updated).zip",
+          "size": 287343989
+        }
+      ],
+      "card_image": "https://images.ui8.net/uploads/product-card_1569897017871.png",
+      "created_at": "2019-05-27T07:00:00.000Z",
+      "author": {
+        "_id": "5b6d4540dbac700036a114a5",
+        "display_name_slug": "designspace",
+        "avatar_url": "https://images.ui8.net/uploads/logogram_dark_1@2x_1584607720371.png",
+        "display_name": "Designspace",
+        "for_hire": true,
+        "ga_tracking_code": "UA-123960513-1",
+        "has_resized_avatar": true,
+        "avatar_url_version": 0
+      },
+      "on_sale": false,
+      "updated_at": "2022-02-14T13:47:19.093Z",
+      "filesize": 287343989,
+      "seasonal_promo_price": 3900,
+      "discussion": {
+        "_id": "5cec1ec6eb0cc00038e661de",
+        "total_comments": 49,
+        "locked": false
+      },
+      "source_url": "",
+      "video_intro": "",
+      "video_source": "",
+      "likes": 1438,
+      "site_promo": true,
+      "has_resized_card_image": true,
+      "card_image_version": 1,
+      "compatibility_string": "sketch-compatible figma-compatible",
+      "free_files": [],
+      "paid_files": [
+        {
+          "free": false,
+          "_id": "620a4a1a02f6ef003b002831",
+          "name": "Square Dashboard UI Kit (Update 1.4-Figma file updated).zip",
+          "size": 287343989
+        }
+      ]
+    },
+    "products": [
+      {
+        "category": [
+          {
+            "_id": "5dcef2a215ff620038ff2701",
+            "name": "Figma Resources",
+            "slug": "figma"
+          },
+          {
+            "_id": "53cc9bc96f8ba8f9fa66d314",
+            "name": "UI Kits",
+            "slug": "ui-kits"
+          }
+        ],
+        "has_scaled_images": false,
+        "has_resized_card_image": true,
+        "card_image_version": 1,
+        "seasonal_promo_enabled": true,
+        "_id": "66e45f17de353d00323f1948",
+        "name": "Chroma Modular Responsive SaaS Website Template",
+        "slug": "chroma-modular-responsive-saas-website-template",
+        "price": 4900,
+        "card_image": "https://images.ui8.net/uploads/cover-product-card_1726241222344.png",
+        "files": [
+          {
+            "free": false,
+            "_id": "66e7a6ed05a12a00328e7a3b",
+            "name": "Chroma - Modular SaaS Website Template.fig.zip",
+            "size": 40276645
+          }
+        ],
+        "author": {
+          "has_resized_avatar": true,
+          "avatar_url_version": 0,
+          "_id": "5b6d4540dbac700036a114a5",
+          "display_name_slug": "designspace",
+          "avatar_url": "https://images.ui8.net/uploads/logogram_dark_1@2x_1584607720371.png",
+          "display_name": "Designspace"
+        },
+        "on_sale": false,
+        "seasonal_promo_price": 2400,
+        "likes": 37
+      },
+      {
+        "category": [
+          {
+            "_id": "5dcef2a215ff620038ff2701",
+            "name": "Figma Resources",
+            "slug": "figma"
+          },
+          {
+            "_id": "53cc9bc96f8ba8f9fa66d314",
+            "name": "UI Kits",
+            "slug": "ui-kits"
+          }
+        ],
+        "has_scaled_images": false,
+        "has_resized_card_image": true,
+        "card_image_version": 1,
+        "seasonal_promo_enabled": true,
+        "_id": "63800e8ffffe3c012c843e30",
+        "name": "Prism Dashboard UI Kit",
+        "slug": "prism-dashboard-ui-kit",
+        "price": 7400,
+        "card_image": "https://images.ui8.net/uploads/cover-product-card_1669336629955.png",
+        "files": [
+          {
+            "free": false,
+            "_id": "63804225b5b0160053802eb5",
+            "name": "Prism Dashboard UI Kit.zip",
+            "size": 235880729
+          }
+        ],
+        "author": {
+          "has_resized_avatar": true,
+          "avatar_url_version": 0,
+          "_id": "5b6d4540dbac700036a114a5",
+          "display_name_slug": "designspace",
+          "avatar_url": "https://images.ui8.net/uploads/logogram_dark_1@2x_1584607720371.png",
+          "display_name": "Designspace"
+        },
+        "on_sale": false,
+        "seasonal_promo_price": 3700,
+        "likes": 156
+      },
+      {
+        "category": [
+          {
+            "_id": "5dcef2a215ff620038ff2701",
+            "name": "Figma Resources",
+            "slug": "figma"
+          },
+          {
+            "_id": "53cc9bc96f8ba8f9fa66d314",
+            "name": "UI Kits",
+            "slug": "ui-kits"
+          }
+        ],
+        "has_scaled_images": false,
+        "has_resized_card_image": true,
+        "card_image_version": 1,
+        "seasonal_promo_enabled": true,
+        "_id": "631fcaa6c7975c004cee9deb",
+        "name": "Yoora CMS Website Design Template",
+        "slug": "yoora-cms-website-design-template",
+        "price": 1600,
+        "files": [
+          {
+            "free": false,
+            "_id": "632007c6c7975c004cee9f39",
+            "name": "Yoora CMS.zip",
+            "size": 76712056
+          }
+        ],
+        "card_image": "https://images.ui8.net/uploads/cover-product-card_1663027668655.png",
+        "author": {
+          "has_resized_avatar": true,
+          "avatar_url_version": 0,
+          "_id": "5b6d4540dbac700036a114a5",
+          "display_name_slug": "designspace",
+          "avatar_url": "https://images.ui8.net/uploads/logogram_dark_1@2x_1584607720371.png",
+          "display_name": "Designspace"
+        },
+        "on_sale": false,
+        "seasonal_promo_price": 800,
+        "likes": 131
+      }
+    ],
+    "previews": [
+      "full_preview_images"
+    ],
+    "meta_description": "Overview\r\n--------------------------------------------\r\nSquare Dashboard UI kit Crafted with passion and deep precision, this kit dashboard has features that are very complete according to your product needs. Available in various elements for the needs of Project Management, Messaging Platform, Social Media Analytics, Sales Analytics, Job Search, Knowledge Base, Education, and Signup/Login Form. Made with a unique style using rounded corner shape & modern color scheme. Make it looks dynamic and matches with the current and future design styles.\r\n\r\nWith a total of 300 screens, 600 symbols, and 130+ text styles, it will help you create prototypes for any dashboard you are working on. Created using shape layers, free Google fonts, and vector graphic images. Square comes in sketch file format, you can easily combine it with other plugins.\r\n\r\nWhat's inside?\r\n--------------------------------------------\r\n- 130 Desktop Screens\r\n- 170 Mobile Screens\r\n- 600+ Symbols\r\n- 130+ Text Styles\r\n- 8 Conceptual Dashboard Categories\r\n- UI Styleguide\r\n- Available in Dark Theme [NEW]\r\n- Available in Sketch and Figma File\r\n\r\n\r\nFeatures\r\n--------------------------------------------\r\n- Retina ready\r\n- Vector Shapes\r\n- Free fonts used\r\n- Properly named layers\r\n- Organized structured layers\r\n\r\n\r\nScreen Categories\r\n--------------------------------------------\r\n💼 Project Management\r\n📈 Sales Analytics\r\n💌 Messaging Platform\r\n🎳 Social Media\r\n👩🏻‍💻 Job Search\r\n📕 Knowledge Base\r\n👨🏻‍🎓 Education\r\n🔑 Login & Sign Up\r\n\r\n\r\nUpdates\r\n--------------------------------------------\r\n(Update 1.1) 31 June 2019 -- Updated!\r\n- 26 screens in mobile design.\r\n- Available in Figma.\r\n\r\n(Update 1.2) 31 July 2019 -- Updated!\r\n- 39 New Screens in Desktop\r\n- 56 New Screens in Mobile\r\n- UI Style guide\r\n\r\n(Update 1.3) 30 September 2019 -- Updated!\r\n- Dark Mode in Desktop (65 Screens)\r\n- Dark Mode in Mobile (85 Screens)\r\n- Dark theme elements and guides\r\n- Added more tooltips\r\n\r\n(Update 1.4) 17 February 2020 -- Updated!\r\n- Fix .fig file\r\n\r\nWith love,\r\n\r\nIconspace Team",
+    "author": {
+      "_id": "5b6d4540dbac700036a114a5",
+      "display_name_slug": "designspace",
+      "avatar_url": "https://images.ui8.net/uploads/logogram_dark_1@2x_1584607720371.png",
+      "display_name": "Designspace",
+      "for_hire": true,
+      "ga_tracking_code": "UA-123960513-1",
+      "has_resized_avatar": true,
+      "avatar_url_version": 0
+    },
+    "author_ga_code": "UA-123960513-1",
+    "admin": false,
+    "loggedIn": false,
+    "videoEmbed": null,
+    "valid_pass": false,
+    "user_owns": false
+  }
+]

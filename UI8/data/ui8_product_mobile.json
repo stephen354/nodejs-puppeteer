@@ -1,0 +1,310 @@
+[
+  {
+    "title": "Figma Resources",
+    "subtitle": "Bazaria - E-Commerce Mobile App UI Kit",
+    "product": {
+      "_id": "6704a64fdda4d60033200bdc",
+      "type": "item",
+      "features": [
+        "80+ Screens",
+        "User Flow",
+        "Typography and Color Guides",
+        "Component",
+        "Organized Layer",
+        "Organized Layer"
+      ],
+      "exclusive": false,
+      "freebie": false,
+      "previously_featured": true,
+      "show_nav": false,
+      "compatibility": [
+        "Figma"
+      ],
+      "bundle_items": [],
+      "is_subscription": false,
+      "category": [
+        {
+          "_id": "5dcef2a215ff620038ff2701",
+          "name": "Figma Resources",
+          "slug": "figma"
+        },
+        {
+          "_id": "53cc9bc96f8ba8f9fa66d314",
+          "name": "UI Kits",
+          "slug": "ui-kits"
+        }
+      ],
+      "tags": [
+        {
+          "_id": "55c4d98aa73053a55af4c046",
+          "name": "iOS",
+          "slug": "ios"
+        },
+        {
+          "_id": "55c4f07ea73053a55af4c079",
+          "name": "mobile",
+          "slug": "mobile"
+        },
+        {
+          "_id": "56e738cef11b10f664c8fd10",
+          "name": "ecommerce",
+          "slug": "ecommerce"
+        }
+      ],
+      "has_scaled_images": false,
+      "has_resized_card_image": true,
+      "card_image_version": 1,
+      "hide_hero": false,
+      "seasonal_promo_enabled": false,
+      "status": "active",
+      "name": "Bazaria - E-Commerce Mobile App UI Kit",
+      "slug": "bazaria---e-commerce-mobile-app-ui-kit",
+      "blurb": "You'll get 80+ screens of Bazaria - E-Commerce Mobile App UI Kit",
+      "description": "Bazaria - E-Commerce Mobile App UI Kit is a sleek, modern, and highly customizable design solution tailored for all your mobile shopping needs. Built with both designers and developers in mind, this UI kit features over 50+ professionally crafted screens designed to deliver a seamless user experience.\r\n\r\nWhether you’re building a marketplace, an online store, or a product browsing app, Bazaria offers a wide array of components such as product listings, user profiles, shopping carts, checkout pages, and more. The minimalist design is perfect for fashion, electronics, lifestyle, and general e-commerce applications.\r\n\r\n🔥 What Will You Get\r\n✅ 80+ Screens\r\n✅ User Flow\r\n✅ Typography and Color Guides\r\n✅ Component\r\n✅ Organized Layer\r\n✅ Font Included\r\n\r\n\r\n💾 File Formats\r\nDueq - Mobile Banking App UI Kit is exclusively available on Figma to ensure smooth optimization, and updates.",
+      "price": 4500,
+      "card_image": "https://images.ui8.net/uploads/preview-9_1728357109269.jpg",
+      "live_preview": "",
+      "video_embed": "",
+      "hero_image": "https://images.ui8.net/uploads/preview-cover_1728357324028.jpg",
+      "detail_images": [
+        {
+          "video_poster_version": 0,
+          "_id": "6704de6fc8878100386e65f9",
+          "url": "https://images.ui8.net/uploads/preview-11_1728357333984.jpg",
+          "label": ""
+        },
+        {
+          "video_poster_version": 0,
+          "_id": "6704de6fc8878100386e65fa",
+          "url": "https://images.ui8.net/uploads/preview-11_1728357333975.jpg",
+          "label": ""
+        },
+        {
+          "video_poster_version": 0,
+          "_id": "6704de6fc8878100386e65fb",
+          "url": "https://images.ui8.net/uploads/preview-03_1728357370328.jpg",
+          "label": ""
+        },
+        {
+          "video_poster_version": 0,
+          "_id": "6704de6fc8878100386e65fc",
+          "url": "https://images.ui8.net/uploads/preview-11_1728357333957.jpg",
+          "label": ""
+        },
+        {
+          "video_poster_version": 0,
+          "_id": "6704de6fc8878100386e65fd",
+          "url": "https://images.ui8.net/uploads/preview-11_1728357333978.jpg",
+          "label": ""
+        },
+        {
+          "video_poster_version": 0,
+          "_id": "6704de6fc8878100386e65fe",
+          "url": "https://images.ui8.net/uploads/preview-11_1728357333980.jpg",
+          "label": ""
+        },
+        {
+          "video_poster_version": 0,
+          "_id": "6704de6fc8878100386e65ff",
+          "url": "https://images.ui8.net/uploads/preview-11_1728357333956.jpg",
+          "label": ""
+        },
+        {
+          "video_poster_version": 0,
+          "_id": "6704de6fc8878100386e6600",
+          "url": "https://images.ui8.net/uploads/preview-11_1728357333986.jpg",
+          "label": ""
+        }
+      ],
+      "files": [
+        {
+          "free": false,
+          "_id": "6704de6fc8878100386e6601",
+          "name": "E - Commerce.fig.zip",
+          "size": 176273553
+        }
+      ],
+      "full_preview_images": [],
+      "created_at": "2024-10-08T07:00:00.000Z",
+      "author": {
+        "_id": "65b8c07aea4c6e0042a68380",
+        "has_resized_avatar": true,
+        "avatar_url_version": 2,
+        "for_hire": true,
+        "display_name_slug": "caraka",
+        "avatar_url": "https://images.ui8.net/uploads/favicon_1706606960969.jpg",
+        "display_name": "Caraka",
+        "pro_author": false
+      },
+      "on_sale": false,
+      "updated_at": "2024-10-08T07:25:35.519Z",
+      "filesize": 176273553,
+      "discussion": {
+        "_id": "6704a66fc018900033befd5d",
+        "total_comments": 0,
+        "locked": false
+      },
+      "seasonal_promo_price": null,
+      "site_promo": false,
+      "source_url": "",
+      "video_intro": "",
+      "video_source": "",
+      "compatibility_string": "figma-compatible",
+      "free_files": [],
+      "paid_files": [
+        {
+          "free": false,
+          "_id": "6704de6fc8878100386e6601",
+          "name": "E - Commerce.fig.zip",
+          "size": 176273553
+        }
+      ]
+    },
+    "products": [
+      {
+        "category": [
+          {
+            "_id": "5dcef2a215ff620038ff2701",
+            "name": "Figma Resources",
+            "slug": "figma"
+          },
+          {
+            "_id": "53cc9bc96f8ba8f9fa66d314",
+            "name": "UI Kits",
+            "slug": "ui-kits"
+          }
+        ],
+        "has_scaled_images": false,
+        "has_resized_card_image": true,
+        "card_image_version": 1,
+        "seasonal_promo_enabled": false,
+        "_id": "66ff838d055987003305ec7b",
+        "name": "Merdamel - Job Finder App UI Kit",
+        "slug": "merdamel---job-finder-app-ui-kit",
+        "price": 4500,
+        "card_image": "https://images.ui8.net/uploads/preview-9_1728020451678.jpg",
+        "files": [
+          {
+            "free": false,
+            "_id": "67032d78e9bc8600323da353",
+            "name": "Job Finder App.fig.zip",
+            "size": 179049169
+          }
+        ],
+        "author": {
+          "has_resized_avatar": true,
+          "avatar_url_version": 2,
+          "_id": "65b8c07aea4c6e0042a68380",
+          "display_name_slug": "caraka",
+          "avatar_url": "https://images.ui8.net/uploads/favicon_1706606960969.jpg",
+          "display_name": "Caraka",
+          "pro_author": false
+        },
+        "on_sale": false,
+        "seasonal_promo_price": null,
+        "site_promo": false,
+        "likes": 3
+      },
+      {
+        "category": [
+          {
+            "_id": "53cc9bc96f8ba8f9fa66d314",
+            "name": "UI Kits",
+            "slug": "ui-kits"
+          }
+        ],
+        "has_scaled_images": false,
+        "has_resized_card_image": true,
+        "card_image_version": 1,
+        "seasonal_promo_enabled": false,
+        "_id": "66f635c99ee8e500324bb69c",
+        "name": "Booking Ticket Event App - UI Kit",
+        "slug": "booking-ticket-event-app---ui-kit",
+        "price": 5000,
+        "card_image": "https://images.ui8.net/uploads/preview_1727411237153.jpg",
+        "files": [
+          {
+            "free": false,
+            "_id": "66fa3c5082763b00322d6990",
+            "name": "Booking ticket event.fig.zip",
+            "size": 57795187
+          }
+        ],
+        "author": {
+          "has_resized_avatar": true,
+          "avatar_url_version": 2,
+          "_id": "65b8c07aea4c6e0042a68380",
+          "display_name_slug": "caraka",
+          "avatar_url": "https://images.ui8.net/uploads/favicon_1706606960969.jpg",
+          "display_name": "Caraka",
+          "pro_author": false
+        },
+        "on_sale": false,
+        "seasonal_promo_price": null,
+        "site_promo": false,
+        "likes": 10
+      },
+      {
+        "category": [
+          {
+            "_id": "5dcef2a215ff620038ff2701",
+            "name": "Figma Resources",
+            "slug": "figma"
+          },
+          {
+            "_id": "53cc9bc96f8ba8f9fa66d314",
+            "name": "UI Kits",
+            "slug": "ui-kits"
+          }
+        ],
+        "has_scaled_images": false,
+        "has_resized_card_image": true,
+        "card_image_version": 1,
+        "seasonal_promo_enabled": false,
+        "_id": "66975ffaafd58800335b1ad2",
+        "name": "Umah - Real Estate Mobile App UI Kit",
+        "slug": "umah---real-estate-mobile-app-ui-kit",
+        "price": 4500,
+        "card_image": "https://images.ui8.net/uploads/frame-1171276418_1721196376844.jpg",
+        "files": [
+          {
+            "free": false,
+            "_id": "669b39cdeebeda00381cdca1",
+            "name": "UI Kit - Umah Real Estate.fig.zip",
+            "size": 78604627
+          }
+        ],
+        "author": {
+          "has_resized_avatar": true,
+          "avatar_url_version": 2,
+          "_id": "65b8c07aea4c6e0042a68380",
+          "display_name_slug": "caraka",
+          "avatar_url": "https://images.ui8.net/uploads/favicon_1706606960969.jpg",
+          "display_name": "Caraka",
+          "pro_author": false
+        },
+        "on_sale": false,
+        "seasonal_promo_price": null,
+        "site_promo": false,
+        "likes": 49
+      }
+    ],
+    "previews": [],
+    "meta_description": "Bazaria - E-Commerce Mobile App UI Kit is a sleek, modern, and highly customizable design solution tailored for all your mobile shopping needs. Built with both designers and developers in mind, this UI kit features over 50+ professionally crafted screens designed to deliver a seamless user experience.\r\n\r\nWhether you’re building a marketplace, an online store, or a product browsing app, Bazaria offers a wide array of components such as product listings, user profiles, shopping carts, checkout pages, and more. The minimalist design is perfect for fashion, electronics, lifestyle, and general e-commerce applications.\r\n\r\n🔥 What Will You Get\r\n✅ 80+ Screens\r\n✅ User Flow\r\n✅ Typography and Color Guides\r\n✅ Component\r\n✅ Organized Layer\r\n✅ Font Included\r\n\r\n\r\n💾 File Formats\r\nDueq - Mobile Banking App UI Kit is exclusively available on Figma to ensure smooth optimization, and updates.",
+    "author": {
+      "_id": "65b8c07aea4c6e0042a68380",
+      "has_resized_avatar": true,
+      "avatar_url_version": 2,
+      "for_hire": true,
+      "display_name_slug": "caraka",
+      "avatar_url": "https://images.ui8.net/uploads/favicon_1706606960969.jpg",
+      "display_name": "Caraka",
+      "pro_author": false
+    },
+    "admin": false,
+    "loggedIn": false,
+    "videoEmbed": null,
+    "valid_pass": false,
+    "user_owns": false
+  }
+]

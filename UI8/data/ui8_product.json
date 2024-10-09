@@ -1,0 +1,381 @@
+[
+  {
+    "title": "Coded Templates",
+    "subtitle": "Core – Dashboard Builder",
+    "product": {
+      "_id": "618d1562d72285003d0c280d",
+      "type": "item",
+      "features": [
+        "376 exclusive pre-built templates",
+        "200+ components",
+        "Global styleguide included",
+        "Glossy light + dark mode",
+        "Free google fonts",
+        "Design + Code"
+      ],
+      "exclusive": false,
+      "freebie": false,
+      "previously_featured": true,
+      "show_nav": false,
+      "compatibility": [
+        "Bootstrap",
+        "Figma",
+        "HTML",
+        "React"
+      ],
+      "bundle_items": [],
+      "is_subscription": false,
+      "category": [
+        {
+          "_id": "5fe06d627c035c00455007b0",
+          "name": "Coded Templates",
+          "slug": "coded-templates"
+        },
+        {
+          "_id": "53cc9bc96f8ba8f9fa66d314",
+          "name": "UI Kits",
+          "slug": "ui-kits"
+        }
+      ],
+      "tags": [
+        {
+          "_id": "55c4eee0a73053a55af4c06e",
+          "name": "web",
+          "slug": "web"
+        },
+        {
+          "_id": "55c4f07ea73053a55af4c079",
+          "name": "mobile",
+          "slug": "mobile"
+        },
+        {
+          "_id": "56df6e32f11b10f664c8c07b",
+          "name": "finance",
+          "slug": "finance"
+        },
+        {
+          "_id": "56e738cef11b10f664c8fd10",
+          "name": "ecommerce",
+          "slug": "ecommerce"
+        },
+        {
+          "_id": "56f060b7f11b10f664c9538b",
+          "name": "dashboard",
+          "slug": "dashboard"
+        }
+      ],
+      "has_scaled_images": false,
+      "has_resized_card_image": true,
+      "card_image_version": 4,
+      "hide_hero": false,
+      "seasonal_promo_enabled": false,
+      "status": "active",
+      "name": "Core – Dashboard Builder",
+      "slug": "core-dashboard-builder",
+      "blurb": "Clean and minimal Dashboard UI Design Kit + code in HTML & React",
+      "price": 9800,
+      "description": "Core is a clean and minimal dashboard UI Kit targeting a wide variety of use cases for desktop, tablet, and mobile applications in awesome light or dark mode 🔥\r\n\r\nCore helps designers ideate dashboard projects faster and easier with 200+ components. This package includes responsive and fully customized templates with 376 clean & minimal pre-made screens. We've added a lot of different content to maximize the number of layout options. Drag, drop and mix different parts to quickly build your own Dashboard in a matter of minutes.\r\n\r\nTypes of dashboards included: Overview, Products, Promote, Schedules, Sign in, Sign up, Statements, Income, Notifications, Message center, Comments, Account Settings, Refunds, Pricing table, Affiliate center and shop.\r\n\r\n✨ The coded version in HTML + React and Bootstrap is now live! \r\n⚠️ Update April 2023: React has been updated to the latest version\r\n\r\nHave suggestions for additional content? Let us know in the comments 👇",
+      "live_preview": "https://ui8-core.herokuapp.com/index.html",
+      "video_embed": "",
+      "hero_image": "https://images.ui8.net/uploads/cover_1721272213100.png",
+      "card_image": "https://images.ui8.net/uploads/thumbnail_coded_1721272202487.png",
+      "files": [
+        {
+          "free": false,
+          "_id": "6698898df876f800348b1dbd",
+          "name": "Core - Dashboard Builder.zip",
+          "size": 226449297
+        }
+      ],
+      "detail_images": [
+        {
+          "video_poster_version": 0,
+          "_id": "6698898df876f800348b1dad",
+          "url": "https://images.ui8.net/uploads/preview-1_1721272247868.png",
+          "label": ""
+        },
+        {
+          "video_poster_version": 0,
+          "_id": "6698898df876f800348b1dae",
+          "url": "https://images.ui8.net/uploads/preview-2_1721272245892.png",
+          "label": ""
+        },
+        {
+          "video_poster_version": 0,
+          "_id": "6698898df876f800348b1daf",
+          "url": "https://images.ui8.net/uploads/preview-3_1721272243559.png",
+          "label": ""
+        },
+        {
+          "video_poster_version": 0,
+          "_id": "6698898df876f800348b1db0",
+          "url": "https://images.ui8.net/uploads/preview-4_1721272241018.png",
+          "label": ""
+        },
+        {
+          "video_poster_version": 0,
+          "_id": "6698898df876f800348b1db1",
+          "url": "https://images.ui8.net/uploads/preview-5_1721272238955.png",
+          "label": ""
+        },
+        {
+          "video_poster_version": 0,
+          "_id": "6698898df876f800348b1db2",
+          "url": "https://images.ui8.net/uploads/preview-6_1721272235976.png",
+          "label": ""
+        },
+        {
+          "video_poster_version": 0,
+          "_id": "6698898df876f800348b1db3",
+          "url": "https://images.ui8.net/uploads/preview-7_1721272232717.png",
+          "label": ""
+        },
+        {
+          "video_poster_version": 0,
+          "_id": "6698898df876f800348b1db4",
+          "url": "https://images.ui8.net/uploads/preview-8_1721272229257.png",
+          "label": ""
+        }
+      ],
+      "full_preview_images": [
+        {
+          "_id": "6698898df876f800348b1db5",
+          "url": "https://images.ui8.net/uploads/full-preview-01_1721272292905.png"
+        },
+        {
+          "_id": "6698898df876f800348b1db6",
+          "url": "https://images.ui8.net/uploads/full-preview-02_1721272291552.png"
+        },
+        {
+          "_id": "6698898df876f800348b1db7",
+          "url": "https://images.ui8.net/uploads/full-preview-03_1721272288488.png"
+        },
+        {
+          "_id": "6698898df876f800348b1db8",
+          "url": "https://images.ui8.net/uploads/full-preview-04_1721272285717.png"
+        },
+        {
+          "_id": "6698898df876f800348b1db9",
+          "url": "https://images.ui8.net/uploads/full-preview-05_1721272283263.png"
+        },
+        {
+          "_id": "6698898df876f800348b1dba",
+          "url": "https://images.ui8.net/uploads/full-preview-06_1721272281133.png"
+        },
+        {
+          "_id": "6698898df876f800348b1dbb",
+          "url": "https://images.ui8.net/uploads/full-preview-07_1721272277915.png"
+        },
+        {
+          "_id": "6698898df876f800348b1dbc",
+          "url": "https://images.ui8.net/uploads/full-preview-08_1721272274513.png"
+        }
+      ],
+      "created_at": "2022-01-19T08:00:00.000Z",
+      "author": {
+        "_id": "543edf703fbf6101242ebff0",
+        "display_name": "UI8",
+        "display_name_slug": "ui8",
+        "avatar_url": "https://images.ui8.net/uploads/ui8-v8_1677500074926.png",
+        "pro_author": false,
+        "for_hire": true,
+        "has_resized_avatar": true,
+        "avatar_url_version": 1
+      },
+      "on_sale": false,
+      "updated_at": "2024-07-18T03:18:38.531Z",
+      "seasonal_promo_price": null,
+      "site_promo": false,
+      "filesize": 226449297,
+      "source_url": "",
+      "video_intro": "",
+      "video_source": "",
+      "discussion": {
+        "_id": "618d5f49740190003c270df9",
+        "total_comments": 57,
+        "locked": false
+      },
+      "likes": 1563,
+      "compatibility_string": "bootstrap-compatible figma-compatible html-compatible react-compatible",
+      "free_files": [],
+      "paid_files": [
+        {
+          "free": false,
+          "_id": "6698898df876f800348b1dbd",
+          "name": "Core - Dashboard Builder.zip",
+          "size": 226449297
+        }
+      ]
+    },
+    "products": [
+      {
+        "category": [
+          {
+            "_id": "5dcef2a215ff620038ff2701",
+            "name": "Figma Resources",
+            "slug": "figma"
+          },
+          {
+            "_id": "5fe06d627c035c00455007b0",
+            "name": "Coded Templates",
+            "slug": "coded-templates"
+          },
+          {
+            "_id": "53cc9bc96f8ba8f9fa66d314",
+            "name": "UI Kits",
+            "slug": "ui-kits"
+          }
+        ],
+        "has_scaled_images": false,
+        "has_resized_card_image": true,
+        "card_image_version": 1,
+        "seasonal_promo_enabled": true,
+        "_id": "66f0eac413cd4e0033d4e426",
+        "name": "🍱 Bento Cards: Crypto",
+        "slug": "bento-cards-crypto",
+        "price": 5800,
+        "card_image": "https://images.ui8.net/uploads/thumbnail_1727064419546.png",
+        "files": [
+          {
+            "free": false,
+            "_id": "66f3db2d6c73070033fd976a",
+            "name": "bentocards-v4-crypto-design-code.zip",
+            "size": 38114051
+          }
+        ],
+        "author": {
+          "has_resized_avatar": true,
+          "avatar_url_version": 1,
+          "_id": "543edf703fbf6101242ebff0",
+          "display_name": "UI8",
+          "display_name_slug": "ui8",
+          "avatar_url": "https://images.ui8.net/uploads/ui8-v8_1677500074926.png",
+          "pro_author": false
+        },
+        "on_sale": false,
+        "seasonal_promo_price": 4600,
+        "site_promo": true,
+        "likes": 64
+      },
+      {
+        "category": [
+          {
+            "_id": "5b0e9e8e1149cd0035c03d30",
+            "name": "Illustrations",
+            "slug": "illustrations"
+          },
+          {
+            "_id": "5dcef2a215ff620038ff2701",
+            "name": "Figma Resources",
+            "slug": "figma"
+          }
+        ],
+        "has_scaled_images": false,
+        "has_resized_card_image": true,
+        "card_image_version": 1,
+        "seasonal_promo_enabled": false,
+        "_id": "66d9178f437f940034075fe5",
+        "name": "Outline Isometric Illustration Set for Figma",
+        "slug": "outline-isometric-illustration-set-for-figma",
+        "price": 4800,
+        "card_image": "https://images.ui8.net/uploads/thumbnail_1725503151743.png",
+        "files": [
+          {
+            "free": false,
+            "_id": "66d965fa7a33ea0032179975",
+            "name": "Outline isometric illustration set.pdf.zip",
+            "size": 136195
+          }
+        ],
+        "author": {
+          "has_resized_avatar": true,
+          "avatar_url_version": 1,
+          "_id": "543edf703fbf6101242ebff0",
+          "display_name": "UI8",
+          "display_name_slug": "ui8",
+          "avatar_url": "https://images.ui8.net/uploads/ui8-v8_1677500074926.png",
+          "pro_author": false
+        },
+        "on_sale": false,
+        "seasonal_promo_price": null,
+        "site_promo": false,
+        "likes": 51
+      },
+      {
+        "category": [
+          {
+            "_id": "5dcef2a215ff620038ff2701",
+            "name": "Figma Resources",
+            "slug": "figma"
+          },
+          {
+            "_id": "5fe06d627c035c00455007b0",
+            "name": "Coded Templates",
+            "slug": "coded-templates"
+          },
+          {
+            "_id": "53cc9bc96f8ba8f9fa66d314",
+            "name": "UI Kits",
+            "slug": "ui-kits"
+          }
+        ],
+        "has_scaled_images": false,
+        "has_resized_card_image": true,
+        "card_image_version": 1,
+        "seasonal_promo_enabled": false,
+        "_id": "66d6a448f4ae89003231e6f9",
+        "name": "🍱 Bento Cards: E-commerce",
+        "slug": "bentocards-ecommerce",
+        "price": 5800,
+        "card_image": "https://images.ui8.net/uploads/thumbnail_1725351209097.png",
+        "files": [
+          {
+            "free": false,
+            "_id": "66d6dd486632ac00334aba1c",
+            "name": "bento-ecommerce-code.zip",
+            "size": 35356400
+          },
+          {
+            "free": false,
+            "_id": "66d6dd486632ac00334aba1d",
+            "name": "Bento Cards E-commerce.pdf.zip",
+            "size": 156179
+          }
+        ],
+        "author": {
+          "has_resized_avatar": true,
+          "avatar_url_version": 1,
+          "_id": "543edf703fbf6101242ebff0",
+          "display_name": "UI8",
+          "display_name_slug": "ui8",
+          "avatar_url": "https://images.ui8.net/uploads/ui8-v8_1677500074926.png",
+          "pro_author": false
+        },
+        "on_sale": false,
+        "seasonal_promo_price": null,
+        "site_promo": false,
+        "likes": 100
+      }
+    ],
+    "previews": [
+      "full_preview_images",
+      "live_preview"
+    ],
+    "meta_description": "Core is a clean and minimal dashboard UI Kit targeting a wide variety of use cases for desktop, tablet, and mobile applications in awesome light or dark mode 🔥\r\n\r\nCore helps designers ideate dashboard projects faster and easier with 200+ components. This package includes responsive and fully customized templates with 376 clean & minimal pre-made screens. We've added a lot of different content to maximize the number of layout options. Drag, drop and mix different parts to quickly build your own Dashboard in a matter of minutes.\r\n\r\nTypes of dashboards included: Overview, Products, Promote, Schedules, Sign in, Sign up, Statements, Income, Notifications, Message center, Comments, Account Settings, Refunds, Pricing table, Affiliate center and shop.\r\n\r\n✨ The coded version in HTML + React and Bootstrap is now live! \r\n⚠️ Update April 2023: React has been updated to the latest version\r\n\r\nHave suggestions for additional content? Let us know in the comments 👇",
+    "author": {
+      "_id": "543edf703fbf6101242ebff0",
+      "display_name": "UI8",
+      "display_name_slug": "ui8",
+      "avatar_url": "https://images.ui8.net/uploads/ui8-v8_1677500074926.png",
+      "pro_author": false,
+      "for_hire": true,
+      "has_resized_avatar": true,
+      "avatar_url_version": 1
+    },
+    "admin": false,
+    "loggedIn": false,
+    "videoEmbed": null,
+    "valid_pass": false,
+    "user_owns": false
+  }
+]

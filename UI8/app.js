@@ -15,70 +15,7 @@ async function pushData(data) {
   fs.writeFileSync(dataPath, JSON.stringify(dataUI, null, 2));
 }
 
-async function processItem(item) {
-  return new Promise(async (resolve, reject) => {
-    // Tambahkan reject untuk error handling
-    setTimeout(async () => {
-      // setTimeout tetap asynchronous, tapi fungsi callback tetap butuh async
-      try {
-        let data = {};
-        const selectItem = "div > div.product__inner > div.product__head > a";
-        const selectPrice =
-          "div > div.product__inner > div.product__head > div > span";
-        const selectAuthor =
-          "div > div.product__inner > div.product__meta > div.product__author > a:nth-child(2)";
-        const selectCategory =
-          "div > div.product__inner > div.product__meta > div.product__category > a";
-
-        const [titleElements, priceElement, authorElement, categoryElement] =
-          await Promise.all([
-            item.$(selectItem), // Ambil semua elemen span yang cocok
-            item.$(selectPrice), // Ambil elemen harga
-            item.$(selectAuthor), // Ambil elemen author
-            item.$(selectCategory),
-          ]);
-
-        if (titleElements) {
-          const title = await titleElements.evaluate((el) => el.innerText);
-          data.title = title;
-        }
-        if (priceElement) {
-          const price = await priceElement.evaluate((el) => el.innerText);
-          data.price = price;
-        }
-        if (authorElement) {
-          const author = await authorElement.evaluate((el) => el.innerText);
-          data.author = author;
-        }
-        if (categoryElement) {
-          const category = await categoryElement.evaluate((el) => el.innerText);
-          data.category = category;
-        }
-
-        resolve(data);
-      } catch (error) {
-        reject(error); // Jika ada error, reject Promise
-      }
-    }, 1000);
-  });
-}
-
-async function processBatch(batch) {
-  const promises = batch.map((item) => processItem(item)); // Membuat array promise
-  const result = await Promise.all(promises);
-  console.log(result);
-  pushData(result); // Tunggu semua promise selesai
-}
-
-// Fungsi untuk membagi data menjadi batch dan memprosesnya 100
-async function processDataInBatches(data, batchSize) {
-  for (let i = 0; i < data.length; i += batchSize) {
-    const batch = data.slice(i, i + batchSize); // Ambil batch
-    await processBatch(batch); // Proses batch
-  }
-}
-
-(async () => {
+async function run(url, data, load) {
   const browser = await puppeteer.launch({
     headless: true, // Set ke false jika ingin melihat browser
     defaultViewport: {
@@ -88,10 +25,88 @@ async function processDataInBatches(data, batchSize) {
     }, // mengatur ukuran Mobile Desktop GUI
     userDataDir: "./tmp",
   });
-  const page = await browser.newPage();
 
+  async function processItem(item) {
+    return new Promise(async (resolve, reject) => {
+      // Tambahkan reject untuk error handling
+      setTimeout(async () => {
+        // setTimeout tetap asynchronous, tapi fungsi callback tetap butuh async
+        try {
+          const page = await browser.newPage();
+          const url = item;
+
+          // Ganti URL ini dengan halaman targetmu
+          // const url =
+          //   "https://ui8.net/finterface-1ade8a/products/finpal-ai-finance-assisstant-app-ui-kit";
+          // ------------------Mengatasi Captcha
+          await page.setUserAgent(
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36"
+          );
+          await page.setExtraHTTPHeaders({
+            "Accept-Language": "en-US,en;q=0.9",
+          });
+          // ------------------END Mengatasi Captcha
+
+          await page.goto(url, {
+            waitUntil: "networkidle0",
+            timeout: 60000,
+          });
+
+          await page.waitForSelector(
+            "div.body-container > div.body-content > div > div[ng-init]"
+          );
+
+          const initData = await page.$(
+            "div.body-container > div.body-content > div > div[ng-init]"
+          );
+          const data = await initData.evaluate((el) =>
+            el.getAttribute("ng-init")
+          );
+
+          const jsonString = data
+            .replace(/^init\(|\)$/g, "")
+            .trim()
+            .replace(/, undefined, false$/, "");
+          // Ambil bagian dalam kurung
+          const jsonData = JSON.parse(jsonString); // Ganti &quot; dengan tanda kutip yang benar
+
+          const dataUI = {
+            Name: jsonData.subtitle,
+            Author: jsonData.product.author.display_name,
+            Price: jsonData.product.seasonal_promo_price
+              ? jsonData.product.seasonal_promo_price / 100
+              : jsonData.product.price / 100,
+            Likes: jsonData.product.likes ?? 0,
+            Comment: jsonData.product.discussion.total_comments,
+            Featured: jsonData.product.previously_featured,
+            Published: jsonData.product.created_at,
+            Type: jsonData.product.tags,
+          };
+          await page.close();
+          resolve(dataUI);
+        } catch (error) {
+          reject(error); // Jika ada error, reject Promise
+        }
+      }, 1000);
+    });
+  }
+
+  async function processBatch(batch) {
+    const promises = batch.map((item) => processItem(item)); // Membuat array promise
+    const result = await Promise.all(promises);
+    console.log(result);
+    pushData(result); // Tunggu semua promise selesai
+  }
+
+  // Fungsi untuk membagi data menjadi batch dan memprosesnya 100
+  async function processDataInBatches(data, batchSize) {
+    for (let i = 0; i < data.length; i += batchSize) {
+      const batch = data.slice(i, i + batchSize); // Ambil batch
+      await processBatch(batch); // Proses batch
+    }
+  }
+  const page = await browser.newPage();
   // Ganti URL ini dengan halaman targetmu
-  const url = "https://ui8.net/category/ui-kits";
 
   // ------------------Mengatasi Captcha
   await page.setUserAgent(
@@ -153,10 +168,10 @@ async function processDataInBatches(data, batchSize) {
       i++;
     }
   }
-  await loadData(1000); //
-
+  await loadData(data); //
+  await page.waitForNetworkIdle({ idleTime: 1000, timeout: 30000 });
   //-----------------------Ambil Selector Product
-  const productSelector = "div.page__catalog.catalog > product-card";
+  const productSelector = "a.product__link";
   await page.waitForSelector(
     productSelector,
     { visible: true },
@@ -164,12 +179,20 @@ async function processDataInBatches(data, batchSize) {
   );
 
   const productElement = await page.$$(productSelector);
-  console.log(productElement.length);
+  let productUrl = [];
+  for (const p of productElement) {
+    let url = await p.evaluate((el) => el.getAttribute("href"));
+    productUrl.push("https://ui8.net" + url);
+  }
 
-  await processDataInBatches(productElement.slice(0, 999), 200).then(() => {
+  console.log(productUrl);
+
+  await processDataInBatches(productUrl.slice(0, data), load).then(() => {
     console.log("Semua data telah diproses");
   });
-
   console.log("Done");
   await browser.close();
-})();
+}
+// run (url , data , data per load)
+// Note : data per load max 7 (network and device can > 7)
+run("https://ui8.net/category/ui-kits", 3, 5);
