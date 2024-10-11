@@ -119,4 +119,4 @@ async function run(path, data_start, data_end, load) {
   await browser.close();
 }
 // payload (url, data_start , data_end , load)
-run("./data/ui8_url.json", 2980, 3200, 20);
+run("./data/ui8_url.json", null, null, 20);
